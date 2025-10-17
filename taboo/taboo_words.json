@@ -1,0 +1,3970 @@
+[
+    {
+        "word": "гора",
+        "taboo_word_1": "Эверест",
+        "taboo_word_2": "Магомет",
+        "taboo_word_3": "подъем",
+        "taboo_word_4": "высокий",
+        "taboo_word_5": "вершина"
+    },
+    {
+        "word": "река",
+        "taboo_word_1": "мост",
+        "taboo_word_2": "течение",
+        "taboo_word_3": "берег",
+        "taboo_word_4": "плыть",
+        "taboo_word_5": "протекать"
+    },
+    {
+        "word": "лес",
+        "taboo_word_1": "дремучий",
+        "taboo_word_2": "природа",
+        "taboo_word_3": "ель",
+        "taboo_word_4": "сосновый",
+        "taboo_word_5": "чаща"
+    },
+    {
+        "word": "океан",
+        "taboo_word_1": "тихий",
+        "taboo_word_2": "глубокий",
+        "taboo_word_3": "море",
+        "taboo_word_4": "мировой",
+        "taboo_word_5": "айсберг"
+    },
+    {
+        "word": "облако",
+        "taboo_word_1": "перистый",
+        "taboo_word_2": "небо",
+        "taboo_word_3": "Бог",
+        "taboo_word_4": "туманный",
+        "taboo_word_5": "белый"
+    },
+    {
+        "word": "звезда",
+        "taboo_word_1": "мерцать",
+        "taboo_word_2": "погаснуть",
+        "taboo_word_3": "кремль",
+        "taboo_word_4": "луна",
+        "taboo_word_5": "ночь"
+    },
+    {
+        "word": "комета",
+        "taboo_word_1": "звезда",
+        "taboo_word_2": "огненный",
+        "taboo_word_3": "планета",
+        "taboo_word_4": "ракета",
+        "taboo_word_5": "ядро"
+    },
+    {
+        "word": "галактика",
+        "taboo_word_1": "вечный",
+        "taboo_word_2": "бесконечность",
+        "taboo_word_3": "вселенная",
+        "taboo_word_4": "спутник",
+        "taboo_word_5": "туманность"
+    },
+    {
+        "word": "вулкан",
+        "taboo_word_1": "лавина",
+        "taboo_word_2": "гора",
+        "taboo_word_3": "грохот",
+        "taboo_word_4": "застывший",
+        "taboo_word_5": "катастрофа"
+    },
+    {
+        "word": "пустыня",
+        "taboo_word_1": "сахара",
+        "taboo_word_2": "жажда",
+        "taboo_word_3": "верблюд",
+        "taboo_word_4": "мираж",
+        "taboo_word_5": "песок"
+    },
+    {
+        "word": "остров",
+        "taboo_word_1": "необитаемый",
+        "taboo_word_2": "сокровища",
+        "taboo_word_3": "неизведанный",
+        "taboo_word_4": "бухта",
+        "taboo_word_5": "медвежий"
+    },
+    {
+        "word": "водопад",
+        "taboo_word_1": "поток",
+        "taboo_word_2": "горный",
+        "taboo_word_3": "утёс",
+        "taboo_word_4": "каскад",
+        "taboo_word_5": "бурный"
+    },
+    {
+        "word": "пещера",
+        "taboo_word_1": "жилище",
+        "taboo_word_2": "древний",
+        "taboo_word_3": "минерал",
+        "taboo_word_4": "дыра",
+        "taboo_word_5": "ледяной"
+    },
+    {
+        "word": "утёс",
+        "taboo_word_1": "гладкий",
+        "taboo_word_2": "скала",
+        "taboo_word_3": "неприступный",
+        "taboo_word_4": "гора",
+        "taboo_word_5": "обрыв"
+    },
+    {
+        "word": "равнина",
+        "taboo_word_1": "гора",
+        "taboo_word_2": "долина",
+        "taboo_word_3": "низменный",
+        "taboo_word_4": "плоскость",
+        "taboo_word_5": "поле"
+    },
+    {
+        "word": "джунгли",
+        "taboo_word_1": "непроходимый",
+        "taboo_word_2": "дебри",
+        "taboo_word_3": "Амазонка",
+        "taboo_word_4": "обезьяна",
+        "taboo_word_5": "зов"
+    },
+    {
+        "word": "степь",
+        "taboo_word_1": "простор",
+        "taboo_word_2": "широкий",
+        "taboo_word_3": "саксаул",
+        "taboo_word_4": "поле",
+        "taboo_word_5": "ветер"
+    },
+    {
+        "word": "болото",
+        "taboo_word_1": "трясина",
+        "taboo_word_2": "топи",
+        "taboo_word_3": "жаба",
+        "taboo_word_4": "клюква",
+        "taboo_word_5": "вода"
+    },
+    {
+        "word": "луг",
+        "taboo_word_1": "зеленый",
+        "taboo_word_2": "заливной",
+        "taboo_word_3": "поле",
+        "taboo_word_4": "трава",
+        "taboo_word_5": "бабочка"
+    },
+    {
+        "word": "цветок",
+        "taboo_word_1": "полевой",
+        "taboo_word_2": "стебель",
+        "taboo_word_3": "пахнуть",
+        "taboo_word_4": "ландыш",
+        "taboo_word_5": "одуванчик"
+    },
+    {
+        "word": "трава",
+        "taboo_word_1": "мурава",
+        "taboo_word_2": "зеленый",
+        "taboo_word_3": "стебель",
+        "taboo_word_4": "роса",
+        "taboo_word_5": "косить"
+    },
+    {
+        "word": "мох",
+        "taboo_word_1": "болото",
+        "taboo_word_2": "сырой",
+        "taboo_word_3": "заросший",
+        "taboo_word_4": "лес",
+        "taboo_word_5": "растение"
+    },
+    {
+        "word": "гриб",
+        "taboo_word_1": "мухомор",
+        "taboo_word_2": "червивый",
+        "taboo_word_3": "дождь",
+        "taboo_word_4": "лес",
+        "taboo_word_5": "белый"
+    },
+    {
+        "word": "корень",
+        "taboo_word_1": "женьшень",
+        "taboo_word_2": "стебель",
+        "taboo_word_3": "квадратный",
+        "taboo_word_4": "дерево",
+        "taboo_word_5": "почва"
+    },
+    {
+        "word": "ствол",
+        "taboo_word_1": "пистолет",
+        "taboo_word_2": "кора",
+        "taboo_word_3": "дерево",
+        "taboo_word_4": "шероховатый",
+        "taboo_word_5": "ветка"
+    },
+    {
+        "word": "лист",
+        "taboo_word_1": "кленовый",
+        "taboo_word_2": "дерево",
+        "taboo_word_3": "желтый",
+        "taboo_word_4": "чистый",
+        "taboo_word_5": "бумага"
+    },
+    {
+        "word": "ветка",
+        "taboo_word_1": "ствол",
+        "taboo_word_2": "прут",
+        "taboo_word_3": "сук",
+        "taboo_word_4": "верба",
+        "taboo_word_5": "дерево"
+    },
+    {
+        "word": "почка",
+        "taboo_word_1": "орган",
+        "taboo_word_2": "весна",
+        "taboo_word_3": "лист",
+        "taboo_word_4": "дерево",
+        "taboo_word_5": "печень"
+    },
+    {
+        "word": "семя",
+        "taboo_word_1": "зерно",
+        "taboo_word_2": "пшеница",
+        "taboo_word_3": "растение",
+        "taboo_word_4": "плод",
+        "taboo_word_5": "сеять"
+    },
+    {
+        "word": "плод",
+        "taboo_word_1": "запретный",
+        "taboo_word_2": "спелый",
+        "taboo_word_3": "фрукт",
+        "taboo_word_4": "косточка",
+        "taboo_word_5": "сад"
+    },
+    {
+        "word": "ягода",
+        "taboo_word_1": "малина",
+        "taboo_word_2": "смородина",
+        "taboo_word_3": "плод",
+        "taboo_word_4": "сладкий",
+        "taboo_word_5": "куст"
+    },
+    {
+        "word": "орех",
+        "taboo_word_1": "грецкий",
+        "taboo_word_2": "расколоть",
+        "taboo_word_3": "скорлупа",
+        "taboo_word_4": "крепкий",
+        "taboo_word_5": "Щелкунчик"
+    },
+    {
+        "word": "кора",
+        "taboo_word_1": "береза",
+        "taboo_word_2": "дерево",
+        "taboo_word_3": "слой",
+        "taboo_word_4": "мозг",
+        "taboo_word_5": "поверхность"
+    },
+    {
+        "word": "сок",
+        "taboo_word_1": "жидкость",
+        "taboo_word_2": "березовый",
+        "taboo_word_3": "яблочный",
+        "taboo_word_4": "фрукт",
+        "taboo_word_5": "пить"
+    },
+    {
+        "word": "пыльца",
+        "taboo_word_1": "цветок",
+        "taboo_word_2": "аллергия",
+        "taboo_word_3": "пчела",
+        "taboo_word_4": "пахнуть",
+        "taboo_word_5": "насекомое"
+    },
+    {
+        "word": "роса",
+        "taboo_word_1": "капля",
+        "taboo_word_2": "утро",
+        "taboo_word_3": "босой",
+        "taboo_word_4": "трава",
+        "taboo_word_5": "мокрый"
+    },
+    {
+        "word": "иней",
+        "taboo_word_1": "синий",
+        "taboo_word_2": "мороз",
+        "taboo_word_3": "зима",
+        "taboo_word_4": "серебряный",
+        "taboo_word_5": "снег"
+    },
+    {
+        "word": "снег",
+        "taboo_word_1": "белый",
+        "taboo_word_2": "таять",
+        "taboo_word_3": "холодный",
+        "taboo_word_4": "зима",
+        "taboo_word_5": "Новый год"
+    },
+    {
+        "word": "дождь",
+        "taboo_word_1": "проливной",
+        "taboo_word_2": "зонт",
+        "taboo_word_3": "погода",
+        "taboo_word_4": "осень",
+        "taboo_word_5": "капля"
+    },
+    {
+        "word": "град",
+        "taboo_word_1": "крупный",
+        "taboo_word_2": "снег",
+        "taboo_word_3": "дождь",
+        "taboo_word_4": "осадки",
+        "taboo_word_5": "погода"
+    },
+    {
+        "word": "гром",
+        "taboo_word_1": "грянуть",
+        "taboo_word_2": "молния",
+        "taboo_word_3": "гроза",
+        "taboo_word_4": "грохот",
+        "taboo_word_5": "раскат"
+    },
+    {
+        "word": "ветер",
+        "taboo_word_1": "сильный",
+        "taboo_word_2": "дуть",
+        "taboo_word_3": "воздух",
+        "taboo_word_4": "мельница",
+        "taboo_word_5": "порыв"
+    },
+    {
+        "word": "ураган",
+        "taboo_word_1": "смерч",
+        "taboo_word_2": "стихия",
+        "taboo_word_3": "ветер",
+        "taboo_word_4": "буря",
+        "taboo_word_5": "бедствие"
+    },
+    {
+        "word": "туман",
+        "taboo_word_1": "густой",
+        "taboo_word_2": "видеть",
+        "taboo_word_3": "синий",
+        "taboo_word_4": "дым",
+        "taboo_word_5": "утренний"
+    },
+    {
+        "word": "радуга",
+        "taboo_word_1": "дождь",
+        "taboo_word_2": "горизонт",
+        "taboo_word_3": "небо",
+        "taboo_word_4": "солнце",
+        "taboo_word_5": "цвет"
+    },
+    {
+        "word": "закат",
+        "taboo_word_1": "рассвет",
+        "taboo_word_2": "малиновый",
+        "taboo_word_3": "вечер",
+        "taboo_word_4": "солнце",
+        "taboo_word_5": "небо"
+    },
+    {
+        "word": "рассвет",
+        "taboo_word_1": "ранний",
+        "taboo_word_2": "утро",
+        "taboo_word_3": "солнце",
+        "taboo_word_4": "закат",
+        "taboo_word_5": "заря"
+    },
+    {
+        "word": "луна",
+        "taboo_word_1": "месяц",
+        "taboo_word_2": "солнце",
+        "taboo_word_3": "ночь",
+        "taboo_word_4": "звезда",
+        "taboo_word_5": "спутник"
+    },
+    {
+        "word": "солнце",
+        "taboo_word_1": "луна",
+        "taboo_word_2": "закат",
+        "taboo_word_3": "свет",
+        "taboo_word_4": "восход",
+        "taboo_word_5": "небо"
+    },
+    {
+        "word": "планета",
+        "taboo_word_1": "Земля",
+        "taboo_word_2": "орбита",
+        "taboo_word_3": "звезда",
+        "taboo_word_4": "космос",
+        "taboo_word_5": "астрономия"
+    },
+    {
+        "word": "источник",
+        "taboo_word_1": "минеральный",
+        "taboo_word_2": "родник",
+        "taboo_word_3": "информация",
+        "taboo_word_4": "термальный",
+        "taboo_word_5": "газета"
+    },
+    {
+        "word": "ручей",
+        "taboo_word_1": "журчать",
+        "taboo_word_2": "чистый",
+        "taboo_word_3": "весна",
+        "taboo_word_4": "родник",
+        "taboo_word_5": "река"
+    },
+    {
+        "word": "пруд",
+        "taboo_word_1": "водоем",
+        "taboo_word_2": "озеро",
+        "taboo_word_3": "болото",
+        "taboo_word_4": "заводь",
+        "taboo_word_5": "лягушка"
+    },
+    {
+        "word": "озеро",
+        "taboo_word_1": "Байкал",
+        "taboo_word_2": "река",
+        "taboo_word_3": "водоем",
+        "taboo_word_4": "глубокий",
+        "taboo_word_5": "болото"
+    },
+    {
+        "word": "залив",
+        "taboo_word_1": "финский",
+        "taboo_word_2": "гавань",
+        "taboo_word_3": "берег",
+        "taboo_word_4": "море",
+        "taboo_word_5": "вода"
+    },
+    {
+        "word": "мыс",
+        "taboo_word_1": "море",
+        "taboo_word_2": "обрыв",
+        "taboo_word_3": "берег",
+        "taboo_word_4": "суша",
+        "taboo_word_5": "остов"
+    },
+    {
+        "word": "континент",
+        "taboo_word_1": "Евразия",
+        "taboo_word_2": "суша",
+        "taboo_word_3": "океан",
+        "taboo_word_4": "материк",
+        "taboo_word_5": "страна"
+    },
+    {
+        "word": "полюс",
+        "taboo_word_1": "магнитный",
+        "taboo_word_2": "Арктика",
+        "taboo_word_3": "север",
+        "taboo_word_4": "юг",
+        "taboo_word_5": "карта"
+    },
+    {
+        "word": "климат",
+        "taboo_word_1": "суровый",
+        "taboo_word_2": "жаркий",
+        "taboo_word_3": "мягкий",
+        "taboo_word_4": "погода",
+        "taboo_word_5": "влажность"
+    },
+    {
+        "word": "погода",
+        "taboo_word_1": "дождь",
+        "taboo_word_2": "ветряный",
+        "taboo_word_3": "природа",
+        "taboo_word_4": "солнце",
+        "taboo_word_5": "прогноз"
+    },
+    {
+        "word": "сезон",
+        "taboo_word_1": "бархатный",
+        "taboo_word_2": "дачный",
+        "taboo_word_3": "зима",
+        "taboo_word_4": "время",
+        "taboo_word_5": "год"
+    },
+    {
+        "word": "весна",
+        "taboo_word_1": "цветы",
+        "taboo_word_2": "почки",
+        "taboo_word_3": "тепло",
+        "taboo_word_4": "зелень",
+        "taboo_word_5": "сезон"
+    },
+    {
+        "word": "лето",
+        "taboo_word_1": "жара",
+        "taboo_word_2": "купаться",
+        "taboo_word_3": "каникулы",
+        "taboo_word_4": "сезон",
+        "taboo_word_5": "море"
+    },
+    {
+        "word": "осень",
+        "taboo_word_1": "листья",
+        "taboo_word_2": "дождь",
+        "taboo_word_3": "погода",
+        "taboo_word_4": "лужи",
+        "taboo_word_5": "грязь"
+    },
+    {
+        "word": "зима",
+        "taboo_word_1": "снег",
+        "taboo_word_2": "мороз",
+        "taboo_word_3": "Новый год",
+        "taboo_word_4": "холод",
+        "taboo_word_5": "метель"
+    },
+    {
+        "word": "ночь",
+        "taboo_word_1": "луна",
+        "taboo_word_2": "темно",
+        "taboo_word_3": "день",
+        "taboo_word_4": "звезда",
+        "taboo_word_5": "черный"
+    },
+    {
+        "word": "день",
+        "taboo_word_1": "сутки",
+        "taboo_word_2": "календарь",
+        "taboo_word_3": "тяжелый",
+        "taboo_word_4": "месяц",
+        "taboo_word_5": "ночь"
+    },
+    {
+        "word": "час",
+        "taboo_word_1": "минута",
+        "taboo_word_2": "тихий",
+        "taboo_word_3": "секунда",
+        "taboo_word_4": "время",
+        "taboo_word_5": "цифра"
+    },
+    {
+        "word": "минута",
+        "taboo_word_1": "час",
+        "taboo_word_2": "секунда",
+        "taboo_word_3": "время",
+        "taboo_word_4": "пять",
+        "taboo_word_5": "время"
+    },
+    {
+        "word": "секунда",
+        "taboo_word_1": "минута",
+        "taboo_word_2": "мгновение",
+        "taboo_word_3": "миг",
+        "taboo_word_4": "час",
+        "taboo_word_5": "время"
+    },
+    {
+        "word": "век",
+        "taboo_word_1": "эра",
+        "taboo_word_2": "каменный",
+        "taboo_word_3": "год",
+        "taboo_word_4": "золотой",
+        "taboo_word_5": "тысяча"
+    },
+    {
+        "word": "эпоха",
+        "taboo_word_1": "Средневековье",
+        "taboo_word_2": "Возрождение",
+        "taboo_word_3": "Сталин",
+        "taboo_word_4": "период",
+        "taboo_word_5": "эра"
+    },
+    {
+        "word": "история",
+        "taboo_word_1": "рассказывать",
+        "taboo_word_2": "литература",
+        "taboo_word_3": "летопись",
+        "taboo_word_4": "древность",
+        "taboo_word_5": "событие"
+    },
+    {
+        "word": "будущее",
+        "taboo_word_1": "предвидеть",
+        "taboo_word_2": "настоящее",
+        "taboo_word_3": "прошлое",
+        "taboo_word_4": "светлый",
+        "taboo_word_5": "планы"
+    },
+    {
+        "word": "настоящее",
+        "taboo_word_1": "прошлое",
+        "taboo_word_2": "реальность",
+        "taboo_word_3": "будущее",
+        "taboo_word_4": "актуальный",
+        "taboo_word_5": "сейчас"
+    },
+    {
+        "word": "прошлое",
+        "taboo_word_1": "вспоминать",
+        "taboo_word_2": "забыть",
+        "taboo_word_3": "история",
+        "taboo_word_4": "будущее",
+        "taboo_word_5": "настоящее"
+    },
+    {
+        "word": "время",
+        "taboo_word_1": "проводить",
+        "taboo_word_2": "период",
+        "taboo_word_3": "час",
+        "taboo_word_4": "минута",
+        "taboo_word_5": "спросить"
+    },
+    {
+        "word": "пространство",
+        "taboo_word_1": "пустота",
+        "taboo_word_2": "космос",
+        "taboo_word_3": "воздух",
+        "taboo_word_4": "время",
+        "taboo_word_5": "замкнутый"
+    },
+    {
+        "word": "вселенная",
+        "taboo_word_1": "бесконечность",
+        "taboo_word_2": "космос",
+        "taboo_word_3": "человечество",
+        "taboo_word_4": "мир",
+        "taboo_word_5": "вечность"
+    },
+    {
+        "word": "материя",
+        "taboo_word_1": "вещество",
+        "taboo_word_2": "частица",
+        "taboo_word_3": "шёлк",
+        "taboo_word_4": "полотно",
+        "taboo_word_5": "ткать"
+    },
+    {
+        "word": "энергия",
+        "taboo_word_1": "гидроэлектростанция",
+        "taboo_word_2": "атомный",
+        "taboo_word_3": "импульс",
+        "taboo_word_4": "топливо",
+        "taboo_word_5": "батарейка"
+    },
+    {
+        "word": "свет",
+        "taboo_word_1": "лампа",
+        "taboo_word_2": "тусклый",
+        "taboo_word_3": "яркий",
+        "taboo_word_4": "включить",
+        "taboo_word_5": "электричество"
+    },
+    {
+        "word": "тень",
+        "taboo_word_1": "чёрный",
+        "taboo_word_2": "силуэт",
+        "taboo_word_3": "прохлада",
+        "taboo_word_4": "бросать",
+        "taboo_word_5": "свет"
+    },
+    {
+        "word": "звук",
+        "taboo_word_1": "громкий",
+        "taboo_word_2": "слышать",
+        "taboo_word_3": "голос",
+        "taboo_word_4": "музыка",
+        "taboo_word_5": "сигнал"
+    },
+    {
+        "word": "тишина",
+        "taboo_word_1": "гробовой",
+        "taboo_word_2": "покой",
+        "taboo_word_3": "шепот",
+        "taboo_word_4": "молчать",
+        "taboo_word_5": "спокойствие"
+    },
+    {
+        "word": "шум",
+        "taboo_word_1": "гам",
+        "taboo_word_2": "грохот",
+        "taboo_word_3": "слышать",
+        "taboo_word_4": "громкий",
+        "taboo_word_5": "город"
+    },
+    {
+        "word": "музыка",
+        "taboo_word_1": "слушать",
+        "taboo_word_2": "песня",
+        "taboo_word_3": "танцевать",
+        "taboo_word_4": "мелодия",
+        "taboo_word_5": "дискотека"
+    },
+    {
+        "word": "мелодия",
+        "taboo_word_1": "песня",
+        "taboo_word_2": "мотив",
+        "taboo_word_3": "музыка",
+        "taboo_word_4": "звучать",
+        "taboo_word_5": "голос"
+    },
+    {
+        "word": "ритм",
+        "taboo_word_1": "пульс",
+        "taboo_word_2": "четкий",
+        "taboo_word_3": "темп",
+        "taboo_word_4": "сердечный",
+        "taboo_word_5": "танцевать"
+    },
+    {
+        "word": "аккорд",
+        "taboo_word_1": "мелодия",
+        "taboo_word_2": "музыкальный",
+        "taboo_word_3": "играть",
+        "taboo_word_4": "тон",
+        "taboo_word_5": "финальный"
+    },
+    {
+        "word": "нота",
+        "taboo_word_1": "фальшивый",
+        "taboo_word_2": "аккорд",
+        "taboo_word_3": "струна",
+        "taboo_word_4": "песня",
+        "taboo_word_5": "мелодия"
+    },
+    {
+        "word": "голос",
+        "taboo_word_1": "громкий",
+        "taboo_word_2": "звук",
+        "taboo_word_3": "петь",
+        "taboo_word_4": "сопрано",
+        "taboo_word_5": "слышать"
+    },
+    {
+        "word": "слово",
+        "taboo_word_1": "сказать",
+        "taboo_word_2": "честный",
+        "taboo_word_3": "фраза",
+        "taboo_word_4": "держать",
+        "taboo_word_5": "речь"
+    },
+    {
+        "word": "фраза",
+        "taboo_word_1": "ключевой",
+        "taboo_word_2": "слово",
+        "taboo_word_3": "крылатый",
+        "taboo_word_4": "предложение",
+        "taboo_word_5": "реплика"
+    },
+    {
+        "word": "текст",
+        "taboo_word_1": "бессвязный",
+        "taboo_word_2": "абзац",
+        "taboo_word_3": "предложение",
+        "taboo_word_4": "читать",
+        "taboo_word_5": "печатать"
+    },
+    {
+        "word": "книга",
+        "taboo_word_1": "читать",
+        "taboo_word_2": "полка",
+        "taboo_word_3": "литература",
+        "taboo_word_4": "типография",
+        "taboo_word_5": "сборник"
+    },
+    {
+        "word": "страница",
+        "taboo_word_1": "абзац",
+        "taboo_word_2": "книга",
+        "taboo_word_3": "лист",
+        "taboo_word_4": "глава",
+        "taboo_word_5": "литература"
+    },
+    {
+        "word": "буква",
+        "taboo_word_1": "алфавит",
+        "taboo_word_2": "цифра",
+        "taboo_word_3": "слово",
+        "taboo_word_4": "шрифт",
+        "taboo_word_5": "слог"
+    },
+    {
+        "word": "язык",
+        "taboo_word_1": "иностранный",
+        "taboo_word_2": "родной",
+        "taboo_word_3": "английский",
+        "taboo_word_4": "речь",
+        "taboo_word_5": "говорить"
+    },
+    {
+        "word": "диалект",
+        "taboo_word_1": "местный",
+        "taboo_word_2": "акцент",
+        "taboo_word_3": "говор",
+        "taboo_word_4": "особенность",
+        "taboo_word_5": "речь"
+    },
+    {
+        "word": "акцент",
+        "taboo_word_1": "иностранный",
+        "taboo_word_2": "произношение",
+        "taboo_word_3": "диалект",
+        "taboo_word_4": "речь",
+        "taboo_word_5": "язык"
+    },
+    {
+        "word": "речь",
+        "taboo_word_1": "Посполитая",
+        "taboo_word_2": "бессвязный",
+        "taboo_word_3": "сказать",
+        "taboo_word_4": "грамотная",
+        "taboo_word_5": "язык"
+    },
+    {
+        "word": "диалог",
+        "taboo_word_1": "монолог",
+        "taboo_word_2": "беседа",
+        "taboo_word_3": "вести",
+        "taboo_word_4": "дискуссия",
+        "taboo_word_5": "конструктивный"
+    },
+    {
+        "word": "монолог",
+        "taboo_word_1": "диалог",
+        "taboo_word_2": "рассказ",
+        "taboo_word_3": "беседа",
+        "taboo_word_4": "повествование",
+        "taboo_word_5": "речь"
+    },
+    {
+        "word": "рассказ",
+        "taboo_word_1": "текст",
+        "taboo_word_2": "история",
+        "taboo_word_3": "литература",
+        "taboo_word_4": "книга",
+        "taboo_word_5": "роман"
+    },
+    {
+        "word": "роман",
+        "taboo_word_1": "любовный",
+        "taboo_word_2": "читать",
+        "taboo_word_3": "писать",
+        "taboo_word_4": "произведение",
+        "taboo_word_5": "книга"
+    },
+    {
+        "word": "поэма",
+        "taboo_word_1": "стихотворение",
+        "taboo_word_2": "вдохновение",
+        "taboo_word_3": "жанр",
+        "taboo_word_4": "роман",
+        "taboo_word_5": "лирический"
+    },
+    {
+        "word": "стих",
+        "taboo_word_1": "рифма",
+        "taboo_word_2": "учить",
+        "taboo_word_3": "песня",
+        "taboo_word_4": "проза",
+        "taboo_word_5": "слог"
+    },
+    {
+        "word": "драма",
+        "taboo_word_1": "спектакль",
+        "taboo_word_2": "театр",
+        "taboo_word_3": "комедия",
+        "taboo_word_4": "трагедия",
+        "taboo_word_5": "пьеса"
+    },
+    {
+        "word": "комедия",
+        "taboo_word_1": "жанр",
+        "taboo_word_2": "кино",
+        "taboo_word_3": "трагедия",
+        "taboo_word_4": "театр",
+        "taboo_word_5": "смех"
+    },
+    {
+        "word": "трагедия",
+        "taboo_word_1": "авария",
+        "taboo_word_2": "театр",
+        "taboo_word_3": "комедия",
+        "taboo_word_4": "происшествие",
+        "taboo_word_5": "смерть"
+    },
+    {
+        "word": "сцена",
+        "taboo_word_1": "спектакль",
+        "taboo_word_2": "театр",
+        "taboo_word_3": "выступать",
+        "taboo_word_4": "актер",
+        "taboo_word_5": "петь"
+    },
+    {
+        "word": "театр",
+        "taboo_word_1": "кино",
+        "taboo_word_2": "спектакль",
+        "taboo_word_3": "культура",
+        "taboo_word_4": "билет",
+        "taboo_word_5": "опера"
+    },
+    {
+        "word": "кино",
+        "taboo_word_1": "фильм",
+        "taboo_word_2": "смотреть",
+        "taboo_word_3": "попкорн",
+        "taboo_word_4": "театр",
+        "taboo_word_5": "билет"
+    },
+    {
+        "word": "кадр",
+        "taboo_word_1": "ценный",
+        "taboo_word_2": "стоп",
+        "taboo_word_3": "фотоаппарат",
+        "taboo_word_4": "фильм",
+        "taboo_word_5": "отдел"
+    },
+    {
+        "word": "сюжет",
+        "taboo_word_1": "захватывающий",
+        "taboo_word_2": "книга",
+        "taboo_word_3": "фильм",
+        "taboo_word_4": "тема",
+        "taboo_word_5": "персонаж"
+    },
+    {
+        "word": "герой",
+        "taboo_word_1": "национальный",
+        "taboo_word_2": "война",
+        "taboo_word_3": "книга",
+        "taboo_word_4": "подвиг",
+        "taboo_word_5": "храбрость"
+    },
+    {
+        "word": "образ",
+        "taboo_word_1": "облик",
+        "taboo_word_2": "черта",
+        "taboo_word_3": "персонаж",
+        "taboo_word_4": "идея",
+        "taboo_word_5": "форма"
+    },
+    {
+        "word": "символ",
+        "taboo_word_1": "знамя",
+        "taboo_word_2": "знак",
+        "taboo_word_3": "герб",
+        "taboo_word_4": "математический",
+        "taboo_word_5": "эмблема"
+    },
+    {
+        "word": "ирония",
+        "taboo_word_1": "зло",
+        "taboo_word_2": "прикол",
+        "taboo_word_3": "судьба",
+        "taboo_word_4": "сарказ",
+        "taboo_word_5": "шутка"
+    },
+    {
+        "word": "юмор",
+        "taboo_word_1": "сатира",
+        "taboo_word_2": "шутка",
+        "taboo_word_3": "тонкий",
+        "taboo_word_4": "черный",
+        "taboo_word_5": "смех"
+    },
+    {
+        "word": "смех",
+        "taboo_word_1": "заразительный",
+        "taboo_word_2": "шутка",
+        "taboo_word_3": "истерический",
+        "taboo_word_4": "юмор",
+        "taboo_word_5": "веселый"
+    },
+    {
+        "word": "слеза",
+        "taboo_word_1": "плакать",
+        "taboo_word_2": "капля",
+        "taboo_word_3": "боль",
+        "taboo_word_4": "глаза",
+        "taboo_word_5": "грусть"
+    },
+    {
+        "word": "боль",
+        "taboo_word_1": "чувствовать",
+        "taboo_word_2": "причинить",
+        "taboo_word_3": "страдание",
+        "taboo_word_4": "зубная",
+        "taboo_word_5": "рана"
+    },
+    {
+        "word": "радость",
+        "taboo_word_1": "удовольствие",
+        "taboo_word_2": "улыбка",
+        "taboo_word_3": "победа",
+        "taboo_word_4": "грусть",
+        "taboo_word_5": "праздник"
+    },
+    {
+        "word": "грусть",
+        "taboo_word_1": "печаль",
+        "taboo_word_2": "сожаление",
+        "taboo_word_3": "радость",
+        "taboo_word_4": "расставание",
+        "taboo_word_5": "тоска"
+    },
+    {
+        "word": "страх",
+        "taboo_word_1": "бояться",
+        "taboo_word_2": "испуг",
+        "taboo_word_3": "смерть",
+        "taboo_word_4": "ужас",
+        "taboo_word_5": "дрожать"
+    },
+    {
+        "word": "гнев",
+        "taboo_word_1": "ярость",
+        "taboo_word_2": "раздражение",
+        "taboo_word_3": "кричать",
+        "taboo_word_4": "ненависть",
+        "taboo_word_5": "ссора"
+    },
+    {
+        "word": "удивление",
+        "taboo_word_1": "восторг",
+        "taboo_word_2": "изумление",
+        "taboo_word_3": "неожиданность",
+        "taboo_word_4": "недоумение",
+        "taboo_word_5": "вопить"
+    },
+    {
+        "word": "отвращение",
+        "taboo_word_1": "неприязнь",
+        "taboo_word_2": "брезгливость",
+        "taboo_word_3": "гадость",
+        "taboo_word_4": "мерзкий",
+        "taboo_word_5": "презрение"
+    },
+    {
+        "word": "любовь",
+        "taboo_word_1": "амур",
+        "taboo_word_2": "сердце",
+        "taboo_word_3": "ревность",
+        "taboo_word_4": "поцелуй",
+        "taboo_word_5": "нежность"
+    },
+    {
+        "word": "ненависть",
+        "taboo_word_1": "любовь",
+        "taboo_word_2": "зависть",
+        "taboo_word_3": "неприязнь",
+        "taboo_word_4": "ярость",
+        "taboo_word_5": "злоба"
+    },
+    {
+        "word": "зависть",
+        "taboo_word_1": "корысть",
+        "taboo_word_2": "ненависть",
+        "taboo_word_3": "деньги",
+        "taboo_word_4": "чувство",
+        "taboo_word_5": "белый"
+    },
+    {
+        "word": "ревность",
+        "taboo_word_1": "измена",
+        "taboo_word_2": "любовь",
+        "taboo_word_3": "недовеврие",
+        "taboo_word_4": "ложь",
+        "taboo_word_5": "злость"
+    },
+    {
+        "word": "стыд",
+        "taboo_word_1": "позор",
+        "taboo_word_2": "краснеть",
+        "taboo_word_3": "унижение",
+        "taboo_word_4": "испанский",
+        "taboo_word_5": "врать"
+    },
+    {
+        "word": "вина",
+        "taboo_word_1": "грех",
+        "taboo_word_2": "наказание",
+        "taboo_word_3": "преступление",
+        "taboo_word_4": "проступок",
+        "taboo_word_5": "ошибка"
+    },
+    {
+        "word": "гордость",
+        "taboo_word_1": "достоинство",
+        "taboo_word_2": "человек",
+        "taboo_word_3": "предубеждение",
+        "taboo_word_4": "почет",
+        "taboo_word_5": "заслуга"
+    },
+    {
+        "word": "скромность",
+        "taboo_word_1": "немногословный",
+        "taboo_word_2": "простота",
+        "taboo_word_3": "смущаться",
+        "taboo_word_4": "спокойный",
+        "taboo_word_5": "стеснительный"
+    },
+    {
+        "word": "надежда",
+        "taboo_word_1": "вера",
+        "taboo_word_2": "опора",
+        "taboo_word_3": "любовь",
+        "taboo_word_4": "мечта",
+        "taboo_word_5": "вселять"
+    },
+    {
+        "word": "отчаяние",
+        "taboo_word_1": "бузысходность",
+        "taboo_word_2": "надежда",
+        "taboo_word_3": "страх",
+        "taboo_word_4": "уныние",
+        "taboo_word_5": "ужас"
+    },
+    {
+        "word": "вера",
+        "taboo_word_1": "религия",
+        "taboo_word_2": "надежда",
+        "taboo_word_3": "святой",
+        "taboo_word_4": "Библия",
+        "taboo_word_5": "Бог"
+    },
+    {
+        "word": "сомнение",
+        "taboo_word_1": "терзание",
+        "taboo_word_2": "неуверенность",
+        "taboo_word_3": "скептик",
+        "taboo_word_4": "опасение",
+        "taboo_word_5": "недоверие"
+    },
+    {
+        "word": "уверенность",
+        "taboo_word_1": "знать",
+        "taboo_word_2": "решение",
+        "taboo_word_3": "сомнение",
+        "taboo_word_4": "убеждение",
+        "taboo_word_5": "определенность"
+    },
+    {
+        "word": "тревога",
+        "taboo_word_1": "сигнал",
+        "taboo_word_2": "беспокоиться",
+        "taboo_word_3": "паника",
+        "taboo_word_4": "страх",
+        "taboo_word_5": "волнение"
+    },
+    {
+        "word": "спокойствие",
+        "taboo_word_1": "сохранять",
+        "taboo_word_2": "тишь",
+        "taboo_word_3": "безопасность",
+        "taboo_word_4": "гармония",
+        "taboo_word_5": "комфорт"
+    },
+    {
+        "word": "стресс",
+        "taboo_word_1": "нервный",
+        "taboo_word_2": "экзамен",
+        "taboo_word_3": "утомление",
+        "taboo_word_4": "снять",
+        "taboo_word_5": "волнение"
+    },
+    {
+        "word": "эмоция",
+        "taboo_word_1": "гнев",
+        "taboo_word_2": "настроение",
+        "taboo_word_3": "негативный",
+        "taboo_word_4": "переживание",
+        "taboo_word_5": "чувство"
+    },
+    {
+        "word": "чувство",
+        "taboo_word_1": "ощущение",
+        "taboo_word_2": "жалость",
+        "taboo_word_3": "ревность",
+        "taboo_word_4": "эмоция",
+        "taboo_word_5": "любовь"
+    },
+    {
+        "word": "разум",
+        "taboo_word_1": "рассудок",
+        "taboo_word_2": "человек",
+        "taboo_word_3": "голова",
+        "taboo_word_4": "светлый",
+        "taboo_word_5": "сознание"
+    },
+    {
+        "word": "сознание",
+        "taboo_word_1": "материя",
+        "taboo_word_2": "бытие",
+        "taboo_word_3": "мышление",
+        "taboo_word_4": "ум",
+        "taboo_word_5": "человек"
+    },
+    {
+        "word": "мысль",
+        "taboo_word_1": "идея",
+        "taboo_word_2": "думать",
+        "taboo_word_3": "догадка",
+        "taboo_word_4": "сознание",
+        "taboo_word_5": "собраться"
+    },
+    {
+        "word": "идея",
+        "taboo_word_1": "мысль",
+        "taboo_word_2": "план",
+        "taboo_word_3": "думать",
+        "taboo_word_4": "голова",
+        "taboo_word_5": "концепция"
+    },
+    {
+        "word": "теория",
+        "taboo_word_1": "относительность",
+        "taboo_word_2": "практика",
+        "taboo_word_3": "утопия",
+        "taboo_word_4": "наука",
+        "taboo_word_5": "история"
+    },
+    {
+        "word": "гипотеза",
+        "taboo_word_1": "идея",
+        "taboo_word_2": "неопровержимый",
+        "taboo_word_3": "рабочий",
+        "taboo_word_4": "строить",
+        "taboo_word_5": "теорема"
+    },
+    {
+        "word": "закон",
+        "taboo_word_1": "воровской",
+        "taboo_word_2": "писать",
+        "taboo_word_3": "правило",
+        "taboo_word_4": "кодекс",
+        "taboo_word_5": "Ньютон"
+    },
+    {
+        "word": "правило",
+        "taboo_word_1": "устав",
+        "taboo_word_2": "исключение",
+        "taboo_word_3": "строгий",
+        "taboo_word_4": "закон",
+        "taboo_word_5": "запомнить"
+    },
+    {
+        "word": "принцип",
+        "taboo_word_1": "жизненный",
+        "taboo_word_2": "идеология",
+        "taboo_word_3": "закон",
+        "taboo_word_4": "следовать",
+        "taboo_word_5": "моральный"
+    },
+    {
+        "word": "мораль",
+        "taboo_word_1": "басня",
+        "taboo_word_2": "этика",
+        "taboo_word_3": "правило",
+        "taboo_word_4": "принцип",
+        "taboo_word_5": "поведение"
+    },
+    {
+        "word": "порок",
+        "taboo_word_1": "грех",
+        "taboo_word_2": "бедность",
+        "taboo_word_3": "изъян",
+        "taboo_word_4": "зависть",
+        "taboo_word_5": "добро"
+    },
+    {
+        "word": "честь",
+        "taboo_word_1": "долг",
+        "taboo_word_2": "достоинство",
+        "taboo_word_3": "отдать",
+        "taboo_word_4": "воинский",
+        "taboo_word_5": "потерять"
+    },
+    {
+        "word": "совесть",
+        "taboo_word_1": "терзание",
+        "taboo_word_2": "долг",
+        "taboo_word_3": "честь",
+        "taboo_word_4": "мука",
+        "taboo_word_5": "стыд"
+    },
+    {
+        "word": "свобода",
+        "taboo_word_1": "демократия",
+        "taboo_word_2": "воля",
+        "taboo_word_3": "тюрьма",
+        "taboo_word_4": "автономия",
+        "taboo_word_5": "арест"
+    },
+    {
+        "word": "равенство",
+        "taboo_word_1": "свобода",
+        "taboo_word_2": "братство",
+        "taboo_word_3": "единство",
+        "taboo_word_4": "одинаковый",
+        "taboo_word_5": "математика"
+    },
+    {
+        "word": "справедливость",
+        "taboo_word_1": "восстанавливать",
+        "taboo_word_2": "правосудие",
+        "taboo_word_3": "возмездие",
+        "taboo_word_4": "бороться",
+        "taboo_word_5": "Фемида"
+    },
+    {
+        "word": "правда",
+        "taboo_word_1": "ложь",
+        "taboo_word_2": "газета",
+        "taboo_word_3": "вранье",
+        "taboo_word_4": "истина",
+        "taboo_word_5": "честность"
+    },
+    {
+        "word": "ложь",
+        "taboo_word_1": "неправда",
+        "taboo_word_2": "вранье",
+        "taboo_word_3": "обман",
+        "taboo_word_4": "клевета",
+        "taboo_word_5": "истина"
+    },
+    {
+        "word": "обман",
+        "taboo_word_1": "ложь",
+        "taboo_word_2": "вранье",
+        "taboo_word_3": "фокус",
+        "taboo_word_4": "неправда",
+        "taboo_word_5": "иллюзия"
+    },
+    {
+        "word": "иллюзия",
+        "taboo_word_1": "фантазия",
+        "taboo_word_2": "обман",
+        "taboo_word_3": "реальность",
+        "taboo_word_4": "трюк",
+        "taboo_word_5": "фокус"
+    },
+    {
+        "word": "реальность",
+        "taboo_word_1": "миф",
+        "taboo_word_2": "фантастика",
+        "taboo_word_3": "явь",
+        "taboo_word_4": "быль",
+        "taboo_word_5": "грань"
+    },
+    {
+        "word": "фантазия",
+        "taboo_word_1": "воображение",
+        "taboo_word_2": "плод",
+        "taboo_word_3": "придумать",
+        "taboo_word_4": "мистика",
+        "taboo_word_5": "мечта"
+    },
+    {
+        "word": "мечта",
+        "taboo_word_1": "сбываться",
+        "taboo_word_2": "цель",
+        "taboo_word_3": "надежда",
+        "taboo_word_4": "верить",
+        "taboo_word_5": "воображение"
+    },
+    {
+        "word": "цель",
+        "taboo_word_1": "преследовать",
+        "taboo_word_2": "достичь",
+        "taboo_word_3": "стремление",
+        "taboo_word_4": "мишень",
+        "taboo_word_5": "попадать"
+    },
+    {
+        "word": "стремление",
+        "taboo_word_1": "порыв",
+        "taboo_word_2": "желание",
+        "taboo_word_3": "влечение",
+        "taboo_word_4": "тяга",
+        "taboo_word_5": "жажда"
+    },
+    {
+        "word": "желание",
+        "taboo_word_1": "сбываться",
+        "taboo_word_2": "исполнить",
+        "taboo_word_3": "загадать",
+        "taboo_word_4": "хотеть",
+        "taboo_word_5": "мечта"
+    },
+    {
+        "word": "потребность",
+        "taboo_word_1": "мотив",
+        "taboo_word_2": "нужда",
+        "taboo_word_3": "удовлетворение",
+        "taboo_word_4": "еда",
+        "taboo_word_5": "необходимость"
+    },
+    {
+        "word": "вдохновение",
+        "taboo_word_1": "поток",
+        "taboo_word_2": "творчество",
+        "taboo_word_3": "искусство",
+        "taboo_word_4": "композитор",
+        "taboo_word_5": "поэт"
+    },
+    {
+        "word": "творчество",
+        "taboo_word_1": "бумага",
+        "taboo_word_2": "искусство",
+        "taboo_word_3": "рисунок",
+        "taboo_word_4": "воображение",
+        "taboo_word_5": "гений"
+    },
+    {
+        "word": "искусство",
+        "taboo_word_1": "литература",
+        "taboo_word_2": "культура",
+        "taboo_word_3": "произведение",
+        "taboo_word_4": "живопись",
+        "taboo_word_5": "творчество"
+    },
+    {
+        "word": "живопись",
+        "taboo_word_1": "искусство",
+        "taboo_word_2": "картина",
+        "taboo_word_3": "выставка",
+        "taboo_word_4": "рисунок",
+        "taboo_word_5": "культура"
+    },
+    {
+        "word": "скульптура",
+        "taboo_word_1": "глина",
+        "taboo_word_2": "памятник",
+        "taboo_word_3": "культура",
+        "taboo_word_4": "лепить",
+        "taboo_word_5": "искусство"
+    },
+    {
+        "word": "графика",
+        "taboo_word_1": "живопись",
+        "taboo_word_2": "рисунок",
+        "taboo_word_3": "карандаш",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "контур"
+    },
+    {
+        "word": "фотография",
+        "taboo_word_1": "альбом",
+        "taboo_word_2": "портрет",
+        "taboo_word_3": "снимать",
+        "taboo_word_4": "кадр",
+        "taboo_word_5": "пленка"
+    },
+    {
+        "word": "архитектура",
+        "taboo_word_1": "памятник",
+        "taboo_word_2": "искусство",
+        "taboo_word_3": "здание",
+        "taboo_word_4": "современный",
+        "taboo_word_5": "строение"
+    },
+    {
+        "word": "мода",
+        "taboo_word_1": "гламур",
+        "taboo_word_2": "показ",
+        "taboo_word_3": "шик",
+        "taboo_word_4": "журнал",
+        "taboo_word_5": "одежда"
+    },
+    {
+        "word": "стиль",
+        "taboo_word_1": "классический",
+        "taboo_word_2": "манера",
+        "taboo_word_3": "модерн",
+        "taboo_word_4": "жанр",
+        "taboo_word_5": "мода"
+    },
+    {
+        "word": "цвет",
+        "taboo_word_1": "гамма",
+        "taboo_word_2": "краска",
+        "taboo_word_3": "палитра",
+        "taboo_word_4": "оттенок",
+        "taboo_word_5": "зеленый"
+    },
+    {
+        "word": "оттенок",
+        "taboo_word_1": "цвет",
+        "taboo_word_2": "окрас",
+        "taboo_word_3": "тон",
+        "taboo_word_4": "золотистый",
+        "taboo_word_5": "яркий"
+    },
+    {
+        "word": "форма",
+        "taboo_word_1": "школа",
+        "taboo_word_2": "военный",
+        "taboo_word_3": "солдат",
+        "taboo_word_4": "ученик",
+        "taboo_word_5": "армия"
+    },
+    {
+        "word": "объём",
+        "taboo_word_1": "геометрия",
+        "taboo_word_2": "большой",
+        "taboo_word_3": "размер",
+        "taboo_word_4": "куб",
+        "taboo_word_5": "емкость"
+    },
+    {
+        "word": "перспектива",
+        "taboo_word_1": "бесконечность",
+        "taboo_word_2": "будущий",
+        "taboo_word_3": "долгосрочный",
+        "taboo_word_4": "завтра",
+        "taboo_word_5": "далекий"
+    },
+    {
+        "word": "холст",
+        "taboo_word_1": "полотно",
+        "taboo_word_2": "льняной",
+        "taboo_word_3": "акварельный",
+        "taboo_word_4": "бумага",
+        "taboo_word_5": "картина"
+    },
+    {
+        "word": "краска",
+        "taboo_word_1": "акварельный",
+        "taboo_word_2": "стыд",
+        "taboo_word_3": "кисть",
+        "taboo_word_4": "масляный",
+        "taboo_word_5": "картина"
+    },
+    {
+        "word": "кисть",
+        "taboo_word_1": "рука",
+        "taboo_word_2": "красить",
+        "taboo_word_3": "виноградная",
+        "taboo_word_4": "мольберт",
+        "taboo_word_5": "краски"
+    },
+    {
+        "word": "карандаш",
+        "taboo_word_1": "простой",
+        "taboo_word_2": "бумага",
+        "taboo_word_3": "рисунок",
+        "taboo_word_4": "сломанный",
+        "taboo_word_5": "фломастер"
+    },
+    {
+        "word": "уголь",
+        "taboo_word_1": "топливо",
+        "taboo_word_2": "добывать",
+        "taboo_word_3": "вагон",
+        "taboo_word_4": "бурый",
+        "taboo_word_5": "каменный"
+    },
+    {
+        "word": "мольберт",
+        "taboo_word_1": "художник",
+        "taboo_word_2": "живопись",
+        "taboo_word_3": "кисть",
+        "taboo_word_4": "кнопка",
+        "taboo_word_5": "пейзаж"
+    },
+    {
+        "word": "глина",
+        "taboo_word_1": "вязкая",
+        "taboo_word_2": "песок",
+        "taboo_word_3": "лепить",
+        "taboo_word_4": "чернозем",
+        "taboo_word_5": "пластилин"
+    },
+    {
+        "word": "камень",
+        "taboo_word_1": "бросать",
+        "taboo_word_2": "минерал",
+        "taboo_word_3": "драгоценный",
+        "taboo_word_4": "гранит",
+        "taboo_word_5": "булыжник"
+    },
+    {
+        "word": "металл",
+        "taboo_word_1": "железо",
+        "taboo_word_2": "золото",
+        "taboo_word_3": "драгоценный",
+        "taboo_word_4": "химия",
+        "taboo_word_5": "кузница"
+    },
+    {
+        "word": "дерево",
+        "taboo_word_1": "ель",
+        "taboo_word_2": "посадить",
+        "taboo_word_3": "лист",
+        "taboo_word_4": "палка",
+        "taboo_word_5": "расти"
+    },
+    {
+        "word": "стекло",
+        "taboo_word_1": "хрупкий",
+        "taboo_word_2": "разбитый",
+        "taboo_word_3": "окно",
+        "taboo_word_4": "выбить",
+        "taboo_word_5": "банка"
+    },
+    {
+        "word": "ткань",
+        "taboo_word_1": "мерить",
+        "taboo_word_2": "полотно",
+        "taboo_word_3": "шелк",
+        "taboo_word_4": "материал",
+        "taboo_word_5": "ножницы"
+    },
+    {
+        "word": "нить",
+        "taboo_word_1": "Ариадна",
+        "taboo_word_2": "запутывать",
+        "taboo_word_3": "игла",
+        "taboo_word_4": "вить",
+        "taboo_word_5": "связь"
+    },
+    {
+        "word": "игла",
+        "taboo_word_1": "шить",
+        "taboo_word_2": "шприц",
+        "taboo_word_3": "наркоман",
+        "taboo_word_4": "колоть",
+        "taboo_word_5": "нить"
+    },
+    {
+        "word": "ножницы",
+        "taboo_word_1": "кроить",
+        "taboo_word_2": "ноготь",
+        "taboo_word_3": "резать",
+        "taboo_word_4": "бумага",
+        "taboo_word_5": "концы"
+    },
+    {
+        "word": "кнопка",
+        "taboo_word_1": "нажать",
+        "taboo_word_2": "пуговица",
+        "taboo_word_3": "будильник",
+        "taboo_word_4": "железная",
+        "taboo_word_5": "значок"
+    },
+    {
+        "word": "молния",
+        "taboo_word_1": "шаровая",
+        "taboo_word_2": "гром",
+        "taboo_word_3": "гроза",
+        "taboo_word_4": "вспышка",
+        "taboo_word_5": "сверкать"
+    },
+    {
+        "word": "пуговица",
+        "taboo_word_1": "оторваться",
+        "taboo_word_2": "пришить",
+        "taboo_word_3": "карман",
+        "taboo_word_4": "кнопка",
+        "taboo_word_5": "одежда"
+    },
+    {
+        "word": "шов",
+        "taboo_word_1": "операция",
+        "taboo_word_2": "разойтись",
+        "taboo_word_3": "варить",
+        "taboo_word_4": "заметать",
+        "taboo_word_5": "сгиб"
+    },
+    {
+        "word": "выкройка",
+        "taboo_word_1": "шаблон",
+        "taboo_word_2": "криво",
+        "taboo_word_3": "ножницы",
+        "taboo_word_4": "набросок",
+        "taboo_word_5": "ткань"
+    },
+    {
+        "word": "манекен",
+        "taboo_word_1": "витрина",
+        "taboo_word_2": "костюм",
+        "taboo_word_3": "кукла",
+        "taboo_word_4": "силуэт",
+        "taboo_word_5": "магазин"
+    },
+    {
+        "word": "коллекция",
+        "taboo_word_1": "марки",
+        "taboo_word_2": "владелец",
+        "taboo_word_3": "значок",
+        "taboo_word_4": "собрание",
+        "taboo_word_5": "хобби"
+    },
+    {
+        "word": "реклама",
+        "taboo_word_1": "кино",
+        "taboo_word_2": "объявление",
+        "taboo_word_3": "ролик",
+        "taboo_word_4": "афиша",
+        "taboo_word_5": "телевидение"
+    },
+    {
+        "word": "продажа",
+        "taboo_word_1": "покупка",
+        "taboo_word_2": "выставка",
+        "taboo_word_3": "объявление",
+        "taboo_word_4": "киоск",
+        "taboo_word_5": "ларек"
+    },
+    {
+        "word": "покупка",
+        "taboo_word_1": "выгодный",
+        "taboo_word_2": "магазин",
+        "taboo_word_3": "рубль",
+        "taboo_word_4": "продажа",
+        "taboo_word_5": "товар"
+    },
+    {
+        "word": "цена",
+        "taboo_word_1": "стоить",
+        "taboo_word_2": "качество",
+        "taboo_word_3": "копейка",
+        "taboo_word_4": "платить",
+        "taboo_word_5": "товар"
+    },
+    {
+        "word": "стоимость",
+        "taboo_word_1": "возмещать",
+        "taboo_word_2": "высокий",
+        "taboo_word_3": "стоить",
+        "taboo_word_4": "цена",
+        "taboo_word_5": "деньги"
+    },
+    {
+        "word": "бюджет",
+        "taboo_word_1": "семейный",
+        "taboo_word_2": "экономный",
+        "taboo_word_3": "доход",
+        "taboo_word_4": "государственный",
+        "taboo_word_5": "деньги"
+    },
+    {
+        "word": "доход",
+        "taboo_word_1": "годовой",
+        "taboo_word_2": "расход",
+        "taboo_word_3": "прибыль",
+        "taboo_word_4": "чистый",
+        "taboo_word_5": "деньги"
+    },
+    {
+        "word": "расход",
+        "taboo_word_1": "доход",
+        "taboo_word_2": "экономный",
+        "taboo_word_3": "запас",
+        "taboo_word_4": "деньги",
+        "taboo_word_5": "оплатить"
+    },
+    {
+        "word": "прибыль",
+        "taboo_word_1": "доход",
+        "taboo_word_2": "убытки",
+        "taboo_word_3": "вклад",
+        "taboo_word_4": "деньги",
+        "taboo_word_5": "бизнесмен"
+    },
+    {
+        "word": "убыток",
+        "taboo_word_1": "возмещать",
+        "taboo_word_2": "деньги",
+        "taboo_word_3": "достаток",
+        "taboo_word_4": "терять",
+        "taboo_word_5": "прибыль"
+    },
+    {
+        "word": "налог",
+        "taboo_word_1": "платить",
+        "taboo_word_2": "дань",
+        "taboo_word_3": "собирать",
+        "taboo_word_4": "штраф",
+        "taboo_word_5": "взнос"
+    },
+    {
+        "word": "кредит",
+        "taboo_word_1": "банк",
+        "taboo_word_2": "деньги",
+        "taboo_word_3": "предоставлять",
+        "taboo_word_4": "долг",
+        "taboo_word_5": "проценты"
+    },
+    {
+        "word": "долг",
+        "taboo_word_1": "отдать",
+        "taboo_word_2": "платить",
+        "taboo_word_3": "обязанность",
+        "taboo_word_4": "вернуть",
+        "taboo_word_5": "деньги"
+    },
+    {
+        "word": "счёт",
+        "taboo_word_1": "оплатить",
+        "taboo_word_2": "квитанция",
+        "taboo_word_3": "чек",
+        "taboo_word_4": "комунальный",
+        "taboo_word_5": "деньги"
+    },
+    {
+        "word": "банк",
+        "taboo_word_1": "банкротство",
+        "taboo_word_2": "вклад",
+        "taboo_word_3": "кредит",
+        "taboo_word_4": "карта",
+        "taboo_word_5": "деньги"
+    },
+    {
+        "word": "валюта",
+        "taboo_word_1": "доллар",
+        "taboo_word_2": "рубль",
+        "taboo_word_3": "иностранный",
+        "taboo_word_4": "деньги",
+        "taboo_word_5": "евро"
+    },
+    {
+        "word": "монета",
+        "taboo_word_1": "копейка",
+        "taboo_word_2": "решка",
+        "taboo_word_3": "деньги",
+        "taboo_word_4": "достоинство",
+        "taboo_word_5": "звенеть"
+    },
+    {
+        "word": "кошелёк",
+        "taboo_word_1": "потерять",
+        "taboo_word_2": "деньги",
+        "taboo_word_3": "рубль",
+        "taboo_word_4": "портмоне",
+        "taboo_word_5": "бумажник"
+    },
+    {
+        "word": "сейф",
+        "taboo_word_1": "драгоценности",
+        "taboo_word_2": "хранить",
+        "taboo_word_3": "безопасный",
+        "taboo_word_4": "деньги",
+        "taboo_word_5": "металлический"
+    },
+    {
+        "word": "акция",
+        "taboo_word_1": "ваучер",
+        "taboo_word_2": "магазин",
+        "taboo_word_3": "скидка",
+        "taboo_word_4": "реклама",
+        "taboo_word_5": "благотворительность"
+    },
+    {
+        "word": "рынок",
+        "taboo_word_1": "барахолка",
+        "taboo_word_2": "птичий",
+        "taboo_word_3": "базар",
+        "taboo_word_4": "торговать",
+        "taboo_word_5": "прилавок"
+    },
+    {
+        "word": "биржа",
+        "taboo_word_1": "валюта",
+        "taboo_word_2": "доллар",
+        "taboo_word_3": "клерк",
+        "taboo_word_4": "кризис",
+        "taboo_word_5": "нефть"
+    },
+    {
+        "word": "спрос",
+        "taboo_word_1": "повышенный",
+        "taboo_word_2": "большой",
+        "taboo_word_3": "предложение",
+        "taboo_word_4": "экономика",
+        "taboo_word_5": "индивидуальный"
+    },
+    {
+        "word": "предложение",
+        "taboo_word_1": "отклонить",
+        "taboo_word_2": "слово",
+        "taboo_word_3": "спрос",
+        "taboo_word_4": "экономика",
+        "taboo_word_5": "фраза"
+    },
+    {
+        "word": "предприятие",
+        "taboo_word_1": "завод",
+        "taboo_word_2": "монополия",
+        "taboo_word_3": "работа",
+        "taboo_word_4": "организация",
+        "taboo_word_5": "начальник"
+    },
+    {
+        "word": "компания",
+        "taboo_word_1": "шумная",
+        "taboo_word_2": "работа",
+        "taboo_word_3": "друзья",
+        "taboo_word_4": "организация",
+        "taboo_word_5": "тусовка"
+    },
+    {
+        "word": "фирма",
+        "taboo_word_1": "владелец",
+        "taboo_word_2": "концерн",
+        "taboo_word_3": "организация",
+        "taboo_word_4": "иностранный",
+        "taboo_word_5": "синдикат"
+    },
+    {
+        "word": "корпорация",
+        "taboo_word_1": "компания",
+        "taboo_word_2": "предприятие",
+        "taboo_word_3": "монополия",
+        "taboo_word_4": "синдикат",
+        "taboo_word_5": "холдинг"
+    },
+    {
+        "word": "офис",
+        "taboo_word_1": "контора",
+        "taboo_word_2": "клерк",
+        "taboo_word_3": "служащий",
+        "taboo_word_4": "сотрудник",
+        "taboo_word_5": "фирма"
+    },
+    {
+        "word": "кабинет",
+        "taboo_word_1": "начальник",
+        "taboo_word_2": "отдел",
+        "taboo_word_3": "лечебный",
+        "taboo_word_4": "больница",
+        "taboo_word_5": "аудитория"
+    },
+    {
+        "word": "стол",
+        "taboo_word_1": "деревянный",
+        "taboo_word_2": "письменный",
+        "taboo_word_3": "праздничный",
+        "taboo_word_4": "накрывать",
+        "taboo_word_5": "стул"
+    },
+    {
+        "word": "стул",
+        "taboo_word_1": "стол",
+        "taboo_word_2": "жесткий",
+        "taboo_word_3": "электрический",
+        "taboo_word_4": "сидеть",
+        "taboo_word_5": "кресло"
+    },
+    {
+        "word": "шкаф",
+        "taboo_word_1": "платяной",
+        "taboo_word_2": "комод",
+        "taboo_word_3": "одежда",
+        "taboo_word_4": "полка",
+        "taboo_word_5": "гардероб"
+    },
+    {
+        "word": "полка",
+        "taboo_word_1": "книжный",
+        "taboo_word_2": "верхний",
+        "taboo_word_3": "одежда",
+        "taboo_word_4": "положить",
+        "taboo_word_5": "стена"
+    },
+    {
+        "word": "ящик",
+        "taboo_word_1": "почтовый",
+        "taboo_word_2": "деревянный",
+        "taboo_word_3": "посылка",
+        "taboo_word_4": "телевизор",
+        "taboo_word_5": "тара"
+    },
+    {
+        "word": "дверь",
+        "taboo_word_1": "запирать",
+        "taboo_word_2": "открывать",
+        "taboo_word_3": "ручка",
+        "taboo_word_4": "окно",
+        "taboo_word_5": "входить"
+    },
+    {
+        "word": "окно",
+        "taboo_word_1": "открывать",
+        "taboo_word_2": "дверь",
+        "taboo_word_3": "рама",
+        "taboo_word_4": "штора",
+        "taboo_word_5": "мыть"
+    },
+    {
+        "word": "стена",
+        "taboo_word_1": "бетонная",
+        "taboo_word_2": "картина",
+        "taboo_word_3": "ковер",
+        "taboo_word_4": "преграда",
+        "taboo_word_5": "угол"
+    },
+    {
+        "word": "потолок",
+        "taboo_word_1": "низкий",
+        "taboo_word_2": "пол",
+        "taboo_word_3": "стена",
+        "taboo_word_4": "верх",
+        "taboo_word_5": "высокий"
+    },
+    {
+        "word": "пол",
+        "taboo_word_1": "женский",
+        "taboo_word_2": "паркетный",
+        "taboo_word_3": "мести",
+        "taboo_word_4": "мужской",
+        "taboo_word_5": "слабый"
+    },
+    {
+        "word": "крыша",
+        "taboo_word_1": "кровля",
+        "taboo_word_2": "протекать",
+        "taboo_word_3": "Карлсон",
+        "taboo_word_4": "дом",
+        "taboo_word_5": "чердак"
+    },
+    {
+        "word": "фундамент",
+        "taboo_word_1": "основа",
+        "taboo_word_2": "цемент",
+        "taboo_word_3": "базис",
+        "taboo_word_4": "бетон",
+        "taboo_word_5": "крыша"
+    },
+    {
+        "word": "кирпич",
+        "taboo_word_1": "стена",
+        "taboo_word_2": "строитель",
+        "taboo_word_3": "камень",
+        "taboo_word_4": "глина",
+        "taboo_word_5": "дерево"
+    },
+    {
+        "word": "бетон",
+        "taboo_word_1": "раствор",
+        "taboo_word_2": "плита",
+        "taboo_word_3": "цемент",
+        "taboo_word_4": "асфальт",
+        "taboo_word_5": "бордюр"
+    },
+    {
+        "word": "цемент",
+        "taboo_word_1": "раствор",
+        "taboo_word_2": "бетон",
+        "taboo_word_3": "замесить",
+        "taboo_word_4": "фундамент",
+        "taboo_word_5": "бордюр"
+    },
+    {
+        "word": "балка",
+        "taboo_word_1": "кран",
+        "taboo_word_2": "алюминиевый",
+        "taboo_word_3": "железо",
+        "taboo_word_4": "каркас",
+        "taboo_word_5": "стойка"
+    },
+    {
+        "word": "колонна",
+        "taboo_word_1": "башня",
+        "taboo_word_2": "бетонная",
+        "taboo_word_3": "Греция",
+        "taboo_word_4": "арка",
+        "taboo_word_5": "мрамор"
+    },
+    {
+        "word": "лестница",
+        "taboo_word_1": "ступеньки",
+        "taboo_word_2": "подниматься",
+        "taboo_word_3": "вверх",
+        "taboo_word_4": "вниз",
+        "taboo_word_5": "коридор"
+    },
+    {
+        "word": "лифт",
+        "taboo_word_1": "этаж",
+        "taboo_word_2": "лестница",
+        "taboo_word_3": "подъезд",
+        "taboo_word_4": "подниматься",
+        "taboo_word_5": "вызов"
+    },
+    {
+        "word": "чердак",
+        "taboo_word_1": "бардак",
+        "taboo_word_2": "лестница",
+        "taboo_word_3": "подвал",
+        "taboo_word_4": "хлам",
+        "taboo_word_5": "крыша"
+    },
+    {
+        "word": "подвал",
+        "taboo_word_1": "темный",
+        "taboo_word_2": "сырость",
+        "taboo_word_3": "чердак",
+        "taboo_word_4": "погреб",
+        "taboo_word_5": "лестница"
+    },
+    {
+        "word": "коридор",
+        "taboo_word_1": "длинный",
+        "taboo_word_2": "узкий",
+        "taboo_word_3": "комната",
+        "taboo_word_4": "проход",
+        "taboo_word_5": "больница"
+    },
+    {
+        "word": "комната",
+        "taboo_word_1": "учительский",
+        "taboo_word_2": "помещение",
+        "taboo_word_3": "квадратная",
+        "taboo_word_4": "угол",
+        "taboo_word_5": "коридор"
+    },
+    {
+        "word": "спальня",
+        "taboo_word_1": "комната",
+        "taboo_word_2": "окно",
+        "taboo_word_3": "постель",
+        "taboo_word_4": "кровать",
+        "taboo_word_5": "отдыхать"
+    },
+    {
+        "word": "кухня",
+        "taboo_word_1": "столовая",
+        "taboo_word_2": "комната",
+        "taboo_word_3": "готовить",
+        "taboo_word_4": "еда",
+        "taboo_word_5": "местный"
+    },
+    {
+        "word": "ванная",
+        "taboo_word_1": "кафель",
+        "taboo_word_2": "душ",
+        "taboo_word_3": "мыло",
+        "taboo_word_4": "чистый",
+        "taboo_word_5": "раковина"
+    },
+    {
+        "word": "туалет",
+        "taboo_word_1": "общественный",
+        "taboo_word_2": "унитаз",
+        "taboo_word_3": "санузел",
+        "taboo_word_4": "вонючий",
+        "taboo_word_5": "ванна"
+    },
+    {
+        "word": "балкон",
+        "taboo_word_1": "открытый",
+        "taboo_word_2": "лестница",
+        "taboo_word_3": "упасть",
+        "taboo_word_4": "хранить",
+        "taboo_word_5": "квартира"
+    },
+    {
+        "word": "забор",
+        "taboo_word_1": "ограда",
+        "taboo_word_2": "красить",
+        "taboo_word_3": "калитка",
+        "taboo_word_4": "высокий",
+        "taboo_word_5": "плетень"
+    },
+    {
+        "word": "ворота",
+        "taboo_word_1": "гол",
+        "taboo_word_2": "атаковать",
+        "taboo_word_3": "двор",
+        "taboo_word_4": "запирать",
+        "taboo_word_5": "калитка"
+    },
+    {
+        "word": "калитка",
+        "taboo_word_1": "ворота",
+        "taboo_word_2": "околица",
+        "taboo_word_3": "дом",
+        "taboo_word_4": "забор",
+        "taboo_word_5": "сад"
+    },
+    {
+        "word": "дорожка",
+        "taboo_word_1": "тропинка",
+        "taboo_word_2": "ковер",
+        "taboo_word_3": "бегать",
+        "taboo_word_4": "бордюр",
+        "taboo_word_5": "пешеходный"
+    },
+    {
+        "word": "тротуар",
+        "taboo_word_1": "бордюр",
+        "taboo_word_2": "улица",
+        "taboo_word_3": "пешеходный",
+        "taboo_word_4": "бульвар",
+        "taboo_word_5": "идти"
+    },
+    {
+        "word": "асфальт",
+        "taboo_word_1": "мокрый",
+        "taboo_word_2": "бордюр",
+        "taboo_word_3": "тротуар",
+        "taboo_word_4": "улица",
+        "taboo_word_5": "дорога"
+    },
+    {
+        "word": "фонарь",
+        "taboo_word_1": "уличный",
+        "taboo_word_2": "светить",
+        "taboo_word_3": "столб",
+        "taboo_word_4": "прожектор",
+        "taboo_word_5": "улица"
+    },
+    {
+        "word": "столб",
+        "taboo_word_1": "телеграфный",
+        "taboo_word_2": "высокий",
+        "taboo_word_3": "провода",
+        "taboo_word_4": "деревянный",
+        "taboo_word_5": "опора"
+    },
+    {
+        "word": "провод",
+        "taboo_word_1": "гибкий",
+        "taboo_word_2": "связь",
+        "taboo_word_3": "медный",
+        "taboo_word_4": "оборвать",
+        "taboo_word_5": "перерезать"
+    },
+    {
+        "word": "розетка",
+        "taboo_word_1": "сеть",
+        "taboo_word_2": "напряжение",
+        "taboo_word_3": "провод",
+        "taboo_word_4": "ток",
+        "taboo_word_5": "шнур"
+    },
+    {
+        "word": "лампочка",
+        "taboo_word_1": "груша",
+        "taboo_word_2": "сигнал",
+        "taboo_word_3": "электричество",
+        "taboo_word_4": "батарейка",
+        "taboo_word_5": "светить"
+    },
+    {
+        "word": "телевизор",
+        "taboo_word_1": "смотреть",
+        "taboo_word_2": "включить",
+        "taboo_word_3": "передача",
+        "taboo_word_4": "экран",
+        "taboo_word_5": "новости"
+    },
+    {
+        "word": "холодильник",
+        "taboo_word_1": "холодный",
+        "taboo_word_2": "заморозить",
+        "taboo_word_3": "еда",
+        "taboo_word_4": "хранить",
+        "taboo_word_5": "кухня"
+    },
+    {
+        "word": "плита",
+        "taboo_word_1": "газовый",
+        "taboo_word_2": "бетонный",
+        "taboo_word_3": "готовить",
+        "taboo_word_4": "кухня",
+        "taboo_word_5": "утюг"
+    },
+    {
+        "word": "чайник",
+        "taboo_word_1": "фарфоровый",
+        "taboo_word_2": "пар",
+        "taboo_word_3": "горячий",
+        "taboo_word_4": "поставить",
+        "taboo_word_5": "греть"
+    },
+    {
+        "word": "кастрюля",
+        "taboo_word_1": "суп",
+        "taboo_word_2": "варить",
+        "taboo_word_3": "готовить",
+        "taboo_word_4": "крышка",
+        "taboo_word_5": "кухня"
+    },
+    {
+        "word": "сковорода",
+        "taboo_word_1": "блин",
+        "taboo_word_2": "жарить",
+        "taboo_word_3": "плита",
+        "taboo_word_4": "раскаленный",
+        "taboo_word_5": "кухня"
+    },
+    {
+        "word": "нож",
+        "taboo_word_1": "складной",
+        "taboo_word_2": "острый",
+        "taboo_word_3": "резать",
+        "taboo_word_4": "финский",
+        "taboo_word_5": "вилка"
+    },
+    {
+        "word": "вилка",
+        "taboo_word_1": "розетка",
+        "taboo_word_2": "ложка",
+        "taboo_word_3": "нож",
+        "taboo_word_4": "посуда",
+        "taboo_word_5": "прибор"
+    },
+    {
+        "word": "ложка",
+        "taboo_word_1": "вилка",
+        "taboo_word_2": "столовый",
+        "taboo_word_3": "деготь",
+        "taboo_word_4": "чайный",
+        "taboo_word_5": "есть"
+    },
+    {
+        "word": "тарелка",
+        "taboo_word_1": "НЛО",
+        "taboo_word_2": "еда",
+        "taboo_word_3": "блюдо",
+        "taboo_word_4": "вилка",
+        "taboo_word_5": "ложка"
+    },
+    {
+        "word": "чашка",
+        "taboo_word_1": "кофе",
+        "taboo_word_2": "глина",
+        "taboo_word_3": "налить",
+        "taboo_word_4": "посуда",
+        "taboo_word_5": "еда"
+    },
+    {
+        "word": "стакан",
+        "taboo_word_1": "пить",
+        "taboo_word_2": "стеклянный",
+        "taboo_word_3": "налить",
+        "taboo_word_4": "вода",
+        "taboo_word_5": "разбитый"
+    },
+    {
+        "word": "бокал",
+        "taboo_word_1": "хрустальный",
+        "taboo_word_2": "хрупкий",
+        "taboo_word_3": "поднять",
+        "taboo_word_4": "пить",
+        "taboo_word_5": "вино"
+    },
+    {
+        "word": "графин",
+        "taboo_word_1": "наполнять",
+        "taboo_word_2": "стеклянный",
+        "taboo_word_3": "кувшин",
+        "taboo_word_4": "вода",
+        "taboo_word_5": "лить"
+    },
+    {
+        "word": "бутылка",
+        "taboo_word_1": "пьяница",
+        "taboo_word_2": "алкоголик",
+        "taboo_word_3": "выпивка",
+        "taboo_word_4": "емкость",
+        "taboo_word_5": "лимонад"
+    },
+    {
+        "word": "банка",
+        "taboo_word_1": "стеклянный",
+        "taboo_word_2": "крышка",
+        "taboo_word_3": "консервный",
+        "taboo_word_4": "емкость",
+        "taboo_word_5": "бутылка"
+    },
+    {
+        "word": "крышка",
+        "taboo_word_1": "кастрюля",
+        "taboo_word_2": "гроб",
+        "taboo_word_3": "открывать",
+        "taboo_word_4": "алюминиевый",
+        "taboo_word_5": "верх"
+    },
+    {
+        "word": "пробка",
+        "taboo_word_1": "выскочить",
+        "taboo_word_2": "глупый",
+        "taboo_word_3": "закрытый",
+        "taboo_word_4": "затыкать",
+        "taboo_word_5": "машины"
+    },
+    {
+        "word": "салфетка",
+        "taboo_word_1": "кружево",
+        "taboo_word_2": "промокнуть",
+        "taboo_word_3": "ткань",
+        "taboo_word_4": "полотенце",
+        "taboo_word_5": "бумага"
+    },
+    {
+        "word": "полотенце",
+        "taboo_word_1": "махровый",
+        "taboo_word_2": "мыло",
+        "taboo_word_3": "повесить",
+        "taboo_word_4": "чистый",
+        "taboo_word_5": "ванна"
+    },
+    {
+        "word": "мыло",
+        "taboo_word_1": "туалетный",
+        "taboo_word_2": "хозяйственный",
+        "taboo_word_3": "мочалка",
+        "taboo_word_4": "пена",
+        "taboo_word_5": "ванна"
+    },
+    {
+        "word": "шампунь",
+        "taboo_word_1": "мыло",
+        "taboo_word_2": "ванна",
+        "taboo_word_3": "пена",
+        "taboo_word_4": "глова",
+        "taboo_word_5": "волосы"
+    },
+    {
+        "word": "паста",
+        "taboo_word_1": "зубной",
+        "taboo_word_2": "мыло",
+        "taboo_word_3": "кончиться",
+        "taboo_word_4": "крем",
+        "taboo_word_5": "щетка"
+    },
+    {
+        "word": "расчёска",
+        "taboo_word_1": "волос",
+        "taboo_word_2": "гребень",
+        "taboo_word_3": "зеркало",
+        "taboo_word_4": "заколка",
+        "taboo_word_5": "голова"
+    },
+    {
+        "word": "зеркало",
+        "taboo_word_1": "отражение",
+        "taboo_word_2": "разбитый",
+        "taboo_word_3": "лицо",
+        "taboo_word_4": "любоваться",
+        "taboo_word_5": "увидеть"
+    },
+    {
+        "word": "кровать",
+        "taboo_word_1": "кресло",
+        "taboo_word_2": "постель",
+        "taboo_word_3": "спать",
+        "taboo_word_4": "диван",
+        "taboo_word_5": "лежать"
+    },
+    {
+        "word": "матрас",
+        "taboo_word_1": "надувной",
+        "taboo_word_2": "жесткий",
+        "taboo_word_3": "подушка",
+        "taboo_word_4": "спать",
+        "taboo_word_5": "пружина"
+    },
+    {
+        "word": "подушка",
+        "taboo_word_1": "перьевая",
+        "taboo_word_2": "постель",
+        "taboo_word_3": "простыня",
+        "taboo_word_4": "спать",
+        "taboo_word_5": "кровать"
+    },
+    {
+        "word": "одеяло",
+        "taboo_word_1": "пуховый",
+        "taboo_word_2": "постель",
+        "taboo_word_3": "кровать",
+        "taboo_word_4": "накрывать",
+        "taboo_word_5": "спать"
+    },
+    {
+        "word": "простыня",
+        "taboo_word_1": "постель",
+        "taboo_word_2": "белье",
+        "taboo_word_3": "покрывало",
+        "taboo_word_4": "спать",
+        "taboo_word_5": "матрас"
+    },
+    {
+        "word": "штора",
+        "taboo_word_1": "занавес",
+        "taboo_word_2": "окно",
+        "taboo_word_3": "тюль",
+        "taboo_word_4": "полотно",
+        "taboo_word_5": "гардина"
+    },
+    {
+        "word": "люстра",
+        "taboo_word_1": "лампочка",
+        "taboo_word_2": "потолок",
+        "taboo_word_3": "бал",
+        "taboo_word_4": "светить",
+        "taboo_word_5": "хрустальный"
+    },
+    {
+        "word": "ковёр",
+        "taboo_word_1": "персидский",
+        "taboo_word_2": "палас",
+        "taboo_word_3": "ткать",
+        "taboo_word_4": "борьба",
+        "taboo_word_5": "стелить"
+    },
+    {
+        "word": "пылесос",
+        "taboo_word_1": "ковер",
+        "taboo_word_2": "палас",
+        "taboo_word_3": "пыль",
+        "taboo_word_4": "вакуум",
+        "taboo_word_5": "засосать"
+    },
+    {
+        "word": "утюг",
+        "taboo_word_1": "гладить",
+        "taboo_word_2": "раскаленный",
+        "taboo_word_3": "горячий",
+        "taboo_word_4": "электрический",
+        "taboo_word_5": "паровой"
+    },
+    {
+        "word": "швабра",
+        "taboo_word_1": "палка",
+        "taboo_word_2": "щетка",
+        "taboo_word_3": "метелка",
+        "taboo_word_4": "тряпка",
+        "taboo_word_5": "метла"
+    },
+    {
+        "word": "ведро",
+        "taboo_word_1": "лить",
+        "taboo_word_2": "вода",
+        "taboo_word_3": "помои",
+        "taboo_word_4": "мыть",
+        "taboo_word_5": "тряпка"
+    },
+    {
+        "word": "тряпка",
+        "taboo_word_1": "швабра",
+        "taboo_word_2": "материя",
+        "taboo_word_3": "половой",
+        "taboo_word_4": "ведро",
+        "taboo_word_5": "полотенце"
+    },
+    {
+        "word": "пакет",
+        "taboo_word_1": "бумажный",
+        "taboo_word_2": "продукты",
+        "taboo_word_3": "документы",
+        "taboo_word_4": "мусор",
+        "taboo_word_5": "мешок"
+    },
+    {
+        "word": "корзина",
+        "taboo_word_1": "плести",
+        "taboo_word_2": "продукты",
+        "taboo_word_3": "цветочный",
+        "taboo_word_4": "мусор",
+        "taboo_word_5": "ведро"
+    },
+    {
+        "word": "сумка",
+        "taboo_word_1": "нести",
+        "taboo_word_2": "авоська",
+        "taboo_word_3": "портфель",
+        "taboo_word_4": "рюкзак",
+        "taboo_word_5": "дамский"
+    },
+    {
+        "word": "рюкзак",
+        "taboo_word_1": "турист",
+        "taboo_word_2": "лямка",
+        "taboo_word_3": "поход",
+        "taboo_word_4": "спина",
+        "taboo_word_5": "нести"
+    },
+    {
+        "word": "чемодан",
+        "taboo_word_1": "тяжелый",
+        "taboo_word_2": "нести",
+        "taboo_word_3": "дорожный",
+        "taboo_word_4": "аэропорт",
+        "taboo_word_5": "сдать"
+    },
+    {
+        "word": "портфель",
+        "taboo_word_1": "кожаный",
+        "taboo_word_2": "ранец",
+        "taboo_word_3": "нести",
+        "taboo_word_4": "школьный",
+        "taboo_word_5": "дипломат"
+    },
+    {
+        "word": "ключ",
+        "taboo_word_1": "скрипичный",
+        "taboo_word_2": "замок",
+        "taboo_word_3": "дверь",
+        "taboo_word_4": "закрывать",
+        "taboo_word_5": "басовый"
+    },
+    {
+        "word": "замок",
+        "taboo_word_1": "закрывать",
+        "taboo_word_2": "ключ",
+        "taboo_word_3": "дверь",
+        "taboo_word_4": "дворец",
+        "taboo_word_5": "штурмовать"
+    },
+    {
+        "word": "телефон",
+        "taboo_word_1": "звонить",
+        "taboo_word_2": "связь",
+        "taboo_word_3": "гаджет",
+        "taboo_word_4": "номер",
+        "taboo_word_5": "разговор"
+    },
+    {
+        "word": "компьютер",
+        "taboo_word_1": "информация",
+        "taboo_word_2": "вирус",
+        "taboo_word_3": "данные",
+        "taboo_word_4": "матрица",
+        "taboo_word_5": "программа"
+    },
+    {
+        "word": "мышь",
+        "taboo_word_1": "серый",
+        "taboo_word_2": "сыр",
+        "taboo_word_3": "ловушка",
+        "taboo_word_4": "летучий",
+        "taboo_word_5": "норка"
+    },
+    {
+        "word": "наушники",
+        "taboo_word_1": "связь",
+        "taboo_word_2": "слушать",
+        "taboo_word_3": "музыка",
+        "taboo_word_4": "микрофон",
+        "taboo_word_5": "телефон"
+    },
+    {
+        "word": "колонка",
+        "taboo_word_1": "столбик",
+        "taboo_word_2": "газ",
+        "taboo_word_3": "газета",
+        "taboo_word_4": "слушать",
+        "taboo_word_5": "музыка"
+    },
+    {
+        "word": "микрофон",
+        "taboo_word_1": "журналист",
+        "taboo_word_2": "телефон",
+        "taboo_word_3": "выступление",
+        "taboo_word_4": "говорить",
+        "taboo_word_5": "певец"
+    },
+    {
+        "word": "камера",
+        "taboo_word_1": "тюремный",
+        "taboo_word_2": "газовый",
+        "taboo_word_3": "хранение",
+        "taboo_word_4": "телефон",
+        "taboo_word_5": "фотография"
+    },
+    {
+        "word": "принтер",
+        "taboo_word_1": "компьютер",
+        "taboo_word_2": "ксерокс",
+        "taboo_word_3": "бумага",
+        "taboo_word_4": "печать",
+        "taboo_word_5": "картридж"
+    },
+    {
+        "word": "программа",
+        "taboo_word_1": "передача",
+        "taboo_word_2": "приложение",
+        "taboo_word_3": "вести",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "телевидение"
+    },
+    {
+        "word": "код",
+        "taboo_word_1": "секрет",
+        "taboo_word_2": "пароль",
+        "taboo_word_3": "вор",
+        "taboo_word_4": "цифра",
+        "taboo_word_5": "информация"
+    },
+    {
+        "word": "пароль",
+        "taboo_word_1": "код",
+        "taboo_word_2": "безопасность",
+        "taboo_word_3": "телефон",
+        "taboo_word_4": "блокировка",
+        "taboo_word_5": "контроль"
+    },
+    {
+        "word": "профиль",
+        "taboo_word_1": "анфас",
+        "taboo_word_2": "фигура",
+        "taboo_word_3": "картинка",
+        "taboo_word_4": "соцсеть",
+        "taboo_word_5": "вид"
+    },
+    {
+        "word": "сообщение",
+        "taboo_word_1": "телеграмма",
+        "taboo_word_2": "вести",
+        "taboo_word_3": "текст",
+        "taboo_word_4": "телефон",
+        "taboo_word_5": "донос"
+    },
+    {
+        "word": "письмо",
+        "taboo_word_1": "писать",
+        "taboo_word_2": "бумага",
+        "taboo_word_3": "почта",
+        "taboo_word_4": "конверт",
+        "taboo_word_5": "получать"
+    },
+    {
+        "word": "форум",
+        "taboo_word_1": "демонстрировать",
+        "taboo_word_2": "обсуждение",
+        "taboo_word_3": "открытый",
+        "taboo_word_4": "проводить",
+        "taboo_word_5": "конференция"
+    },
+    {
+        "word": "пост",
+        "taboo_word_1": "место",
+        "taboo_word_2": "ГАИ",
+        "taboo_word_3": "служба",
+        "taboo_word_4": "вахта",
+        "taboo_word_5": "соцсети"
+    },
+    {
+        "word": "вирус",
+        "taboo_word_1": "грипп",
+        "taboo_word_2": "прививка",
+        "taboo_word_3": "простуда",
+        "taboo_word_4": "болеть",
+        "taboo_word_5": "вакцина"
+    },
+    {
+        "word": "менеджер",
+        "taboo_word_1": "бизнесмен",
+        "taboo_word_2": "консультант",
+        "taboo_word_3": "управлять",
+        "taboo_word_4": "предприниматель",
+        "taboo_word_5": "экономист"
+    },
+    {
+        "word": "директор",
+        "taboo_word_1": "школа",
+        "taboo_word_2": "кабинет",
+        "taboo_word_3": "начальник",
+        "taboo_word_4": "руководитель",
+        "taboo_word_5": "должность"
+    },
+    {
+        "word": "учитель",
+        "taboo_word_1": "наставник",
+        "taboo_word_2": "строгий",
+        "taboo_word_3": "школа",
+        "taboo_word_4": "преподаватель",
+        "taboo_word_5": "урок"
+    },
+    {
+        "word": "врач",
+        "taboo_word_1": "доктор",
+        "taboo_word_2": "педиатр",
+        "taboo_word_3": "лечить",
+        "taboo_word_4": "больной",
+        "taboo_word_5": "хирург"
+    },
+    {
+        "word": "инженер",
+        "taboo_word_1": "конструктор",
+        "taboo_word_2": "технолог",
+        "taboo_word_3": "специалист",
+        "taboo_word_4": "проект",
+        "taboo_word_5": "профессия"
+    },
+    {
+        "word": "архитектор",
+        "taboo_word_1": "проект",
+        "taboo_word_2": "строить",
+        "taboo_word_3": "мастерская",
+        "taboo_word_4": "дизайнер",
+        "taboo_word_5": "здание"
+    },
+    {
+        "word": "повар",
+        "taboo_word_1": "шеф",
+        "taboo_word_2": "столовая",
+        "taboo_word_3": "кухня",
+        "taboo_word_4": "готовить",
+        "taboo_word_5": "еда"
+    },
+    {
+        "word": "пилот",
+        "taboo_word_1": "летчик",
+        "taboo_word_2": "штурман",
+        "taboo_word_3": "небо",
+        "taboo_word_4": "авиатор",
+        "taboo_word_5": "стюардесса"
+    },
+    {
+        "word": "водитель",
+        "taboo_word_1": "механик",
+        "taboo_word_2": "пешеход",
+        "taboo_word_3": "машина",
+        "taboo_word_4": "автобус",
+        "taboo_word_5": "дорога"
+    },
+    {
+        "word": "строитель",
+        "taboo_word_1": "инженер",
+        "taboo_word_2": "прораб",
+        "taboo_word_3": "конструктор",
+        "taboo_word_4": "здание",
+        "taboo_word_5": "рабочие"
+    },
+    {
+        "word": "художник",
+        "taboo_word_1": "Ван Гог",
+        "taboo_word_2": "мольберт",
+        "taboo_word_3": "картина",
+        "taboo_word_4": "портрет",
+        "taboo_word_5": "рисовать"
+    },
+    {
+        "word": "музыкант",
+        "taboo_word_1": "Чайковский",
+        "taboo_word_2": "играть",
+        "taboo_word_3": "композитор",
+        "taboo_word_4": "уличный",
+        "taboo_word_5": "Бах"
+    },
+    {
+        "word": "актёр",
+        "taboo_word_1": "популярный",
+        "taboo_word_2": "роль",
+        "taboo_word_3": "кино",
+        "taboo_word_4": "театр",
+        "taboo_word_5": "комик"
+    },
+    {
+        "word": "писатель",
+        "taboo_word_1": "книга",
+        "taboo_word_2": "роман",
+        "taboo_word_3": "публиковать",
+        "taboo_word_4": "произведение",
+        "taboo_word_5": "рассказ"
+    },
+    {
+        "word": "поэт",
+        "taboo_word_1": "лирик",
+        "taboo_word_2": "Пушкин",
+        "taboo_word_3": "рифма",
+        "taboo_word_4": "стих",
+        "taboo_word_5": "вдохновение"
+    },
+    {
+        "word": "философ",
+        "taboo_word_1": "Сократ",
+        "taboo_word_2": "мыслитель",
+        "taboo_word_3": "рассуждать",
+        "taboo_word_4": "греческий",
+        "taboo_word_5": "мудрец"
+    },
+    {
+        "word": "учёный",
+        "taboo_word_1": "Ломоносов",
+        "taboo_word_2": "исследователь",
+        "taboo_word_3": "эксперимент",
+        "taboo_word_4": "гений",
+        "taboo_word_5": "физик"
+    },
+    {
+        "word": "исследователь",
+        "taboo_word_1": "эксперимент",
+        "taboo_word_2": "наука",
+        "taboo_word_3": "испытатель",
+        "taboo_word_4": "ученый",
+        "taboo_word_5": "физик"
+    },
+    {
+        "word": "изобретатель",
+        "taboo_word_1": "Калашников",
+        "taboo_word_2": "автор",
+        "taboo_word_3": "конструктор",
+        "taboo_word_4": "фантазия",
+        "taboo_word_5": "новый"
+    },
+    {
+        "word": "путешественник",
+        "taboo_word_1": "турист",
+        "taboo_word_2": "странник",
+        "taboo_word_3": "загорелый",
+        "taboo_word_4": "чемодан",
+        "taboo_word_5": "рюкзак"
+    },
+    {
+        "word": "турист",
+        "taboo_word_1": "иностранный",
+        "taboo_word_2": "рюкзак",
+        "taboo_word_3": "гостиница",
+        "taboo_word_4": "палатка",
+        "taboo_word_5": "страна"
+    },
+    {
+        "word": "переводчик",
+        "taboo_word_1": "слова",
+        "taboo_word_2": "карьера",
+        "taboo_word_3": "говорить",
+        "taboo_word_4": "иностранный",
+        "taboo_word_5": "язык"
+    },
+    {
+        "word": "журналист",
+        "taboo_word_1": "газетный",
+        "taboo_word_2": "иностранный",
+        "taboo_word_3": "репортер",
+        "taboo_word_4": "пресса",
+        "taboo_word_5": "профессия"
+    },
+    {
+        "word": "фотограф",
+        "taboo_word_1": "видео",
+        "taboo_word_2": "снимок",
+        "taboo_word_3": "пленка",
+        "taboo_word_4": "кадр",
+        "taboo_word_5": "снимать"
+    },
+    {
+        "word": "модель",
+        "taboo_word_1": "образец",
+        "taboo_word_2": "подиум",
+        "taboo_word_3": "глобус",
+        "taboo_word_4": "одежда",
+        "taboo_word_5": "схема"
+    },
+    {
+        "word": "спортсмен",
+        "taboo_word_1": "сильный",
+        "taboo_word_2": "чемпион",
+        "taboo_word_3": "бегать",
+        "taboo_word_4": "игра",
+        "taboo_word_5": "атлет"
+    },
+    {
+        "word": "тренер",
+        "taboo_word_1": "мастер",
+        "taboo_word_2": "ругать",
+        "taboo_word_3": "свисток",
+        "taboo_word_4": "спортсмен",
+        "taboo_word_5": "футбол"
+    },
+    {
+        "word": "судья",
+        "taboo_word_1": "арбитр",
+        "taboo_word_2": "справедливый",
+        "taboo_word_3": "мировой",
+        "taboo_word_4": "мыло",
+        "taboo_word_5": "присяжный"
+    },
+    {
+        "word": "зритель",
+        "taboo_word_1": "слушатель",
+        "taboo_word_2": "театр",
+        "taboo_word_3": "кино",
+        "taboo_word_4": "спектакль",
+        "taboo_word_5": "сцена"
+    },
+    {
+        "word": "слушатель",
+        "taboo_word_1": "вольный",
+        "taboo_word_2": "читатель",
+        "taboo_word_3": "говорить",
+        "taboo_word_4": "аудитория",
+        "taboo_word_5": "зритель"
+    },
+    {
+        "word": "читатель",
+        "taboo_word_1": "библиотека",
+        "taboo_word_2": "книга",
+        "taboo_word_3": "писатель",
+        "taboo_word_4": "произведение",
+        "taboo_word_5": "слушатель"
+    },
+    {
+        "word": "покупатель",
+        "taboo_word_1": "клиент",
+        "taboo_word_2": "продавец",
+        "taboo_word_3": "товар",
+        "taboo_word_4": "деньги",
+        "taboo_word_5": "посетитель"
+    },
+    {
+        "word": "клиент",
+        "taboo_word_1": "постоянный",
+        "taboo_word_2": "покупатель",
+        "taboo_word_3": "посетитель",
+        "taboo_word_4": "заказ",
+        "taboo_word_5": "товар"
+    },
+    {
+        "word": "пациент",
+        "taboo_word_1": "врач",
+        "taboo_word_2": "больной",
+        "taboo_word_3": "доктор",
+        "taboo_word_4": "больница",
+        "taboo_word_5": "лечить"
+    },
+    {
+        "word": "студент",
+        "taboo_word_1": "заочник",
+        "taboo_word_2": "университет",
+        "taboo_word_3": "институт",
+        "taboo_word_4": "учить",
+        "taboo_word_5": "колледж"
+    },
+    {
+        "word": "школьник",
+        "taboo_word_1": "ранец",
+        "taboo_word_2": "студент",
+        "taboo_word_3": "первоклассник",
+        "taboo_word_4": "ученик",
+        "taboo_word_5": "рюкзак"
+    },
+    {
+        "word": "пенсионер",
+        "taboo_word_1": "работа",
+        "taboo_word_2": "отдых",
+        "taboo_word_3": "пожилой",
+        "taboo_word_4": "седой",
+        "taboo_word_5": "старик"
+    },
+    {
+        "word": "ребёнок",
+        "taboo_word_1": "грудной",
+        "taboo_word_2": "маленький",
+        "taboo_word_3": "чадо",
+        "taboo_word_4": "дитя",
+        "taboo_word_5": "мать"
+    },
+    {
+        "word": "подросток",
+        "taboo_word_1": "трудный",
+        "taboo_word_2": "юноша",
+        "taboo_word_3": "ребенок",
+        "taboo_word_4": "взрослый",
+        "taboo_word_5": "пубертат"
+    },
+    {
+        "word": "взрослый",
+        "taboo_word_1": "детский",
+        "taboo_word_2": "ребенок",
+        "taboo_word_3": "зрелый",
+        "taboo_word_4": "работа",
+        "taboo_word_5": "большой"
+    },
+    {
+        "word": "старик",
+        "taboo_word_1": "дряхлый",
+        "taboo_word_2": "седой",
+        "taboo_word_3": "Хоттабыч",
+        "taboo_word_4": "пенсионер",
+        "taboo_word_5": "морщины"
+    },
+    {
+        "word": "женщина",
+        "taboo_word_1": "мужчина",
+        "taboo_word_2": "девушка",
+        "taboo_word_3": "дама",
+        "taboo_word_4": "девочка",
+        "taboo_word_5": "мать"
+    },
+    {
+        "word": "мужчина",
+        "taboo_word_1": "мальчик",
+        "taboo_word_2": "холостяк",
+        "taboo_word_3": "женщина",
+        "taboo_word_4": "парень",
+        "taboo_word_5": "сильный"
+    },
+    {
+        "word": "человек",
+        "taboo_word_1": "индивид",
+        "taboo_word_2": "зверь",
+        "taboo_word_3": "существо",
+        "taboo_word_4": "народ",
+        "taboo_word_5": "личность"
+    },
+    {
+        "word": "существо",
+        "taboo_word_1": "живой",
+        "taboo_word_2": "человек",
+        "taboo_word_3": "вещество",
+        "taboo_word_4": "организм",
+        "taboo_word_5": "природа"
+    },
+    {
+        "word": "тундра",
+        "taboo_word_1": "тайга",
+        "taboo_word_2": "вьюга",
+        "taboo_word_3": "болото",
+        "taboo_word_4": "лес",
+        "taboo_word_5": "дебри"
+    },
+    {
+        "word": "циклон",
+        "taboo_word_1": "погода",
+        "taboo_word_2": "магнитный",
+        "taboo_word_3": "тайфун",
+        "taboo_word_4": "муссон",
+        "taboo_word_5": "ураган"
+    },
+    {
+        "word": "астероид",
+        "taboo_word_1": "космос",
+        "taboo_word_2": "комета",
+        "taboo_word_3": "метеорит",
+        "taboo_word_4": "звезда",
+        "taboo_word_5": "свет"
+    },
+    {
+        "word": "метеорит",
+        "taboo_word_1": "астероид",
+        "taboo_word_2": "комета",
+        "taboo_word_3": "падать",
+        "taboo_word_4": "кратер",
+        "taboo_word_5": "космос"
+    },
+    {
+        "word": "кратер",
+        "taboo_word_1": "луна",
+        "taboo_word_2": "метеорит",
+        "taboo_word_3": "воронка",
+        "taboo_word_4": "вулкан",
+        "taboo_word_5": "дыра"
+    },
+    {
+        "word": "гейзер",
+        "taboo_word_1": "фонтан",
+        "taboo_word_2": "природа",
+        "taboo_word_3": "вода",
+        "taboo_word_4": "горячий",
+        "taboo_word_5": "кратер"
+    },
+    {
+        "word": "бухта",
+        "taboo_word_1": "яхта",
+        "taboo_word_2": "залив",
+        "taboo_word_3": "гавань",
+        "taboo_word_4": "остров",
+        "taboo_word_5": "порт"
+    },
+    {
+        "word": "пролив",
+        "taboo_word_1": "бухта",
+        "taboo_word_2": "лагуна",
+        "taboo_word_3": "гавань",
+        "taboo_word_4": "Берингов",
+        "taboo_word_5": "суша"
+    },
+    {
+        "word": "архипелаг",
+        "taboo_word_1": "остров",
+        "taboo_word_2": "залив",
+        "taboo_word_3": "материк",
+        "taboo_word_4": "ГУЛАГ",
+        "taboo_word_5": "круиз"
+    },
+    {
+        "word": "экватор",
+        "taboo_word_1": "карта",
+        "taboo_word_2": "меридиан",
+        "taboo_word_3": "полюс",
+        "taboo_word_4": "глобус",
+        "taboo_word_5": "миновать"
+    },
+    {
+        "word": "алфавит",
+        "taboo_word_1": "буква",
+        "taboo_word_2": "греческий",
+        "taboo_word_3": "азбука",
+        "taboo_word_4": "учить",
+        "taboo_word_5": "школа"
+    },
+    {
+        "word": "эпос",
+        "taboo_word_1": "героический",
+        "taboo_word_2": "лирический",
+        "taboo_word_3": "народный",
+        "taboo_word_4": "мифология",
+        "taboo_word_5": "фольклор"
+    },
+    {
+        "word": "антагонист",
+        "taboo_word_1": "герой",
+        "taboo_word_2": "враг",
+        "taboo_word_3": "злодей",
+        "taboo_word_4": "антипод",
+        "taboo_word_5": "книга"
+    },
+    {
+        "word": "персонаж",
+        "taboo_word_1": "герой",
+        "taboo_word_2": "лирический",
+        "taboo_word_3": "книга",
+        "taboo_word_4": "фильм",
+        "taboo_word_5": "образ"
+    },
+    {
+        "word": "метафора",
+        "taboo_word_1": "прием",
+        "taboo_word_2": "литература",
+        "taboo_word_3": "выразительность",
+        "taboo_word_4": "эпитет",
+        "taboo_word_5": "олицетворение"
+    },
+    {
+        "word": "аллегория",
+        "taboo_word_1": "иносказание",
+        "taboo_word_2": "символ",
+        "taboo_word_3": "книга",
+        "taboo_word_4": "метафора",
+        "taboo_word_5": "образ"
+    },
+    {
+        "word": "сарказм",
+        "taboo_word_1": "ирония",
+        "taboo_word_2": "едкий",
+        "taboo_word_3": "колкость",
+        "taboo_word_4": "насмешка",
+        "taboo_word_5": "издевка"
+    },
+    {
+        "word": "интуиция",
+        "taboo_word_1": "предвидеть",
+        "taboo_word_2": "предосторожность",
+        "taboo_word_3": "чувствовать",
+        "taboo_word_4": "глаз",
+        "taboo_word_5": "будущее"
+    },
+    {
+        "word": "подсознание",
+        "taboo_word_1": "интуиция",
+        "taboo_word_2": "мысли",
+        "taboo_word_3": "психика",
+        "taboo_word_4": "могз",
+        "taboo_word_5": "разум"
+    },
+    {
+        "word": "концепция",
+        "taboo_word_1": "идея",
+        "taboo_word_2": "понятие",
+        "taboo_word_3": "теория",
+        "taboo_word_4": "образ",
+        "taboo_word_5": "философия"
+    },
+    {
+        "word": "этика",
+        "taboo_word_1": "культура",
+        "taboo_word_2": "наука",
+        "taboo_word_3": "нормы",
+        "taboo_word_4": "правила",
+        "taboo_word_5": "ценности"
+    },
+    {
+        "word": "добродетель",
+        "taboo_word_1": "зло",
+        "taboo_word_2": "мораль",
+        "taboo_word_3": "нормы",
+        "taboo_word_4": "правила",
+        "taboo_word_5": "ценности"
+    },
+    {
+        "word": "мотивация",
+        "taboo_word_1": "двигатель",
+        "taboo_word_2": "желание",
+        "taboo_word_3": "стимул",
+        "taboo_word_4": "энергия",
+        "taboo_word_5": "работа"
+    },
+    {
+        "word": "дизайн",
+        "taboo_word_1": "оригинальный",
+        "taboo_word_2": "карандаш",
+        "taboo_word_3": "мода",
+        "taboo_word_4": "эскиз",
+        "taboo_word_5": "набросок"
+    },
+    {
+        "word": "текстура",
+        "taboo_word_1": "материя",
+        "taboo_word_2": "поверхность",
+        "taboo_word_3": "чувство",
+        "taboo_word_4": "ощущение",
+        "taboo_word_5": "графика"
+    },
+    {
+        "word": "композиция",
+        "taboo_word_1": "рисунок",
+        "taboo_word_2": "элементы",
+        "taboo_word_3": "картина",
+        "taboo_word_4": "построение",
+        "taboo_word_5": "художественный"
+    },
+    {
+        "word": "светотень",
+        "taboo_word_1": "рисунок",
+        "taboo_word_2": "элементы",
+        "taboo_word_3": "картина",
+        "taboo_word_4": "художник",
+        "taboo_word_5": "контраст"
+    },
+    {
+        "word": "палитра",
+        "taboo_word_1": "кисть",
+        "taboo_word_2": "колорит",
+        "taboo_word_3": "художник",
+        "taboo_word_4": "цвет",
+        "taboo_word_5": "смешение"
+    },
+    {
+        "word": "пластик",
+        "taboo_word_1": "гибкий",
+        "taboo_word_2": "крышка",
+        "taboo_word_3": "бутылка",
+        "taboo_word_4": "материал",
+        "taboo_word_5": "пакет"
+    },
+    {
+        "word": "подиум",
+        "taboo_word_1": "демонстрировать",
+        "taboo_word_2": "сцена",
+        "taboo_word_3": "мода",
+        "taboo_word_4": "показ",
+        "taboo_word_5": "дефиле"
+    },
+    {
+        "word": "тренд",
+        "taboo_word_1": "тикток",
+        "taboo_word_2": "популярный",
+        "taboo_word_3": "мода",
+        "taboo_word_4": "новый",
+        "taboo_word_5": "стиль"
+    },
+    {
+        "word": "бренд",
+        "taboo_word_1": "марка",
+        "taboo_word_2": "логотип",
+        "taboo_word_3": "компания",
+        "taboo_word_4": "товар",
+        "taboo_word_5": "реклама"
+    },
+    {
+        "word": "логотип",
+        "taboo_word_1": "бренд",
+        "taboo_word_2": "символ",
+        "taboo_word_3": "компания",
+        "taboo_word_4": "фирма",
+        "taboo_word_5": "эмблема"
+    },
+    {
+        "word": "маркетинг",
+        "taboo_word_1": "реклама",
+        "taboo_word_2": "продвижение",
+        "taboo_word_3": "компания",
+        "taboo_word_4": "продажи",
+        "taboo_word_5": "товар"
+    },
+    {
+        "word": "купюра",
+        "taboo_word_1": "деньги",
+        "taboo_word_2": "монета",
+        "taboo_word_3": "банк",
+        "taboo_word_4": "бумага",
+        "taboo_word_5": "валюта"
+    },
+    {
+        "word": "инвестиция",
+        "taboo_word_1": "компания",
+        "taboo_word_2": "деньги",
+        "taboo_word_3": "капитал",
+        "taboo_word_4": "вложение",
+        "taboo_word_5": "бизнес"
+    },
+    {
+        "word": "дивиденд",
+        "taboo_word_1": "компания",
+        "taboo_word_2": "прибыль",
+        "taboo_word_3": "инвестор",
+        "taboo_word_4": "бизнес",
+        "taboo_word_5": "процент"
+    },
+    {
+        "word": "конкуренция",
+        "taboo_word_1": "оппозиция",
+        "taboo_word_2": "компания",
+        "taboo_word_3": "рынок",
+        "taboo_word_4": "соперник",
+        "taboo_word_5": "борьба"
+    },
+    {
+        "word": "монополия",
+        "taboo_word_1": "синдикат",
+        "taboo_word_2": "государство",
+        "taboo_word_3": "компания",
+        "taboo_word_4": "власть",
+        "taboo_word_5": "контроль"
+    },
+    {
+        "word": "арматура",
+        "taboo_word_1": "каркас",
+        "taboo_word_2": "прут",
+        "taboo_word_3": "стержень",
+        "taboo_word_4": "строить",
+        "taboo_word_5": "прочность"
+    },
+    {
+        "word": "лифчик",
+        "taboo_word_1": "лямка",
+        "taboo_word_2": "грудь",
+        "taboo_word_3": "топ",
+        "taboo_word_4": "бюстгалтер",
+        "taboo_word_5": "белье"
+    },
+    {
+        "word": "гостиная",
+        "taboo_word_1": "столовая",
+        "taboo_word_2": "камин",
+        "taboo_word_3": "принять",
+        "taboo_word_4": "зал",
+        "taboo_word_5": "комната"
+    },
+    {
+        "word": "прихожая",
+        "taboo_word_1": "коридор",
+        "taboo_word_2": "вешалка",
+        "taboo_word_3": "комната",
+        "taboo_word_4": "вход",
+        "taboo_word_5": "шкаф"
+    },
+    {
+        "word": "терраса",
+        "taboo_word_1": "веранда",
+        "taboo_word_2": "балкон",
+        "taboo_word_3": "улица",
+        "taboo_word_4": "открытый",
+        "taboo_word_5": "сад"
+    },
+    {
+        "word": "веранда",
+        "taboo_word_1": "беседа",
+        "taboo_word_2": "терраса",
+        "taboo_word_3": "улица",
+        "taboo_word_4": "балкон",
+        "taboo_word_5": "двор"
+    },
+    {
+        "word": "бордюр",
+        "taboo_word_1": "тротуар",
+        "taboo_word_2": "камень",
+        "taboo_word_3": "поребрик",
+        "taboo_word_4": "бортик",
+        "taboo_word_5": "ограда"
+    },
+    {
+        "word": "выключатель",
+        "taboo_word_1": "свет",
+        "taboo_word_2": "рубильник",
+        "taboo_word_3": "тумблер",
+        "taboo_word_4": "кнопка",
+        "taboo_word_5": "рычаг"
+    },
+    {
+        "word": "микроволновка",
+        "taboo_word_1": "греть",
+        "taboo_word_2": "еда",
+        "taboo_word_3": "кухня",
+        "taboo_word_4": "холодильник",
+        "taboo_word_5": "духовка"
+    },
+    {
+        "word": "зубная щётка",
+        "taboo_word_1": "чистить",
+        "taboo_word_2": "паста",
+        "taboo_word_3": "кариес",
+        "taboo_word_4": "ванная",
+        "taboo_word_5": "утро"
+    },
+    {
+        "word": "наволочка",
+        "taboo_word_1": "простыня",
+        "taboo_word_2": "постель",
+        "taboo_word_3": "кровать",
+        "taboo_word_4": "спать",
+        "taboo_word_5": "менять"
+    },
+    {
+        "word": "гардина",
+        "taboo_word_1": "штора",
+        "taboo_word_2": "тюль",
+        "taboo_word_3": "окно",
+        "taboo_word_4": "занавес",
+        "taboo_word_5": "портьера"
+    },
+    {
+        "word": "карниз",
+        "taboo_word_1": "выступ",
+        "taboo_word_2": "кровля",
+        "taboo_word_3": "пройти",
+        "taboo_word_4": "окно",
+        "taboo_word_5": "штора"
+    },
+    {
+        "word": "торшер",
+        "taboo_word_1": "читать",
+        "taboo_word_2": "лампа",
+        "taboo_word_3": "светить",
+        "taboo_word_4": "шнур",
+        "taboo_word_5": "плафон"
+    },
+    {
+        "word": "ночник",
+        "taboo_word_1": "свет",
+        "taboo_word_2": "страх",
+        "taboo_word_3": "дети",
+        "taboo_word_4": "спать",
+        "taboo_word_5": "лампа"
+    },
+    {
+        "word": "стиральная машина",
+        "taboo_word_1": "стирка",
+        "taboo_word_2": "грязный",
+        "taboo_word_3": "порошок",
+        "taboo_word_4": "прачечная",
+        "taboo_word_5": "одежда"
+    },
+    {
+        "word": "гладильная доска",
+        "taboo_word_1": "утюг",
+        "taboo_word_2": "мятый",
+        "taboo_word_3": "пар",
+        "taboo_word_4": "горячий",
+        "taboo_word_5": "одежда"
+    },
+    {
+        "word": "мусорное ведро",
+        "taboo_word_1": "контейнер",
+        "taboo_word_2": "грязь",
+        "taboo_word_3": "отходы",
+        "taboo_word_4": "выбрасывать",
+        "taboo_word_5": "бак"
+    },
+    {
+        "word": "дверной звонок",
+        "taboo_word_1": "кнопка",
+        "taboo_word_2": "квартира",
+        "taboo_word_3": "вход",
+        "taboo_word_4": "сигнал",
+        "taboo_word_5": "звук"
+    },
+    {
+        "word": "интерком",
+        "taboo_word_1": "голос",
+        "taboo_word_2": "связь",
+        "taboo_word_3": "сеть",
+        "taboo_word_4": "провод",
+        "taboo_word_5": "система"
+    },
+    {
+        "word": "смартфон",
+        "taboo_word_1": "телефон",
+        "taboo_word_2": "гаджет",
+        "taboo_word_3": "сенсор",
+        "taboo_word_4": "мобильный",
+        "taboo_word_5": "интернет"
+    },
+    {
+        "word": "планшет",
+        "taboo_word_1": "смартфон",
+        "taboo_word_2": "ноутбук",
+        "taboo_word_3": "гаджет",
+        "taboo_word_4": "сенсор",
+        "taboo_word_5": "устройство"
+    },
+    {
+        "word": "ноутбук",
+        "taboo_word_1": "смартфон",
+        "taboo_word_2": "компьютер",
+        "taboo_word_3": "гаджет",
+        "taboo_word_4": "клавиатура",
+        "taboo_word_5": "мышка"
+    },
+    {
+        "word": "монитор",
+        "taboo_word_1": "дисплей",
+        "taboo_word_2": "изображение",
+        "taboo_word_3": "компьютер",
+        "taboo_word_4": "клавиатура",
+        "taboo_word_5": "мышка"
+    },
+    {
+        "word": "клавиатура",
+        "taboo_word_1": "компьютер",
+        "taboo_word_2": "кнопка",
+        "taboo_word_3": "мышка",
+        "taboo_word_4": "печатать",
+        "taboo_word_5": "монитор"
+    },
+    {
+        "word": "объектив",
+        "taboo_word_1": "фокус",
+        "taboo_word_2": "фото",
+        "taboo_word_3": "снимок",
+        "taboo_word_4": "линза",
+        "taboo_word_5": "камера"
+    },
+    {
+        "word": "штатив",
+        "taboo_word_1": "фотоаппарат",
+        "taboo_word_2": "установить",
+        "taboo_word_3": "держать",
+        "taboo_word_4": "ножки",
+        "taboo_word_5": "снимать"
+    },
+    {
+        "word": "флешка",
+        "taboo_word_1": "память",
+        "taboo_word_2": "данные",
+        "taboo_word_3": "хранить",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "ноутбук"
+    },
+    {
+        "word": "жёсткий диск",
+        "taboo_word_1": "память",
+        "taboo_word_2": "хранить",
+        "taboo_word_3": "данные",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "накопитель"
+    },
+    {
+        "word": "процессор",
+        "taboo_word_1": "кварц",
+        "taboo_word_2": "музыкальный",
+        "taboo_word_3": "ядро",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "мозг"
+    },
+    {
+        "word": "оперативная память",
+        "taboo_word_1": "данные",
+        "taboo_word_2": "скорость",
+        "taboo_word_3": "процессор",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "хранить"
+    },
+    {
+        "word": "видеокарта",
+        "taboo_word_1": "дисплей",
+        "taboo_word_2": "экран",
+        "taboo_word_3": "изображение",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "обработка"
+    },
+    {
+        "word": "материнская плата",
+        "taboo_word_1": "процессор",
+        "taboo_word_2": "питание",
+        "taboo_word_3": "связь",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "оперативная память"
+    },
+    {
+        "word": "блок питания",
+        "taboo_word_1": "питание",
+        "taboo_word_2": "электричество",
+        "taboo_word_3": "кабель",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "зарядка"
+    },
+    {
+        "word": "кулер",
+        "taboo_word_1": "вода",
+        "taboo_word_2": "компьютер",
+        "taboo_word_3": "охлаждение",
+        "taboo_word_4": "наливать",
+        "taboo_word_5": "пить"
+    },
+    {
+        "word": "сканер",
+        "taboo_word_1": "изображение",
+        "taboo_word_2": "устройство",
+        "taboo_word_3": "документ",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "принтер"
+    },
+    {
+        "word": "модем",
+        "taboo_word_1": "скоростной",
+        "taboo_word_2": "сеть",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "роутер",
+        "taboo_word_5": "Wi-Fi"
+    },
+    {
+        "word": "роутер",
+        "taboo_word_1": "подключение",
+        "taboo_word_2": "сеть",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "маршрутизатор",
+        "taboo_word_5": "Wi-Fi"
+    },
+    {
+        "word": "интернет",
+        "taboo_word_1": "браузер",
+        "taboo_word_2": "сеть",
+        "taboo_word_3": "сайт",
+        "taboo_word_4": "онлайн",
+        "taboo_word_5": "Wi-Fi"
+    },
+    {
+        "word": "сайт",
+        "taboo_word_1": "сервер",
+        "taboo_word_2": "сеть",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "ссылка",
+        "taboo_word_5": "домен"
+    },
+    {
+        "word": "приложение",
+        "taboo_word_1": "телефон",
+        "taboo_word_2": "программа",
+        "taboo_word_3": "скачать",
+        "taboo_word_4": "установить",
+        "taboo_word_5": "обновить"
+    },
+    {
+        "word": "алгоритм",
+        "taboo_word_1": "нейросеть",
+        "taboo_word_2": "модель",
+        "taboo_word_3": "решить",
+        "taboo_word_4": "схема",
+        "taboo_word_5": "программирование"
+    },
+    {
+        "word": "база данных",
+        "taboo_word_1": "отчет",
+        "taboo_word_2": "таблица",
+        "taboo_word_3": "хранить",
+        "taboo_word_4": "информация",
+        "taboo_word_5": "SQL"
+    },
+    {
+        "word": "сервер",
+        "taboo_word_1": "данные",
+        "taboo_word_2": "сеть",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "подключение",
+        "taboo_word_5": "хостинг"
+    },
+    {
+        "word": "облачное хранилище",
+        "taboo_word_1": "данные",
+        "taboo_word_2": "файлы",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "доступ",
+        "taboo_word_5": "онлайн"
+    },
+    {
+        "word": "логин",
+        "taboo_word_1": "пароль",
+        "taboo_word_2": "аккаунт",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "сайт",
+        "taboo_word_5": "регистрация"
+    },
+    {
+        "word": "аккаунт",
+        "taboo_word_1": "данные",
+        "taboo_word_2": "логин",
+        "taboo_word_3": "пароль",
+        "taboo_word_4": "соцсеть",
+        "taboo_word_5": "блог"
+    },
+    {
+        "word": "электронная почта",
+        "taboo_word_1": "письмо",
+        "taboo_word_2": "сообщение",
+        "taboo_word_3": "пароль",
+        "taboo_word_4": "спам",
+        "taboo_word_5": "email"
+    },
+    {
+        "word": "чат",
+        "taboo_word_1": "сообщение",
+        "taboo_word_2": "переписка",
+        "taboo_word_3": "онлайн",
+        "taboo_word_4": "общение",
+        "taboo_word_5": "диалог"
+    },
+    {
+        "word": "блог",
+        "taboo_word_1": "аккаунт",
+        "taboo_word_2": "публикация",
+        "taboo_word_3": "интернет",
+        "taboo_word_4": "видео",
+        "taboo_word_5": "подписка"
+    },
+    {
+        "word": "комментарий",
+        "taboo_word_1": "подписка",
+        "taboo_word_2": "лайк",
+        "taboo_word_3": "репост",
+        "taboo_word_4": "ответ",
+        "taboo_word_5": "писать"
+    },
+    {
+        "word": "лайк",
+        "taboo_word_1": "пост",
+        "taboo_word_2": "комментарий",
+        "taboo_word_3": "репост",
+        "taboo_word_4": "реакция",
+        "taboo_word_5": "сердечко"
+    },
+    {
+        "word": "подписка",
+        "taboo_word_1": "журнал",
+        "taboo_word_2": "платить",
+        "taboo_word_3": "блог",
+        "taboo_word_4": "соцсеть",
+        "taboo_word_5": "канал"
+    },
+    {
+        "word": "репост",
+        "taboo_word_1": "блог",
+        "taboo_word_2": "лайк",
+        "taboo_word_3": "комментарий",
+        "taboo_word_4": "делиться",
+        "taboo_word_5": "пост"
+    },
+    {
+        "word": "хештег",
+        "taboo_word_1": "пост",
+        "taboo_word_2": "лайк",
+        "taboo_word_3": "репост",
+        "taboo_word_4": "решётка",
+        "taboo_word_5": "фото"
+    },
+    {
+        "word": "тролль",
+        "taboo_word_1": "гном",
+        "taboo_word_2": "комментарий",
+        "taboo_word_3": "мост",
+        "taboo_word_4": "пост",
+        "taboo_word_5": "оскорбление"
+    },
+    {
+        "word": "бот",
+        "taboo_word_1": "программа",
+        "taboo_word_2": "чат",
+        "taboo_word_3": "виртуальный",
+        "taboo_word_4": "помощь",
+        "taboo_word_5": "соцсеть"
+    },
+    {
+        "word": "антивирус",
+        "taboo_word_1": "программа",
+        "taboo_word_2": "защита",
+        "taboo_word_3": "компьютер",
+        "taboo_word_4": "безопасность",
+        "taboo_word_5": "данные"
+    },
+    {
+        "word": "файервол",
+        "taboo_word_1": "программа",
+        "taboo_word_2": "защита",
+        "taboo_word_3": "доступ",
+        "taboo_word_4": "сеть",
+        "taboo_word_5": "фильтрация"
+    },
+    {
+        "word": "шифрование",
+        "taboo_word_1": "Цезарь",
+        "taboo_word_2": "код",
+        "taboo_word_3": "защита",
+        "taboo_word_4": "данные",
+        "taboo_word_5": "ключ"
+    },
+    {
+        "word": "дешифровка",
+        "taboo_word_1": "преобразование",
+        "taboo_word_2": "ключ",
+        "taboo_word_3": "декодирование",
+        "taboo_word_4": "анализ",
+        "taboo_word_5": "обратный"
+    },
+    {
+        "word": "хакер",
+        "taboo_word_1": "взлом",
+        "taboo_word_2": "аккаунт",
+        "taboo_word_3": "вирус",
+        "taboo_word_4": "компьютер",
+        "taboo_word_5": "безопасность"
+    },
+    {
+        "word": "программист",
+        "taboo_word_1": "IT",
+        "taboo_word_2": "инженер",
+        "taboo_word_3": "код",
+        "taboo_word_4": "разработчик",
+        "taboo_word_5": "алгоритм"
+    },
+    {
+        "word": "дизайнер",
+        "taboo_word_1": "мода",
+        "taboo_word_2": "одежда",
+        "taboo_word_3": "интерьер",
+        "taboo_word_4": "ландшафтный",
+        "taboo_word_5": "рисовать"
+    },
+    {
+        "word": "маркетолог",
+        "taboo_word_1": "реклама",
+        "taboo_word_2": "продажи",
+        "taboo_word_3": "аналитика",
+        "taboo_word_4": "продвижение",
+        "taboo_word_5": "таргет"
+    },
+    {
+        "word": "гид",
+        "taboo_word_1": "экскурсовод",
+        "taboo_word_2": "тур",
+        "taboo_word_3": "путешествие",
+        "taboo_word_4": "рассказывать",
+        "taboo_word_5": "музей"
+    },
+    {
+        "word": "болельщик",
+        "taboo_word_1": "спорт",
+        "taboo_word_2": "фанат",
+        "taboo_word_3": "трибуна",
+        "taboo_word_4": "матч",
+        "taboo_word_5": "кричать"
+    },
+    {
+        "word": "дошкольник",
+        "taboo_word_1": "ученик",
+        "taboo_word_2": "игра",
+        "taboo_word_3": "сад",
+        "taboo_word_4": "ребенок",
+        "taboo_word_5": "детство"
+    }
+]

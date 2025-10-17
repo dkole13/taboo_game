@@ -1,0 +1,5954 @@
+[
+    {
+        "pk": 1,
+        "model": "game.Word",
+        "fields": {
+            "word": "гора",
+            "taboo_word_1": "Эверест",
+            "taboo_word_2": "Магомет",
+            "taboo_word_3": "подъем",
+            "taboo_word_4": "высокий",
+            "taboo_word_5": "вершина"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "game.Word",
+        "fields": {
+            "word": "река",
+            "taboo_word_1": "мост",
+            "taboo_word_2": "течение",
+            "taboo_word_3": "берег",
+            "taboo_word_4": "плыть",
+            "taboo_word_5": "протекать"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "game.Word",
+        "fields": {
+            "word": "лес",
+            "taboo_word_1": "дремучий",
+            "taboo_word_2": "природа",
+            "taboo_word_3": "ель",
+            "taboo_word_4": "сосновый",
+            "taboo_word_5": "чаща"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "game.Word",
+        "fields": {
+            "word": "океан",
+            "taboo_word_1": "тихий",
+            "taboo_word_2": "глубокий",
+            "taboo_word_3": "море",
+            "taboo_word_4": "мировой",
+            "taboo_word_5": "айсберг"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "game.Word",
+        "fields": {
+            "word": "облако",
+            "taboo_word_1": "перистый",
+            "taboo_word_2": "небо",
+            "taboo_word_3": "Бог",
+            "taboo_word_4": "туманный",
+            "taboo_word_5": "белый"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "game.Word",
+        "fields": {
+            "word": "звезда",
+            "taboo_word_1": "мерцать",
+            "taboo_word_2": "погаснуть",
+            "taboo_word_3": "кремль",
+            "taboo_word_4": "луна",
+            "taboo_word_5": "ночь"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "game.Word",
+        "fields": {
+            "word": "комета",
+            "taboo_word_1": "звезда",
+            "taboo_word_2": "огненный",
+            "taboo_word_3": "планета",
+            "taboo_word_4": "ракета",
+            "taboo_word_5": "ядро"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "game.Word",
+        "fields": {
+            "word": "галактика",
+            "taboo_word_1": "вечный",
+            "taboo_word_2": "бесконечность",
+            "taboo_word_3": "вселенная",
+            "taboo_word_4": "спутник",
+            "taboo_word_5": "туманность"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "game.Word",
+        "fields": {
+            "word": "вулкан",
+            "taboo_word_1": "лавина",
+            "taboo_word_2": "гора",
+            "taboo_word_3": "грохот",
+            "taboo_word_4": "застывший",
+            "taboo_word_5": "катастрофа"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "game.Word",
+        "fields": {
+            "word": "пустыня",
+            "taboo_word_1": "сахара",
+            "taboo_word_2": "жажда",
+            "taboo_word_3": "верблюд",
+            "taboo_word_4": "мираж",
+            "taboo_word_5": "песок"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "game.Word",
+        "fields": {
+            "word": "остров",
+            "taboo_word_1": "необитаемый",
+            "taboo_word_2": "сокровища",
+            "taboo_word_3": "неизведанный",
+            "taboo_word_4": "бухта",
+            "taboo_word_5": "медвежий"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "game.Word",
+        "fields": {
+            "word": "водопад",
+            "taboo_word_1": "поток",
+            "taboo_word_2": "горный",
+            "taboo_word_3": "утёс",
+            "taboo_word_4": "каскад",
+            "taboo_word_5": "бурный"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "game.Word",
+        "fields": {
+            "word": "пещера",
+            "taboo_word_1": "жилище",
+            "taboo_word_2": "древний",
+            "taboo_word_3": "минерал",
+            "taboo_word_4": "дыра",
+            "taboo_word_5": "ледяной"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "game.Word",
+        "fields": {
+            "word": "утёс",
+            "taboo_word_1": "гладкий",
+            "taboo_word_2": "скала",
+            "taboo_word_3": "неприступный",
+            "taboo_word_4": "гора",
+            "taboo_word_5": "обрыв"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "game.Word",
+        "fields": {
+            "word": "равнина",
+            "taboo_word_1": "гора",
+            "taboo_word_2": "долина",
+            "taboo_word_3": "низменный",
+            "taboo_word_4": "плоскость",
+            "taboo_word_5": "поле"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "game.Word",
+        "fields": {
+            "word": "джунгли",
+            "taboo_word_1": "непроходимый",
+            "taboo_word_2": "дебри",
+            "taboo_word_3": "Амазонка",
+            "taboo_word_4": "обезьяна",
+            "taboo_word_5": "зов"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "game.Word",
+        "fields": {
+            "word": "степь",
+            "taboo_word_1": "простор",
+            "taboo_word_2": "широкий",
+            "taboo_word_3": "саксаул",
+            "taboo_word_4": "поле",
+            "taboo_word_5": "ветер"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "game.Word",
+        "fields": {
+            "word": "болото",
+            "taboo_word_1": "трясина",
+            "taboo_word_2": "топи",
+            "taboo_word_3": "жаба",
+            "taboo_word_4": "клюква",
+            "taboo_word_5": "вода"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "game.Word",
+        "fields": {
+            "word": "луг",
+            "taboo_word_1": "зеленый",
+            "taboo_word_2": "заливной",
+            "taboo_word_3": "поле",
+            "taboo_word_4": "трава",
+            "taboo_word_5": "бабочка"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "game.Word",
+        "fields": {
+            "word": "цветок",
+            "taboo_word_1": "полевой",
+            "taboo_word_2": "стебель",
+            "taboo_word_3": "пахнуть",
+            "taboo_word_4": "ландыш",
+            "taboo_word_5": "одуванчик"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "game.Word",
+        "fields": {
+            "word": "трава",
+            "taboo_word_1": "мурава",
+            "taboo_word_2": "зеленый",
+            "taboo_word_3": "стебель",
+            "taboo_word_4": "роса",
+            "taboo_word_5": "косить"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "game.Word",
+        "fields": {
+            "word": "мох",
+            "taboo_word_1": "болото",
+            "taboo_word_2": "сырой",
+            "taboo_word_3": "заросший",
+            "taboo_word_4": "лес",
+            "taboo_word_5": "растение"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "game.Word",
+        "fields": {
+            "word": "гриб",
+            "taboo_word_1": "мухомор",
+            "taboo_word_2": "червивый",
+            "taboo_word_3": "дождь",
+            "taboo_word_4": "лес",
+            "taboo_word_5": "белый"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "game.Word",
+        "fields": {
+            "word": "корень",
+            "taboo_word_1": "женьшень",
+            "taboo_word_2": "стебель",
+            "taboo_word_3": "квадратный",
+            "taboo_word_4": "дерево",
+            "taboo_word_5": "почва"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "game.Word",
+        "fields": {
+            "word": "ствол",
+            "taboo_word_1": "пистолет",
+            "taboo_word_2": "кора",
+            "taboo_word_3": "дерево",
+            "taboo_word_4": "шероховатый",
+            "taboo_word_5": "ветка"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "game.Word",
+        "fields": {
+            "word": "лист",
+            "taboo_word_1": "кленовый",
+            "taboo_word_2": "дерево",
+            "taboo_word_3": "желтый",
+            "taboo_word_4": "чистый",
+            "taboo_word_5": "бумага"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "game.Word",
+        "fields": {
+            "word": "ветка",
+            "taboo_word_1": "ствол",
+            "taboo_word_2": "прут",
+            "taboo_word_3": "сук",
+            "taboo_word_4": "верба",
+            "taboo_word_5": "дерево"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "game.Word",
+        "fields": {
+            "word": "почка",
+            "taboo_word_1": "орган",
+            "taboo_word_2": "весна",
+            "taboo_word_3": "лист",
+            "taboo_word_4": "дерево",
+            "taboo_word_5": "печень"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "game.Word",
+        "fields": {
+            "word": "семя",
+            "taboo_word_1": "зерно",
+            "taboo_word_2": "пшеница",
+            "taboo_word_3": "растение",
+            "taboo_word_4": "плод",
+            "taboo_word_5": "сеять"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "game.Word",
+        "fields": {
+            "word": "плод",
+            "taboo_word_1": "запретный",
+            "taboo_word_2": "спелый",
+            "taboo_word_3": "фрукт",
+            "taboo_word_4": "косточка",
+            "taboo_word_5": "сад"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "game.Word",
+        "fields": {
+            "word": "ягода",
+            "taboo_word_1": "малина",
+            "taboo_word_2": "смородина",
+            "taboo_word_3": "плод",
+            "taboo_word_4": "сладкий",
+            "taboo_word_5": "куст"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "game.Word",
+        "fields": {
+            "word": "орех",
+            "taboo_word_1": "грецкий",
+            "taboo_word_2": "расколоть",
+            "taboo_word_3": "скорлупа",
+            "taboo_word_4": "крепкий",
+            "taboo_word_5": "Щелкунчик"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "game.Word",
+        "fields": {
+            "word": "кора",
+            "taboo_word_1": "береза",
+            "taboo_word_2": "дерево",
+            "taboo_word_3": "слой",
+            "taboo_word_4": "мозг",
+            "taboo_word_5": "поверхность"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "game.Word",
+        "fields": {
+            "word": "сок",
+            "taboo_word_1": "жидкость",
+            "taboo_word_2": "березовый",
+            "taboo_word_3": "яблочный",
+            "taboo_word_4": "фрукт",
+            "taboo_word_5": "пить"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "game.Word",
+        "fields": {
+            "word": "пыльца",
+            "taboo_word_1": "цветок",
+            "taboo_word_2": "аллергия",
+            "taboo_word_3": "пчела",
+            "taboo_word_4": "пахнуть",
+            "taboo_word_5": "насекомое"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "game.Word",
+        "fields": {
+            "word": "роса",
+            "taboo_word_1": "капля",
+            "taboo_word_2": "утро",
+            "taboo_word_3": "босой",
+            "taboo_word_4": "трава",
+            "taboo_word_5": "мокрый"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "game.Word",
+        "fields": {
+            "word": "иней",
+            "taboo_word_1": "синий",
+            "taboo_word_2": "мороз",
+            "taboo_word_3": "зима",
+            "taboo_word_4": "серебряный",
+            "taboo_word_5": "снег"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "game.Word",
+        "fields": {
+            "word": "снег",
+            "taboo_word_1": "белый",
+            "taboo_word_2": "таять",
+            "taboo_word_3": "холодный",
+            "taboo_word_4": "зима",
+            "taboo_word_5": "Новый год"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "game.Word",
+        "fields": {
+            "word": "дождь",
+            "taboo_word_1": "проливной",
+            "taboo_word_2": "зонт",
+            "taboo_word_3": "погода",
+            "taboo_word_4": "осень",
+            "taboo_word_5": "капля"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "game.Word",
+        "fields": {
+            "word": "град",
+            "taboo_word_1": "крупный",
+            "taboo_word_2": "снег",
+            "taboo_word_3": "дождь",
+            "taboo_word_4": "осадки",
+            "taboo_word_5": "погода"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "game.Word",
+        "fields": {
+            "word": "гром",
+            "taboo_word_1": "грянуть",
+            "taboo_word_2": "молния",
+            "taboo_word_3": "гроза",
+            "taboo_word_4": "грохот",
+            "taboo_word_5": "раскат"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "game.Word",
+        "fields": {
+            "word": "ветер",
+            "taboo_word_1": "сильный",
+            "taboo_word_2": "дуть",
+            "taboo_word_3": "воздух",
+            "taboo_word_4": "мельница",
+            "taboo_word_5": "порыв"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "game.Word",
+        "fields": {
+            "word": "ураган",
+            "taboo_word_1": "смерч",
+            "taboo_word_2": "стихия",
+            "taboo_word_3": "ветер",
+            "taboo_word_4": "буря",
+            "taboo_word_5": "бедствие"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "game.Word",
+        "fields": {
+            "word": "туман",
+            "taboo_word_1": "густой",
+            "taboo_word_2": "видеть",
+            "taboo_word_3": "синий",
+            "taboo_word_4": "дым",
+            "taboo_word_5": "утренний"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "game.Word",
+        "fields": {
+            "word": "радуга",
+            "taboo_word_1": "дождь",
+            "taboo_word_2": "горизонт",
+            "taboo_word_3": "небо",
+            "taboo_word_4": "солнце",
+            "taboo_word_5": "цвет"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "game.Word",
+        "fields": {
+            "word": "закат",
+            "taboo_word_1": "рассвет",
+            "taboo_word_2": "малиновый",
+            "taboo_word_3": "вечер",
+            "taboo_word_4": "солнце",
+            "taboo_word_5": "небо"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "game.Word",
+        "fields": {
+            "word": "рассвет",
+            "taboo_word_1": "ранний",
+            "taboo_word_2": "утро",
+            "taboo_word_3": "солнце",
+            "taboo_word_4": "закат",
+            "taboo_word_5": "заря"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "game.Word",
+        "fields": {
+            "word": "луна",
+            "taboo_word_1": "месяц",
+            "taboo_word_2": "солнце",
+            "taboo_word_3": "ночь",
+            "taboo_word_4": "звезда",
+            "taboo_word_5": "спутник"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "game.Word",
+        "fields": {
+            "word": "солнце",
+            "taboo_word_1": "луна",
+            "taboo_word_2": "закат",
+            "taboo_word_3": "свет",
+            "taboo_word_4": "восход",
+            "taboo_word_5": "небо"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "game.Word",
+        "fields": {
+            "word": "планета",
+            "taboo_word_1": "Земля",
+            "taboo_word_2": "орбита",
+            "taboo_word_3": "звезда",
+            "taboo_word_4": "космос",
+            "taboo_word_5": "астрономия"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "game.Word",
+        "fields": {
+            "word": "источник",
+            "taboo_word_1": "минеральный",
+            "taboo_word_2": "родник",
+            "taboo_word_3": "информация",
+            "taboo_word_4": "термальный",
+            "taboo_word_5": "газета"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "game.Word",
+        "fields": {
+            "word": "ручей",
+            "taboo_word_1": "журчать",
+            "taboo_word_2": "чистый",
+            "taboo_word_3": "весна",
+            "taboo_word_4": "родник",
+            "taboo_word_5": "река"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "game.Word",
+        "fields": {
+            "word": "пруд",
+            "taboo_word_1": "водоем",
+            "taboo_word_2": "озеро",
+            "taboo_word_3": "болото",
+            "taboo_word_4": "заводь",
+            "taboo_word_5": "лягушка"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "game.Word",
+        "fields": {
+            "word": "озеро",
+            "taboo_word_1": "Байкал",
+            "taboo_word_2": "река",
+            "taboo_word_3": "водоем",
+            "taboo_word_4": "глубокий",
+            "taboo_word_5": "болото"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "game.Word",
+        "fields": {
+            "word": "залив",
+            "taboo_word_1": "финский",
+            "taboo_word_2": "гавань",
+            "taboo_word_3": "берег",
+            "taboo_word_4": "море",
+            "taboo_word_5": "вода"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "game.Word",
+        "fields": {
+            "word": "мыс",
+            "taboo_word_1": "море",
+            "taboo_word_2": "обрыв",
+            "taboo_word_3": "берег",
+            "taboo_word_4": "суша",
+            "taboo_word_5": "остов"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "game.Word",
+        "fields": {
+            "word": "континент",
+            "taboo_word_1": "Евразия",
+            "taboo_word_2": "суша",
+            "taboo_word_3": "океан",
+            "taboo_word_4": "материк",
+            "taboo_word_5": "страна"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "game.Word",
+        "fields": {
+            "word": "полюс",
+            "taboo_word_1": "магнитный",
+            "taboo_word_2": "Арктика",
+            "taboo_word_3": "север",
+            "taboo_word_4": "юг",
+            "taboo_word_5": "карта"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "game.Word",
+        "fields": {
+            "word": "климат",
+            "taboo_word_1": "суровый",
+            "taboo_word_2": "жаркий",
+            "taboo_word_3": "мягкий",
+            "taboo_word_4": "погода",
+            "taboo_word_5": "влажность"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "game.Word",
+        "fields": {
+            "word": "погода",
+            "taboo_word_1": "дождь",
+            "taboo_word_2": "ветряный",
+            "taboo_word_3": "природа",
+            "taboo_word_4": "солнце",
+            "taboo_word_5": "прогноз"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "game.Word",
+        "fields": {
+            "word": "сезон",
+            "taboo_word_1": "бархатный",
+            "taboo_word_2": "дачный",
+            "taboo_word_3": "зима",
+            "taboo_word_4": "время",
+            "taboo_word_5": "год"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "game.Word",
+        "fields": {
+            "word": "весна",
+            "taboo_word_1": "цветы",
+            "taboo_word_2": "почки",
+            "taboo_word_3": "тепло",
+            "taboo_word_4": "зелень",
+            "taboo_word_5": "сезон"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "game.Word",
+        "fields": {
+            "word": "лето",
+            "taboo_word_1": "жара",
+            "taboo_word_2": "купаться",
+            "taboo_word_3": "каникулы",
+            "taboo_word_4": "сезон",
+            "taboo_word_5": "море"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "game.Word",
+        "fields": {
+            "word": "осень",
+            "taboo_word_1": "листья",
+            "taboo_word_2": "дождь",
+            "taboo_word_3": "погода",
+            "taboo_word_4": "лужи",
+            "taboo_word_5": "грязь"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "game.Word",
+        "fields": {
+            "word": "зима",
+            "taboo_word_1": "снег",
+            "taboo_word_2": "мороз",
+            "taboo_word_3": "Новый год",
+            "taboo_word_4": "холод",
+            "taboo_word_5": "метель"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "game.Word",
+        "fields": {
+            "word": "ночь",
+            "taboo_word_1": "луна",
+            "taboo_word_2": "темно",
+            "taboo_word_3": "день",
+            "taboo_word_4": "звезда",
+            "taboo_word_5": "черный"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "game.Word",
+        "fields": {
+            "word": "день",
+            "taboo_word_1": "сутки",
+            "taboo_word_2": "календарь",
+            "taboo_word_3": "тяжелый",
+            "taboo_word_4": "месяц",
+            "taboo_word_5": "ночь"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "game.Word",
+        "fields": {
+            "word": "час",
+            "taboo_word_1": "минута",
+            "taboo_word_2": "тихий",
+            "taboo_word_3": "секунда",
+            "taboo_word_4": "время",
+            "taboo_word_5": "цифра"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "game.Word",
+        "fields": {
+            "word": "минута",
+            "taboo_word_1": "час",
+            "taboo_word_2": "секунда",
+            "taboo_word_3": "время",
+            "taboo_word_4": "пять",
+            "taboo_word_5": "время"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "game.Word",
+        "fields": {
+            "word": "секунда",
+            "taboo_word_1": "минута",
+            "taboo_word_2": "мгновение",
+            "taboo_word_3": "миг",
+            "taboo_word_4": "час",
+            "taboo_word_5": "время"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "game.Word",
+        "fields": {
+            "word": "век",
+            "taboo_word_1": "эра",
+            "taboo_word_2": "каменный",
+            "taboo_word_3": "год",
+            "taboo_word_4": "золотой",
+            "taboo_word_5": "тысяча"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "game.Word",
+        "fields": {
+            "word": "эпоха",
+            "taboo_word_1": "Средневековье",
+            "taboo_word_2": "Возрождение",
+            "taboo_word_3": "Сталин",
+            "taboo_word_4": "период",
+            "taboo_word_5": "эра"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "game.Word",
+        "fields": {
+            "word": "история",
+            "taboo_word_1": "рассказывать",
+            "taboo_word_2": "литература",
+            "taboo_word_3": "летопись",
+            "taboo_word_4": "древность",
+            "taboo_word_5": "событие"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "game.Word",
+        "fields": {
+            "word": "будущее",
+            "taboo_word_1": "предвидеть",
+            "taboo_word_2": "настоящее",
+            "taboo_word_3": "прошлое",
+            "taboo_word_4": "светлый",
+            "taboo_word_5": "планы"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "game.Word",
+        "fields": {
+            "word": "настоящее",
+            "taboo_word_1": "прошлое",
+            "taboo_word_2": "реальность",
+            "taboo_word_3": "будущее",
+            "taboo_word_4": "актуальный",
+            "taboo_word_5": "сейчас"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "game.Word",
+        "fields": {
+            "word": "прошлое",
+            "taboo_word_1": "вспоминать",
+            "taboo_word_2": "забыть",
+            "taboo_word_3": "история",
+            "taboo_word_4": "будущее",
+            "taboo_word_5": "настоящее"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "game.Word",
+        "fields": {
+            "word": "время",
+            "taboo_word_1": "проводить",
+            "taboo_word_2": "период",
+            "taboo_word_3": "час",
+            "taboo_word_4": "минута",
+            "taboo_word_5": "спросить"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "game.Word",
+        "fields": {
+            "word": "пространство",
+            "taboo_word_1": "пустота",
+            "taboo_word_2": "космос",
+            "taboo_word_3": "воздух",
+            "taboo_word_4": "время",
+            "taboo_word_5": "замкнутый"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "game.Word",
+        "fields": {
+            "word": "вселенная",
+            "taboo_word_1": "бесконечность",
+            "taboo_word_2": "космос",
+            "taboo_word_3": "человечество",
+            "taboo_word_4": "мир",
+            "taboo_word_5": "вечность"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "game.Word",
+        "fields": {
+            "word": "материя",
+            "taboo_word_1": "вещество",
+            "taboo_word_2": "частица",
+            "taboo_word_3": "шёлк",
+            "taboo_word_4": "полотно",
+            "taboo_word_5": "ткать"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "game.Word",
+        "fields": {
+            "word": "энергия",
+            "taboo_word_1": "гидроэлектростанция",
+            "taboo_word_2": "атомный",
+            "taboo_word_3": "импульс",
+            "taboo_word_4": "топливо",
+            "taboo_word_5": "батарейка"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "game.Word",
+        "fields": {
+            "word": "свет",
+            "taboo_word_1": "лампа",
+            "taboo_word_2": "тусклый",
+            "taboo_word_3": "яркий",
+            "taboo_word_4": "включить",
+            "taboo_word_5": "электричество"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "game.Word",
+        "fields": {
+            "word": "тень",
+            "taboo_word_1": "чёрный",
+            "taboo_word_2": "силуэт",
+            "taboo_word_3": "прохлада",
+            "taboo_word_4": "бросать",
+            "taboo_word_5": "свет"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "game.Word",
+        "fields": {
+            "word": "звук",
+            "taboo_word_1": "громкий",
+            "taboo_word_2": "слышать",
+            "taboo_word_3": "голос",
+            "taboo_word_4": "музыка",
+            "taboo_word_5": "сигнал"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "game.Word",
+        "fields": {
+            "word": "тишина",
+            "taboo_word_1": "гробовой",
+            "taboo_word_2": "покой",
+            "taboo_word_3": "шепот",
+            "taboo_word_4": "молчать",
+            "taboo_word_5": "спокойствие"
+        }
+    },
+    {
+        "pk": 86,
+        "model": "game.Word",
+        "fields": {
+            "word": "шум",
+            "taboo_word_1": "гам",
+            "taboo_word_2": "грохот",
+            "taboo_word_3": "слышать",
+            "taboo_word_4": "громкий",
+            "taboo_word_5": "город"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "game.Word",
+        "fields": {
+            "word": "музыка",
+            "taboo_word_1": "слушать",
+            "taboo_word_2": "песня",
+            "taboo_word_3": "танцевать",
+            "taboo_word_4": "мелодия",
+            "taboo_word_5": "дискотека"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "game.Word",
+        "fields": {
+            "word": "мелодия",
+            "taboo_word_1": "песня",
+            "taboo_word_2": "мотив",
+            "taboo_word_3": "музыка",
+            "taboo_word_4": "звучать",
+            "taboo_word_5": "голос"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "game.Word",
+        "fields": {
+            "word": "ритм",
+            "taboo_word_1": "пульс",
+            "taboo_word_2": "четкий",
+            "taboo_word_3": "темп",
+            "taboo_word_4": "сердечный",
+            "taboo_word_5": "танцевать"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "game.Word",
+        "fields": {
+            "word": "аккорд",
+            "taboo_word_1": "мелодия",
+            "taboo_word_2": "музыкальный",
+            "taboo_word_3": "играть",
+            "taboo_word_4": "тон",
+            "taboo_word_5": "финальный"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "game.Word",
+        "fields": {
+            "word": "нота",
+            "taboo_word_1": "фальшивый",
+            "taboo_word_2": "аккорд",
+            "taboo_word_3": "струна",
+            "taboo_word_4": "песня",
+            "taboo_word_5": "мелодия"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "game.Word",
+        "fields": {
+            "word": "голос",
+            "taboo_word_1": "громкий",
+            "taboo_word_2": "звук",
+            "taboo_word_3": "петь",
+            "taboo_word_4": "сопрано",
+            "taboo_word_5": "слышать"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "game.Word",
+        "fields": {
+            "word": "слово",
+            "taboo_word_1": "сказать",
+            "taboo_word_2": "честный",
+            "taboo_word_3": "фраза",
+            "taboo_word_4": "держать",
+            "taboo_word_5": "речь"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "game.Word",
+        "fields": {
+            "word": "фраза",
+            "taboo_word_1": "ключевой",
+            "taboo_word_2": "слово",
+            "taboo_word_3": "крылатый",
+            "taboo_word_4": "предложение",
+            "taboo_word_5": "реплика"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "game.Word",
+        "fields": {
+            "word": "текст",
+            "taboo_word_1": "бессвязный",
+            "taboo_word_2": "абзац",
+            "taboo_word_3": "предложение",
+            "taboo_word_4": "читать",
+            "taboo_word_5": "печатать"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "game.Word",
+        "fields": {
+            "word": "книга",
+            "taboo_word_1": "читать",
+            "taboo_word_2": "полка",
+            "taboo_word_3": "литература",
+            "taboo_word_4": "типография",
+            "taboo_word_5": "сборник"
+        }
+    },
+    {
+        "pk": 97,
+        "model": "game.Word",
+        "fields": {
+            "word": "страница",
+            "taboo_word_1": "абзац",
+            "taboo_word_2": "книга",
+            "taboo_word_3": "лист",
+            "taboo_word_4": "глава",
+            "taboo_word_5": "литература"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "game.Word",
+        "fields": {
+            "word": "буква",
+            "taboo_word_1": "алфавит",
+            "taboo_word_2": "цифра",
+            "taboo_word_3": "слово",
+            "taboo_word_4": "шрифт",
+            "taboo_word_5": "слог"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "game.Word",
+        "fields": {
+            "word": "язык",
+            "taboo_word_1": "иностранный",
+            "taboo_word_2": "родной",
+            "taboo_word_3": "английский",
+            "taboo_word_4": "речь",
+            "taboo_word_5": "говорить"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "game.Word",
+        "fields": {
+            "word": "диалект",
+            "taboo_word_1": "местный",
+            "taboo_word_2": "акцент",
+            "taboo_word_3": "говор",
+            "taboo_word_4": "особенность",
+            "taboo_word_5": "речь"
+        }
+    },
+    {
+        "pk": 101,
+        "model": "game.Word",
+        "fields": {
+            "word": "акцент",
+            "taboo_word_1": "иностранный",
+            "taboo_word_2": "произношение",
+            "taboo_word_3": "диалект",
+            "taboo_word_4": "речь",
+            "taboo_word_5": "язык"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "game.Word",
+        "fields": {
+            "word": "речь",
+            "taboo_word_1": "Посполитая",
+            "taboo_word_2": "бессвязный",
+            "taboo_word_3": "сказать",
+            "taboo_word_4": "грамотная",
+            "taboo_word_5": "язык"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "game.Word",
+        "fields": {
+            "word": "диалог",
+            "taboo_word_1": "монолог",
+            "taboo_word_2": "беседа",
+            "taboo_word_3": "вести",
+            "taboo_word_4": "дискуссия",
+            "taboo_word_5": "конструктивный"
+        }
+    },
+    {
+        "pk": 104,
+        "model": "game.Word",
+        "fields": {
+            "word": "монолог",
+            "taboo_word_1": "диалог",
+            "taboo_word_2": "рассказ",
+            "taboo_word_3": "беседа",
+            "taboo_word_4": "повествование",
+            "taboo_word_5": "речь"
+        }
+    },
+    {
+        "pk": 105,
+        "model": "game.Word",
+        "fields": {
+            "word": "рассказ",
+            "taboo_word_1": "текст",
+            "taboo_word_2": "история",
+            "taboo_word_3": "литература",
+            "taboo_word_4": "книга",
+            "taboo_word_5": "роман"
+        }
+    },
+    {
+        "pk": 106,
+        "model": "game.Word",
+        "fields": {
+            "word": "роман",
+            "taboo_word_1": "любовный",
+            "taboo_word_2": "читать",
+            "taboo_word_3": "писать",
+            "taboo_word_4": "произведение",
+            "taboo_word_5": "книга"
+        }
+    },
+    {
+        "pk": 107,
+        "model": "game.Word",
+        "fields": {
+            "word": "поэма",
+            "taboo_word_1": "стихотворение",
+            "taboo_word_2": "вдохновение",
+            "taboo_word_3": "жанр",
+            "taboo_word_4": "роман",
+            "taboo_word_5": "лирический"
+        }
+    },
+    {
+        "pk": 108,
+        "model": "game.Word",
+        "fields": {
+            "word": "стих",
+            "taboo_word_1": "рифма",
+            "taboo_word_2": "учить",
+            "taboo_word_3": "песня",
+            "taboo_word_4": "проза",
+            "taboo_word_5": "слог"
+        }
+    },
+    {
+        "pk": 109,
+        "model": "game.Word",
+        "fields": {
+            "word": "драма",
+            "taboo_word_1": "спектакль",
+            "taboo_word_2": "театр",
+            "taboo_word_3": "комедия",
+            "taboo_word_4": "трагедия",
+            "taboo_word_5": "пьеса"
+        }
+    },
+    {
+        "pk": 110,
+        "model": "game.Word",
+        "fields": {
+            "word": "комедия",
+            "taboo_word_1": "жанр",
+            "taboo_word_2": "кино",
+            "taboo_word_3": "трагедия",
+            "taboo_word_4": "театр",
+            "taboo_word_5": "смех"
+        }
+    },
+    {
+        "pk": 111,
+        "model": "game.Word",
+        "fields": {
+            "word": "трагедия",
+            "taboo_word_1": "авария",
+            "taboo_word_2": "театр",
+            "taboo_word_3": "комедия",
+            "taboo_word_4": "происшествие",
+            "taboo_word_5": "смерть"
+        }
+    },
+    {
+        "pk": 112,
+        "model": "game.Word",
+        "fields": {
+            "word": "сцена",
+            "taboo_word_1": "спектакль",
+            "taboo_word_2": "театр",
+            "taboo_word_3": "выступать",
+            "taboo_word_4": "актер",
+            "taboo_word_5": "петь"
+        }
+    },
+    {
+        "pk": 113,
+        "model": "game.Word",
+        "fields": {
+            "word": "театр",
+            "taboo_word_1": "кино",
+            "taboo_word_2": "спектакль",
+            "taboo_word_3": "культура",
+            "taboo_word_4": "билет",
+            "taboo_word_5": "опера"
+        }
+    },
+    {
+        "pk": 114,
+        "model": "game.Word",
+        "fields": {
+            "word": "кино",
+            "taboo_word_1": "фильм",
+            "taboo_word_2": "смотреть",
+            "taboo_word_3": "попкорн",
+            "taboo_word_4": "театр",
+            "taboo_word_5": "билет"
+        }
+    },
+    {
+        "pk": 115,
+        "model": "game.Word",
+        "fields": {
+            "word": "кадр",
+            "taboo_word_1": "ценный",
+            "taboo_word_2": "стоп",
+            "taboo_word_3": "фотоаппарат",
+            "taboo_word_4": "фильм",
+            "taboo_word_5": "отдел"
+        }
+    },
+    {
+        "pk": 116,
+        "model": "game.Word",
+        "fields": {
+            "word": "сюжет",
+            "taboo_word_1": "захватывающий",
+            "taboo_word_2": "книга",
+            "taboo_word_3": "фильм",
+            "taboo_word_4": "тема",
+            "taboo_word_5": "персонаж"
+        }
+    },
+    {
+        "pk": 117,
+        "model": "game.Word",
+        "fields": {
+            "word": "герой",
+            "taboo_word_1": "национальный",
+            "taboo_word_2": "война",
+            "taboo_word_3": "книга",
+            "taboo_word_4": "подвиг",
+            "taboo_word_5": "храбрость"
+        }
+    },
+    {
+        "pk": 118,
+        "model": "game.Word",
+        "fields": {
+            "word": "образ",
+            "taboo_word_1": "облик",
+            "taboo_word_2": "черта",
+            "taboo_word_3": "персонаж",
+            "taboo_word_4": "идея",
+            "taboo_word_5": "форма"
+        }
+    },
+    {
+        "pk": 119,
+        "model": "game.Word",
+        "fields": {
+            "word": "символ",
+            "taboo_word_1": "знамя",
+            "taboo_word_2": "знак",
+            "taboo_word_3": "герб",
+            "taboo_word_4": "математический",
+            "taboo_word_5": "эмблема"
+        }
+    },
+    {
+        "pk": 120,
+        "model": "game.Word",
+        "fields": {
+            "word": "ирония",
+            "taboo_word_1": "зло",
+            "taboo_word_2": "прикол",
+            "taboo_word_3": "судьба",
+            "taboo_word_4": "сарказ",
+            "taboo_word_5": "шутка"
+        }
+    },
+    {
+        "pk": 121,
+        "model": "game.Word",
+        "fields": {
+            "word": "юмор",
+            "taboo_word_1": "сатира",
+            "taboo_word_2": "шутка",
+            "taboo_word_3": "тонкий",
+            "taboo_word_4": "черный",
+            "taboo_word_5": "смех"
+        }
+    },
+    {
+        "pk": 122,
+        "model": "game.Word",
+        "fields": {
+            "word": "смех",
+            "taboo_word_1": "заразительный",
+            "taboo_word_2": "шутка",
+            "taboo_word_3": "истерический",
+            "taboo_word_4": "юмор",
+            "taboo_word_5": "веселый"
+        }
+    },
+    {
+        "pk": 123,
+        "model": "game.Word",
+        "fields": {
+            "word": "слеза",
+            "taboo_word_1": "плакать",
+            "taboo_word_2": "капля",
+            "taboo_word_3": "боль",
+            "taboo_word_4": "глаза",
+            "taboo_word_5": "грусть"
+        }
+    },
+    {
+        "pk": 124,
+        "model": "game.Word",
+        "fields": {
+            "word": "боль",
+            "taboo_word_1": "чувствовать",
+            "taboo_word_2": "причинить",
+            "taboo_word_3": "страдание",
+            "taboo_word_4": "зубная",
+            "taboo_word_5": "рана"
+        }
+    },
+    {
+        "pk": 125,
+        "model": "game.Word",
+        "fields": {
+            "word": "радость",
+            "taboo_word_1": "удовольствие",
+            "taboo_word_2": "улыбка",
+            "taboo_word_3": "победа",
+            "taboo_word_4": "грусть",
+            "taboo_word_5": "праздник"
+        }
+    },
+    {
+        "pk": 126,
+        "model": "game.Word",
+        "fields": {
+            "word": "грусть",
+            "taboo_word_1": "печаль",
+            "taboo_word_2": "сожаление",
+            "taboo_word_3": "радость",
+            "taboo_word_4": "расставание",
+            "taboo_word_5": "тоска"
+        }
+    },
+    {
+        "pk": 127,
+        "model": "game.Word",
+        "fields": {
+            "word": "страх",
+            "taboo_word_1": "бояться",
+            "taboo_word_2": "испуг",
+            "taboo_word_3": "смерть",
+            "taboo_word_4": "ужас",
+            "taboo_word_5": "дрожать"
+        }
+    },
+    {
+        "pk": 128,
+        "model": "game.Word",
+        "fields": {
+            "word": "гнев",
+            "taboo_word_1": "ярость",
+            "taboo_word_2": "раздражение",
+            "taboo_word_3": "кричать",
+            "taboo_word_4": "ненависть",
+            "taboo_word_5": "ссора"
+        }
+    },
+    {
+        "pk": 129,
+        "model": "game.Word",
+        "fields": {
+            "word": "удивление",
+            "taboo_word_1": "восторг",
+            "taboo_word_2": "изумление",
+            "taboo_word_3": "неожиданность",
+            "taboo_word_4": "недоумение",
+            "taboo_word_5": "вопить"
+        }
+    },
+    {
+        "pk": 130,
+        "model": "game.Word",
+        "fields": {
+            "word": "отвращение",
+            "taboo_word_1": "неприязнь",
+            "taboo_word_2": "брезгливость",
+            "taboo_word_3": "гадость",
+            "taboo_word_4": "мерзкий",
+            "taboo_word_5": "презрение"
+        }
+    },
+    {
+        "pk": 131,
+        "model": "game.Word",
+        "fields": {
+            "word": "любовь",
+            "taboo_word_1": "амур",
+            "taboo_word_2": "сердце",
+            "taboo_word_3": "ревность",
+            "taboo_word_4": "поцелуй",
+            "taboo_word_5": "нежность"
+        }
+    },
+    {
+        "pk": 132,
+        "model": "game.Word",
+        "fields": {
+            "word": "ненависть",
+            "taboo_word_1": "любовь",
+            "taboo_word_2": "зависть",
+            "taboo_word_3": "неприязнь",
+            "taboo_word_4": "ярость",
+            "taboo_word_5": "злоба"
+        }
+    },
+    {
+        "pk": 133,
+        "model": "game.Word",
+        "fields": {
+            "word": "зависть",
+            "taboo_word_1": "корысть",
+            "taboo_word_2": "ненависть",
+            "taboo_word_3": "деньги",
+            "taboo_word_4": "чувство",
+            "taboo_word_5": "белый"
+        }
+    },
+    {
+        "pk": 134,
+        "model": "game.Word",
+        "fields": {
+            "word": "ревность",
+            "taboo_word_1": "измена",
+            "taboo_word_2": "любовь",
+            "taboo_word_3": "недовеврие",
+            "taboo_word_4": "ложь",
+            "taboo_word_5": "злость"
+        }
+    },
+    {
+        "pk": 135,
+        "model": "game.Word",
+        "fields": {
+            "word": "стыд",
+            "taboo_word_1": "позор",
+            "taboo_word_2": "краснеть",
+            "taboo_word_3": "унижение",
+            "taboo_word_4": "испанский",
+            "taboo_word_5": "врать"
+        }
+    },
+    {
+        "pk": 136,
+        "model": "game.Word",
+        "fields": {
+            "word": "вина",
+            "taboo_word_1": "грех",
+            "taboo_word_2": "наказание",
+            "taboo_word_3": "преступление",
+            "taboo_word_4": "проступок",
+            "taboo_word_5": "ошибка"
+        }
+    },
+    {
+        "pk": 137,
+        "model": "game.Word",
+        "fields": {
+            "word": "гордость",
+            "taboo_word_1": "достоинство",
+            "taboo_word_2": "человек",
+            "taboo_word_3": "предубеждение",
+            "taboo_word_4": "почет",
+            "taboo_word_5": "заслуга"
+        }
+    },
+    {
+        "pk": 138,
+        "model": "game.Word",
+        "fields": {
+            "word": "скромность",
+            "taboo_word_1": "немногословный",
+            "taboo_word_2": "простота",
+            "taboo_word_3": "смущаться",
+            "taboo_word_4": "спокойный",
+            "taboo_word_5": "стеснительный"
+        }
+    },
+    {
+        "pk": 139,
+        "model": "game.Word",
+        "fields": {
+            "word": "надежда",
+            "taboo_word_1": "вера",
+            "taboo_word_2": "опора",
+            "taboo_word_3": "любовь",
+            "taboo_word_4": "мечта",
+            "taboo_word_5": "вселять"
+        }
+    },
+    {
+        "pk": 140,
+        "model": "game.Word",
+        "fields": {
+            "word": "отчаяние",
+            "taboo_word_1": "бузысходность",
+            "taboo_word_2": "надежда",
+            "taboo_word_3": "страх",
+            "taboo_word_4": "уныние",
+            "taboo_word_5": "ужас"
+        }
+    },
+    {
+        "pk": 141,
+        "model": "game.Word",
+        "fields": {
+            "word": "вера",
+            "taboo_word_1": "религия",
+            "taboo_word_2": "надежда",
+            "taboo_word_3": "святой",
+            "taboo_word_4": "Библия",
+            "taboo_word_5": "Бог"
+        }
+    },
+    {
+        "pk": 142,
+        "model": "game.Word",
+        "fields": {
+            "word": "сомнение",
+            "taboo_word_1": "терзание",
+            "taboo_word_2": "неуверенность",
+            "taboo_word_3": "скептик",
+            "taboo_word_4": "опасение",
+            "taboo_word_5": "недоверие"
+        }
+    },
+    {
+        "pk": 143,
+        "model": "game.Word",
+        "fields": {
+            "word": "уверенность",
+            "taboo_word_1": "знать",
+            "taboo_word_2": "решение",
+            "taboo_word_3": "сомнение",
+            "taboo_word_4": "убеждение",
+            "taboo_word_5": "определенность"
+        }
+    },
+    {
+        "pk": 144,
+        "model": "game.Word",
+        "fields": {
+            "word": "тревога",
+            "taboo_word_1": "сигнал",
+            "taboo_word_2": "беспокоиться",
+            "taboo_word_3": "паника",
+            "taboo_word_4": "страх",
+            "taboo_word_5": "волнение"
+        }
+    },
+    {
+        "pk": 145,
+        "model": "game.Word",
+        "fields": {
+            "word": "спокойствие",
+            "taboo_word_1": "сохранять",
+            "taboo_word_2": "тишь",
+            "taboo_word_3": "безопасность",
+            "taboo_word_4": "гармония",
+            "taboo_word_5": "комфорт"
+        }
+    },
+    {
+        "pk": 146,
+        "model": "game.Word",
+        "fields": {
+            "word": "стресс",
+            "taboo_word_1": "нервный",
+            "taboo_word_2": "экзамен",
+            "taboo_word_3": "утомление",
+            "taboo_word_4": "снять",
+            "taboo_word_5": "волнение"
+        }
+    },
+    {
+        "pk": 147,
+        "model": "game.Word",
+        "fields": {
+            "word": "эмоция",
+            "taboo_word_1": "гнев",
+            "taboo_word_2": "настроение",
+            "taboo_word_3": "негативный",
+            "taboo_word_4": "переживание",
+            "taboo_word_5": "чувство"
+        }
+    },
+    {
+        "pk": 148,
+        "model": "game.Word",
+        "fields": {
+            "word": "чувство",
+            "taboo_word_1": "ощущение",
+            "taboo_word_2": "жалость",
+            "taboo_word_3": "ревность",
+            "taboo_word_4": "эмоция",
+            "taboo_word_5": "любовь"
+        }
+    },
+    {
+        "pk": 149,
+        "model": "game.Word",
+        "fields": {
+            "word": "разум",
+            "taboo_word_1": "рассудок",
+            "taboo_word_2": "человек",
+            "taboo_word_3": "голова",
+            "taboo_word_4": "светлый",
+            "taboo_word_5": "сознание"
+        }
+    },
+    {
+        "pk": 150,
+        "model": "game.Word",
+        "fields": {
+            "word": "сознание",
+            "taboo_word_1": "материя",
+            "taboo_word_2": "бытие",
+            "taboo_word_3": "мышление",
+            "taboo_word_4": "ум",
+            "taboo_word_5": "человек"
+        }
+    },
+    {
+        "pk": 151,
+        "model": "game.Word",
+        "fields": {
+            "word": "мысль",
+            "taboo_word_1": "идея",
+            "taboo_word_2": "думать",
+            "taboo_word_3": "догадка",
+            "taboo_word_4": "сознание",
+            "taboo_word_5": "собраться"
+        }
+    },
+    {
+        "pk": 152,
+        "model": "game.Word",
+        "fields": {
+            "word": "идея",
+            "taboo_word_1": "мысль",
+            "taboo_word_2": "план",
+            "taboo_word_3": "думать",
+            "taboo_word_4": "голова",
+            "taboo_word_5": "концепция"
+        }
+    },
+    {
+        "pk": 153,
+        "model": "game.Word",
+        "fields": {
+            "word": "теория",
+            "taboo_word_1": "относительность",
+            "taboo_word_2": "практика",
+            "taboo_word_3": "утопия",
+            "taboo_word_4": "наука",
+            "taboo_word_5": "история"
+        }
+    },
+    {
+        "pk": 154,
+        "model": "game.Word",
+        "fields": {
+            "word": "гипотеза",
+            "taboo_word_1": "идея",
+            "taboo_word_2": "неопровержимый",
+            "taboo_word_3": "рабочий",
+            "taboo_word_4": "строить",
+            "taboo_word_5": "теорема"
+        }
+    },
+    {
+        "pk": 155,
+        "model": "game.Word",
+        "fields": {
+            "word": "закон",
+            "taboo_word_1": "воровской",
+            "taboo_word_2": "писать",
+            "taboo_word_3": "правило",
+            "taboo_word_4": "кодекс",
+            "taboo_word_5": "Ньютон"
+        }
+    },
+    {
+        "pk": 156,
+        "model": "game.Word",
+        "fields": {
+            "word": "правило",
+            "taboo_word_1": "устав",
+            "taboo_word_2": "исключение",
+            "taboo_word_3": "строгий",
+            "taboo_word_4": "закон",
+            "taboo_word_5": "запомнить"
+        }
+    },
+    {
+        "pk": 157,
+        "model": "game.Word",
+        "fields": {
+            "word": "принцип",
+            "taboo_word_1": "жизненный",
+            "taboo_word_2": "идеология",
+            "taboo_word_3": "закон",
+            "taboo_word_4": "следовать",
+            "taboo_word_5": "моральный"
+        }
+    },
+    {
+        "pk": 158,
+        "model": "game.Word",
+        "fields": {
+            "word": "мораль",
+            "taboo_word_1": "басня",
+            "taboo_word_2": "этика",
+            "taboo_word_3": "правило",
+            "taboo_word_4": "принцип",
+            "taboo_word_5": "поведение"
+        }
+    },
+    {
+        "pk": 159,
+        "model": "game.Word",
+        "fields": {
+            "word": "порок",
+            "taboo_word_1": "грех",
+            "taboo_word_2": "бедность",
+            "taboo_word_3": "изъян",
+            "taboo_word_4": "зависть",
+            "taboo_word_5": "добро"
+        }
+    },
+    {
+        "pk": 160,
+        "model": "game.Word",
+        "fields": {
+            "word": "честь",
+            "taboo_word_1": "долг",
+            "taboo_word_2": "достоинство",
+            "taboo_word_3": "отдать",
+            "taboo_word_4": "воинский",
+            "taboo_word_5": "потерять"
+        }
+    },
+    {
+        "pk": 161,
+        "model": "game.Word",
+        "fields": {
+            "word": "совесть",
+            "taboo_word_1": "терзание",
+            "taboo_word_2": "долг",
+            "taboo_word_3": "честь",
+            "taboo_word_4": "мука",
+            "taboo_word_5": "стыд"
+        }
+    },
+    {
+        "pk": 162,
+        "model": "game.Word",
+        "fields": {
+            "word": "свобода",
+            "taboo_word_1": "демократия",
+            "taboo_word_2": "воля",
+            "taboo_word_3": "тюрьма",
+            "taboo_word_4": "автономия",
+            "taboo_word_5": "арест"
+        }
+    },
+    {
+        "pk": 163,
+        "model": "game.Word",
+        "fields": {
+            "word": "равенство",
+            "taboo_word_1": "свобода",
+            "taboo_word_2": "братство",
+            "taboo_word_3": "единство",
+            "taboo_word_4": "одинаковый",
+            "taboo_word_5": "математика"
+        }
+    },
+    {
+        "pk": 164,
+        "model": "game.Word",
+        "fields": {
+            "word": "справедливость",
+            "taboo_word_1": "восстанавливать",
+            "taboo_word_2": "правосудие",
+            "taboo_word_3": "возмездие",
+            "taboo_word_4": "бороться",
+            "taboo_word_5": "Фемида"
+        }
+    },
+    {
+        "pk": 165,
+        "model": "game.Word",
+        "fields": {
+            "word": "правда",
+            "taboo_word_1": "ложь",
+            "taboo_word_2": "газета",
+            "taboo_word_3": "вранье",
+            "taboo_word_4": "истина",
+            "taboo_word_5": "честность"
+        }
+    },
+    {
+        "pk": 166,
+        "model": "game.Word",
+        "fields": {
+            "word": "ложь",
+            "taboo_word_1": "неправда",
+            "taboo_word_2": "вранье",
+            "taboo_word_3": "обман",
+            "taboo_word_4": "клевета",
+            "taboo_word_5": "истина"
+        }
+    },
+    {
+        "pk": 167,
+        "model": "game.Word",
+        "fields": {
+            "word": "обман",
+            "taboo_word_1": "ложь",
+            "taboo_word_2": "вранье",
+            "taboo_word_3": "фокус",
+            "taboo_word_4": "неправда",
+            "taboo_word_5": "иллюзия"
+        }
+    },
+    {
+        "pk": 168,
+        "model": "game.Word",
+        "fields": {
+            "word": "иллюзия",
+            "taboo_word_1": "фантазия",
+            "taboo_word_2": "обман",
+            "taboo_word_3": "реальность",
+            "taboo_word_4": "трюк",
+            "taboo_word_5": "фокус"
+        }
+    },
+    {
+        "pk": 169,
+        "model": "game.Word",
+        "fields": {
+            "word": "реальность",
+            "taboo_word_1": "миф",
+            "taboo_word_2": "фантастика",
+            "taboo_word_3": "явь",
+            "taboo_word_4": "быль",
+            "taboo_word_5": "грань"
+        }
+    },
+    {
+        "pk": 170,
+        "model": "game.Word",
+        "fields": {
+            "word": "фантазия",
+            "taboo_word_1": "воображение",
+            "taboo_word_2": "плод",
+            "taboo_word_3": "придумать",
+            "taboo_word_4": "мистика",
+            "taboo_word_5": "мечта"
+        }
+    },
+    {
+        "pk": 171,
+        "model": "game.Word",
+        "fields": {
+            "word": "мечта",
+            "taboo_word_1": "сбываться",
+            "taboo_word_2": "цель",
+            "taboo_word_3": "надежда",
+            "taboo_word_4": "верить",
+            "taboo_word_5": "воображение"
+        }
+    },
+    {
+        "pk": 172,
+        "model": "game.Word",
+        "fields": {
+            "word": "цель",
+            "taboo_word_1": "преследовать",
+            "taboo_word_2": "достичь",
+            "taboo_word_3": "стремление",
+            "taboo_word_4": "мишень",
+            "taboo_word_5": "попадать"
+        }
+    },
+    {
+        "pk": 173,
+        "model": "game.Word",
+        "fields": {
+            "word": "стремление",
+            "taboo_word_1": "порыв",
+            "taboo_word_2": "желание",
+            "taboo_word_3": "влечение",
+            "taboo_word_4": "тяга",
+            "taboo_word_5": "жажда"
+        }
+    },
+    {
+        "pk": 174,
+        "model": "game.Word",
+        "fields": {
+            "word": "желание",
+            "taboo_word_1": "сбываться",
+            "taboo_word_2": "исполнить",
+            "taboo_word_3": "загадать",
+            "taboo_word_4": "хотеть",
+            "taboo_word_5": "мечта"
+        }
+    },
+    {
+        "pk": 175,
+        "model": "game.Word",
+        "fields": {
+            "word": "потребность",
+            "taboo_word_1": "мотив",
+            "taboo_word_2": "нужда",
+            "taboo_word_3": "удовлетворение",
+            "taboo_word_4": "еда",
+            "taboo_word_5": "необходимость"
+        }
+    },
+    {
+        "pk": 176,
+        "model": "game.Word",
+        "fields": {
+            "word": "вдохновение",
+            "taboo_word_1": "поток",
+            "taboo_word_2": "творчество",
+            "taboo_word_3": "искусство",
+            "taboo_word_4": "композитор",
+            "taboo_word_5": "поэт"
+        }
+    },
+    {
+        "pk": 177,
+        "model": "game.Word",
+        "fields": {
+            "word": "творчество",
+            "taboo_word_1": "бумага",
+            "taboo_word_2": "искусство",
+            "taboo_word_3": "рисунок",
+            "taboo_word_4": "воображение",
+            "taboo_word_5": "гений"
+        }
+    },
+    {
+        "pk": 178,
+        "model": "game.Word",
+        "fields": {
+            "word": "искусство",
+            "taboo_word_1": "литература",
+            "taboo_word_2": "культура",
+            "taboo_word_3": "произведение",
+            "taboo_word_4": "живопись",
+            "taboo_word_5": "творчество"
+        }
+    },
+    {
+        "pk": 179,
+        "model": "game.Word",
+        "fields": {
+            "word": "живопись",
+            "taboo_word_1": "искусство",
+            "taboo_word_2": "картина",
+            "taboo_word_3": "выставка",
+            "taboo_word_4": "рисунок",
+            "taboo_word_5": "культура"
+        }
+    },
+    {
+        "pk": 180,
+        "model": "game.Word",
+        "fields": {
+            "word": "скульптура",
+            "taboo_word_1": "глина",
+            "taboo_word_2": "памятник",
+            "taboo_word_3": "культура",
+            "taboo_word_4": "лепить",
+            "taboo_word_5": "искусство"
+        }
+    },
+    {
+        "pk": 181,
+        "model": "game.Word",
+        "fields": {
+            "word": "графика",
+            "taboo_word_1": "живопись",
+            "taboo_word_2": "рисунок",
+            "taboo_word_3": "карандаш",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "контур"
+        }
+    },
+    {
+        "pk": 182,
+        "model": "game.Word",
+        "fields": {
+            "word": "фотография",
+            "taboo_word_1": "альбом",
+            "taboo_word_2": "портрет",
+            "taboo_word_3": "снимать",
+            "taboo_word_4": "кадр",
+            "taboo_word_5": "пленка"
+        }
+    },
+    {
+        "pk": 183,
+        "model": "game.Word",
+        "fields": {
+            "word": "архитектура",
+            "taboo_word_1": "памятник",
+            "taboo_word_2": "искусство",
+            "taboo_word_3": "здание",
+            "taboo_word_4": "современный",
+            "taboo_word_5": "строение"
+        }
+    },
+    {
+        "pk": 184,
+        "model": "game.Word",
+        "fields": {
+            "word": "мода",
+            "taboo_word_1": "гламур",
+            "taboo_word_2": "показ",
+            "taboo_word_3": "шик",
+            "taboo_word_4": "журнал",
+            "taboo_word_5": "одежда"
+        }
+    },
+    {
+        "pk": 185,
+        "model": "game.Word",
+        "fields": {
+            "word": "стиль",
+            "taboo_word_1": "классический",
+            "taboo_word_2": "манера",
+            "taboo_word_3": "модерн",
+            "taboo_word_4": "жанр",
+            "taboo_word_5": "мода"
+        }
+    },
+    {
+        "pk": 186,
+        "model": "game.Word",
+        "fields": {
+            "word": "цвет",
+            "taboo_word_1": "гамма",
+            "taboo_word_2": "краска",
+            "taboo_word_3": "палитра",
+            "taboo_word_4": "оттенок",
+            "taboo_word_5": "зеленый"
+        }
+    },
+    {
+        "pk": 187,
+        "model": "game.Word",
+        "fields": {
+            "word": "оттенок",
+            "taboo_word_1": "цвет",
+            "taboo_word_2": "окрас",
+            "taboo_word_3": "тон",
+            "taboo_word_4": "золотистый",
+            "taboo_word_5": "яркий"
+        }
+    },
+    {
+        "pk": 188,
+        "model": "game.Word",
+        "fields": {
+            "word": "форма",
+            "taboo_word_1": "школа",
+            "taboo_word_2": "военный",
+            "taboo_word_3": "солдат",
+            "taboo_word_4": "ученик",
+            "taboo_word_5": "армия"
+        }
+    },
+    {
+        "pk": 189,
+        "model": "game.Word",
+        "fields": {
+            "word": "объём",
+            "taboo_word_1": "геометрия",
+            "taboo_word_2": "большой",
+            "taboo_word_3": "размер",
+            "taboo_word_4": "куб",
+            "taboo_word_5": "емкость"
+        }
+    },
+    {
+        "pk": 190,
+        "model": "game.Word",
+        "fields": {
+            "word": "перспектива",
+            "taboo_word_1": "бесконечность",
+            "taboo_word_2": "будущий",
+            "taboo_word_3": "долгосрочный",
+            "taboo_word_4": "завтра",
+            "taboo_word_5": "далекий"
+        }
+    },
+    {
+        "pk": 191,
+        "model": "game.Word",
+        "fields": {
+            "word": "холст",
+            "taboo_word_1": "полотно",
+            "taboo_word_2": "льняной",
+            "taboo_word_3": "акварельный",
+            "taboo_word_4": "бумага",
+            "taboo_word_5": "картина"
+        }
+    },
+    {
+        "pk": 192,
+        "model": "game.Word",
+        "fields": {
+            "word": "краска",
+            "taboo_word_1": "акварельный",
+            "taboo_word_2": "стыд",
+            "taboo_word_3": "кисть",
+            "taboo_word_4": "масляный",
+            "taboo_word_5": "картина"
+        }
+    },
+    {
+        "pk": 193,
+        "model": "game.Word",
+        "fields": {
+            "word": "кисть",
+            "taboo_word_1": "рука",
+            "taboo_word_2": "красить",
+            "taboo_word_3": "виноградная",
+            "taboo_word_4": "мольберт",
+            "taboo_word_5": "краски"
+        }
+    },
+    {
+        "pk": 194,
+        "model": "game.Word",
+        "fields": {
+            "word": "карандаш",
+            "taboo_word_1": "простой",
+            "taboo_word_2": "бумага",
+            "taboo_word_3": "рисунок",
+            "taboo_word_4": "сломанный",
+            "taboo_word_5": "фломастер"
+        }
+    },
+    {
+        "pk": 195,
+        "model": "game.Word",
+        "fields": {
+            "word": "уголь",
+            "taboo_word_1": "топливо",
+            "taboo_word_2": "добывать",
+            "taboo_word_3": "вагон",
+            "taboo_word_4": "бурый",
+            "taboo_word_5": "каменный"
+        }
+    },
+    {
+        "pk": 196,
+        "model": "game.Word",
+        "fields": {
+            "word": "мольберт",
+            "taboo_word_1": "художник",
+            "taboo_word_2": "живопись",
+            "taboo_word_3": "кисть",
+            "taboo_word_4": "кнопка",
+            "taboo_word_5": "пейзаж"
+        }
+    },
+    {
+        "pk": 197,
+        "model": "game.Word",
+        "fields": {
+            "word": "глина",
+            "taboo_word_1": "вязкая",
+            "taboo_word_2": "песок",
+            "taboo_word_3": "лепить",
+            "taboo_word_4": "чернозем",
+            "taboo_word_5": "пластилин"
+        }
+    },
+    {
+        "pk": 198,
+        "model": "game.Word",
+        "fields": {
+            "word": "камень",
+            "taboo_word_1": "бросать",
+            "taboo_word_2": "минерал",
+            "taboo_word_3": "драгоценный",
+            "taboo_word_4": "гранит",
+            "taboo_word_5": "булыжник"
+        }
+    },
+    {
+        "pk": 199,
+        "model": "game.Word",
+        "fields": {
+            "word": "металл",
+            "taboo_word_1": "железо",
+            "taboo_word_2": "золото",
+            "taboo_word_3": "драгоценный",
+            "taboo_word_4": "химия",
+            "taboo_word_5": "кузница"
+        }
+    },
+    {
+        "pk": 200,
+        "model": "game.Word",
+        "fields": {
+            "word": "дерево",
+            "taboo_word_1": "ель",
+            "taboo_word_2": "посадить",
+            "taboo_word_3": "лист",
+            "taboo_word_4": "палка",
+            "taboo_word_5": "расти"
+        }
+    },
+    {
+        "pk": 201,
+        "model": "game.Word",
+        "fields": {
+            "word": "стекло",
+            "taboo_word_1": "хрупкий",
+            "taboo_word_2": "разбитый",
+            "taboo_word_3": "окно",
+            "taboo_word_4": "выбить",
+            "taboo_word_5": "банка"
+        }
+    },
+    {
+        "pk": 202,
+        "model": "game.Word",
+        "fields": {
+            "word": "ткань",
+            "taboo_word_1": "мерить",
+            "taboo_word_2": "полотно",
+            "taboo_word_3": "шелк",
+            "taboo_word_4": "материал",
+            "taboo_word_5": "ножницы"
+        }
+    },
+    {
+        "pk": 203,
+        "model": "game.Word",
+        "fields": {
+            "word": "нить",
+            "taboo_word_1": "Ариадна",
+            "taboo_word_2": "запутывать",
+            "taboo_word_3": "игла",
+            "taboo_word_4": "вить",
+            "taboo_word_5": "связь"
+        }
+    },
+    {
+        "pk": 204,
+        "model": "game.Word",
+        "fields": {
+            "word": "игла",
+            "taboo_word_1": "шить",
+            "taboo_word_2": "шприц",
+            "taboo_word_3": "наркоман",
+            "taboo_word_4": "колоть",
+            "taboo_word_5": "нить"
+        }
+    },
+    {
+        "pk": 205,
+        "model": "game.Word",
+        "fields": {
+            "word": "ножницы",
+            "taboo_word_1": "кроить",
+            "taboo_word_2": "ноготь",
+            "taboo_word_3": "резать",
+            "taboo_word_4": "бумага",
+            "taboo_word_5": "концы"
+        }
+    },
+    {
+        "pk": 206,
+        "model": "game.Word",
+        "fields": {
+            "word": "кнопка",
+            "taboo_word_1": "нажать",
+            "taboo_word_2": "пуговица",
+            "taboo_word_3": "будильник",
+            "taboo_word_4": "железная",
+            "taboo_word_5": "значок"
+        }
+    },
+    {
+        "pk": 207,
+        "model": "game.Word",
+        "fields": {
+            "word": "молния",
+            "taboo_word_1": "шаровая",
+            "taboo_word_2": "гром",
+            "taboo_word_3": "гроза",
+            "taboo_word_4": "вспышка",
+            "taboo_word_5": "сверкать"
+        }
+    },
+    {
+        "pk": 208,
+        "model": "game.Word",
+        "fields": {
+            "word": "пуговица",
+            "taboo_word_1": "оторваться",
+            "taboo_word_2": "пришить",
+            "taboo_word_3": "карман",
+            "taboo_word_4": "кнопка",
+            "taboo_word_5": "одежда"
+        }
+    },
+    {
+        "pk": 209,
+        "model": "game.Word",
+        "fields": {
+            "word": "шов",
+            "taboo_word_1": "операция",
+            "taboo_word_2": "разойтись",
+            "taboo_word_3": "варить",
+            "taboo_word_4": "заметать",
+            "taboo_word_5": "сгиб"
+        }
+    },
+    {
+        "pk": 210,
+        "model": "game.Word",
+        "fields": {
+            "word": "выкройка",
+            "taboo_word_1": "шаблон",
+            "taboo_word_2": "криво",
+            "taboo_word_3": "ножницы",
+            "taboo_word_4": "набросок",
+            "taboo_word_5": "ткань"
+        }
+    },
+    {
+        "pk": 211,
+        "model": "game.Word",
+        "fields": {
+            "word": "манекен",
+            "taboo_word_1": "витрина",
+            "taboo_word_2": "костюм",
+            "taboo_word_3": "кукла",
+            "taboo_word_4": "силуэт",
+            "taboo_word_5": "магазин"
+        }
+    },
+    {
+        "pk": 212,
+        "model": "game.Word",
+        "fields": {
+            "word": "коллекция",
+            "taboo_word_1": "марки",
+            "taboo_word_2": "владелец",
+            "taboo_word_3": "значок",
+            "taboo_word_4": "собрание",
+            "taboo_word_5": "хобби"
+        }
+    },
+    {
+        "pk": 213,
+        "model": "game.Word",
+        "fields": {
+            "word": "реклама",
+            "taboo_word_1": "кино",
+            "taboo_word_2": "объявление",
+            "taboo_word_3": "ролик",
+            "taboo_word_4": "афиша",
+            "taboo_word_5": "телевидение"
+        }
+    },
+    {
+        "pk": 214,
+        "model": "game.Word",
+        "fields": {
+            "word": "продажа",
+            "taboo_word_1": "покупка",
+            "taboo_word_2": "выставка",
+            "taboo_word_3": "объявление",
+            "taboo_word_4": "киоск",
+            "taboo_word_5": "ларек"
+        }
+    },
+    {
+        "pk": 215,
+        "model": "game.Word",
+        "fields": {
+            "word": "покупка",
+            "taboo_word_1": "выгодный",
+            "taboo_word_2": "магазин",
+            "taboo_word_3": "рубль",
+            "taboo_word_4": "продажа",
+            "taboo_word_5": "товар"
+        }
+    },
+    {
+        "pk": 216,
+        "model": "game.Word",
+        "fields": {
+            "word": "цена",
+            "taboo_word_1": "стоить",
+            "taboo_word_2": "качество",
+            "taboo_word_3": "копейка",
+            "taboo_word_4": "платить",
+            "taboo_word_5": "товар"
+        }
+    },
+    {
+        "pk": 217,
+        "model": "game.Word",
+        "fields": {
+            "word": "стоимость",
+            "taboo_word_1": "возмещать",
+            "taboo_word_2": "высокий",
+            "taboo_word_3": "стоить",
+            "taboo_word_4": "цена",
+            "taboo_word_5": "деньги"
+        }
+    },
+    {
+        "pk": 218,
+        "model": "game.Word",
+        "fields": {
+            "word": "бюджет",
+            "taboo_word_1": "семейный",
+            "taboo_word_2": "экономный",
+            "taboo_word_3": "доход",
+            "taboo_word_4": "государственный",
+            "taboo_word_5": "деньги"
+        }
+    },
+    {
+        "pk": 219,
+        "model": "game.Word",
+        "fields": {
+            "word": "доход",
+            "taboo_word_1": "годовой",
+            "taboo_word_2": "расход",
+            "taboo_word_3": "прибыль",
+            "taboo_word_4": "чистый",
+            "taboo_word_5": "деньги"
+        }
+    },
+    {
+        "pk": 220,
+        "model": "game.Word",
+        "fields": {
+            "word": "расход",
+            "taboo_word_1": "доход",
+            "taboo_word_2": "экономный",
+            "taboo_word_3": "запас",
+            "taboo_word_4": "деньги",
+            "taboo_word_5": "оплатить"
+        }
+    },
+    {
+        "pk": 221,
+        "model": "game.Word",
+        "fields": {
+            "word": "прибыль",
+            "taboo_word_1": "доход",
+            "taboo_word_2": "убытки",
+            "taboo_word_3": "вклад",
+            "taboo_word_4": "деньги",
+            "taboo_word_5": "бизнесмен"
+        }
+    },
+    {
+        "pk": 222,
+        "model": "game.Word",
+        "fields": {
+            "word": "убыток",
+            "taboo_word_1": "возмещать",
+            "taboo_word_2": "деньги",
+            "taboo_word_3": "достаток",
+            "taboo_word_4": "терять",
+            "taboo_word_5": "прибыль"
+        }
+    },
+    {
+        "pk": 223,
+        "model": "game.Word",
+        "fields": {
+            "word": "налог",
+            "taboo_word_1": "платить",
+            "taboo_word_2": "дань",
+            "taboo_word_3": "собирать",
+            "taboo_word_4": "штраф",
+            "taboo_word_5": "взнос"
+        }
+    },
+    {
+        "pk": 224,
+        "model": "game.Word",
+        "fields": {
+            "word": "кредит",
+            "taboo_word_1": "банк",
+            "taboo_word_2": "деньги",
+            "taboo_word_3": "предоставлять",
+            "taboo_word_4": "долг",
+            "taboo_word_5": "проценты"
+        }
+    },
+    {
+        "pk": 225,
+        "model": "game.Word",
+        "fields": {
+            "word": "долг",
+            "taboo_word_1": "отдать",
+            "taboo_word_2": "платить",
+            "taboo_word_3": "обязанность",
+            "taboo_word_4": "вернуть",
+            "taboo_word_5": "деньги"
+        }
+    },
+    {
+        "pk": 226,
+        "model": "game.Word",
+        "fields": {
+            "word": "счёт",
+            "taboo_word_1": "оплатить",
+            "taboo_word_2": "квитанция",
+            "taboo_word_3": "чек",
+            "taboo_word_4": "комунальный",
+            "taboo_word_5": "деньги"
+        }
+    },
+    {
+        "pk": 227,
+        "model": "game.Word",
+        "fields": {
+            "word": "банк",
+            "taboo_word_1": "банкротство",
+            "taboo_word_2": "вклад",
+            "taboo_word_3": "кредит",
+            "taboo_word_4": "карта",
+            "taboo_word_5": "деньги"
+        }
+    },
+    {
+        "pk": 228,
+        "model": "game.Word",
+        "fields": {
+            "word": "валюта",
+            "taboo_word_1": "доллар",
+            "taboo_word_2": "рубль",
+            "taboo_word_3": "иностранный",
+            "taboo_word_4": "деньги",
+            "taboo_word_5": "евро"
+        }
+    },
+    {
+        "pk": 229,
+        "model": "game.Word",
+        "fields": {
+            "word": "монета",
+            "taboo_word_1": "копейка",
+            "taboo_word_2": "решка",
+            "taboo_word_3": "деньги",
+            "taboo_word_4": "достоинство",
+            "taboo_word_5": "звенеть"
+        }
+    },
+    {
+        "pk": 230,
+        "model": "game.Word",
+        "fields": {
+            "word": "кошелёк",
+            "taboo_word_1": "потерять",
+            "taboo_word_2": "деньги",
+            "taboo_word_3": "рубль",
+            "taboo_word_4": "портмоне",
+            "taboo_word_5": "бумажник"
+        }
+    },
+    {
+        "pk": 231,
+        "model": "game.Word",
+        "fields": {
+            "word": "сейф",
+            "taboo_word_1": "драгоценности",
+            "taboo_word_2": "хранить",
+            "taboo_word_3": "безопасный",
+            "taboo_word_4": "деньги",
+            "taboo_word_5": "металлический"
+        }
+    },
+    {
+        "pk": 232,
+        "model": "game.Word",
+        "fields": {
+            "word": "акция",
+            "taboo_word_1": "ваучер",
+            "taboo_word_2": "магазин",
+            "taboo_word_3": "скидка",
+            "taboo_word_4": "реклама",
+            "taboo_word_5": "благотворительность"
+        }
+    },
+    {
+        "pk": 233,
+        "model": "game.Word",
+        "fields": {
+            "word": "рынок",
+            "taboo_word_1": "барахолка",
+            "taboo_word_2": "птичий",
+            "taboo_word_3": "базар",
+            "taboo_word_4": "торговать",
+            "taboo_word_5": "прилавок"
+        }
+    },
+    {
+        "pk": 234,
+        "model": "game.Word",
+        "fields": {
+            "word": "биржа",
+            "taboo_word_1": "валюта",
+            "taboo_word_2": "доллар",
+            "taboo_word_3": "клерк",
+            "taboo_word_4": "кризис",
+            "taboo_word_5": "нефть"
+        }
+    },
+    {
+        "pk": 235,
+        "model": "game.Word",
+        "fields": {
+            "word": "спрос",
+            "taboo_word_1": "повышенный",
+            "taboo_word_2": "большой",
+            "taboo_word_3": "предложение",
+            "taboo_word_4": "экономика",
+            "taboo_word_5": "индивидуальный"
+        }
+    },
+    {
+        "pk": 236,
+        "model": "game.Word",
+        "fields": {
+            "word": "предложение",
+            "taboo_word_1": "отклонить",
+            "taboo_word_2": "слово",
+            "taboo_word_3": "спрос",
+            "taboo_word_4": "экономика",
+            "taboo_word_5": "фраза"
+        }
+    },
+    {
+        "pk": 237,
+        "model": "game.Word",
+        "fields": {
+            "word": "предприятие",
+            "taboo_word_1": "завод",
+            "taboo_word_2": "монополия",
+            "taboo_word_3": "работа",
+            "taboo_word_4": "организация",
+            "taboo_word_5": "начальник"
+        }
+    },
+    {
+        "pk": 238,
+        "model": "game.Word",
+        "fields": {
+            "word": "компания",
+            "taboo_word_1": "шумная",
+            "taboo_word_2": "работа",
+            "taboo_word_3": "друзья",
+            "taboo_word_4": "организация",
+            "taboo_word_5": "тусовка"
+        }
+    },
+    {
+        "pk": 239,
+        "model": "game.Word",
+        "fields": {
+            "word": "фирма",
+            "taboo_word_1": "владелец",
+            "taboo_word_2": "концерн",
+            "taboo_word_3": "организация",
+            "taboo_word_4": "иностранный",
+            "taboo_word_5": "синдикат"
+        }
+    },
+    {
+        "pk": 240,
+        "model": "game.Word",
+        "fields": {
+            "word": "корпорация",
+            "taboo_word_1": "компания",
+            "taboo_word_2": "предприятие",
+            "taboo_word_3": "монополия",
+            "taboo_word_4": "синдикат",
+            "taboo_word_5": "холдинг"
+        }
+    },
+    {
+        "pk": 241,
+        "model": "game.Word",
+        "fields": {
+            "word": "офис",
+            "taboo_word_1": "контора",
+            "taboo_word_2": "клерк",
+            "taboo_word_3": "служащий",
+            "taboo_word_4": "сотрудник",
+            "taboo_word_5": "фирма"
+        }
+    },
+    {
+        "pk": 242,
+        "model": "game.Word",
+        "fields": {
+            "word": "кабинет",
+            "taboo_word_1": "начальник",
+            "taboo_word_2": "отдел",
+            "taboo_word_3": "лечебный",
+            "taboo_word_4": "больница",
+            "taboo_word_5": "аудитория"
+        }
+    },
+    {
+        "pk": 243,
+        "model": "game.Word",
+        "fields": {
+            "word": "стол",
+            "taboo_word_1": "деревянный",
+            "taboo_word_2": "письменный",
+            "taboo_word_3": "праздничный",
+            "taboo_word_4": "накрывать",
+            "taboo_word_5": "стул"
+        }
+    },
+    {
+        "pk": 244,
+        "model": "game.Word",
+        "fields": {
+            "word": "стул",
+            "taboo_word_1": "стол",
+            "taboo_word_2": "жесткий",
+            "taboo_word_3": "электрический",
+            "taboo_word_4": "сидеть",
+            "taboo_word_5": "кресло"
+        }
+    },
+    {
+        "pk": 245,
+        "model": "game.Word",
+        "fields": {
+            "word": "шкаф",
+            "taboo_word_1": "платяной",
+            "taboo_word_2": "комод",
+            "taboo_word_3": "одежда",
+            "taboo_word_4": "полка",
+            "taboo_word_5": "гардероб"
+        }
+    },
+    {
+        "pk": 246,
+        "model": "game.Word",
+        "fields": {
+            "word": "полка",
+            "taboo_word_1": "книжный",
+            "taboo_word_2": "верхний",
+            "taboo_word_3": "одежда",
+            "taboo_word_4": "положить",
+            "taboo_word_5": "стена"
+        }
+    },
+    {
+        "pk": 247,
+        "model": "game.Word",
+        "fields": {
+            "word": "ящик",
+            "taboo_word_1": "почтовый",
+            "taboo_word_2": "деревянный",
+            "taboo_word_3": "посылка",
+            "taboo_word_4": "телевизор",
+            "taboo_word_5": "тара"
+        }
+    },
+    {
+        "pk": 248,
+        "model": "game.Word",
+        "fields": {
+            "word": "дверь",
+            "taboo_word_1": "запирать",
+            "taboo_word_2": "открывать",
+            "taboo_word_3": "ручка",
+            "taboo_word_4": "окно",
+            "taboo_word_5": "входить"
+        }
+    },
+    {
+        "pk": 249,
+        "model": "game.Word",
+        "fields": {
+            "word": "окно",
+            "taboo_word_1": "открывать",
+            "taboo_word_2": "дверь",
+            "taboo_word_3": "рама",
+            "taboo_word_4": "штора",
+            "taboo_word_5": "мыть"
+        }
+    },
+    {
+        "pk": 250,
+        "model": "game.Word",
+        "fields": {
+            "word": "стена",
+            "taboo_word_1": "бетонная",
+            "taboo_word_2": "картина",
+            "taboo_word_3": "ковер",
+            "taboo_word_4": "преграда",
+            "taboo_word_5": "угол"
+        }
+    },
+    {
+        "pk": 251,
+        "model": "game.Word",
+        "fields": {
+            "word": "потолок",
+            "taboo_word_1": "низкий",
+            "taboo_word_2": "пол",
+            "taboo_word_3": "стена",
+            "taboo_word_4": "верх",
+            "taboo_word_5": "высокий"
+        }
+    },
+    {
+        "pk": 252,
+        "model": "game.Word",
+        "fields": {
+            "word": "пол",
+            "taboo_word_1": "женский",
+            "taboo_word_2": "паркетный",
+            "taboo_word_3": "мести",
+            "taboo_word_4": "мужской",
+            "taboo_word_5": "слабый"
+        }
+    },
+    {
+        "pk": 253,
+        "model": "game.Word",
+        "fields": {
+            "word": "крыша",
+            "taboo_word_1": "кровля",
+            "taboo_word_2": "протекать",
+            "taboo_word_3": "Карлсон",
+            "taboo_word_4": "дом",
+            "taboo_word_5": "чердак"
+        }
+    },
+    {
+        "pk": 254,
+        "model": "game.Word",
+        "fields": {
+            "word": "фундамент",
+            "taboo_word_1": "основа",
+            "taboo_word_2": "цемент",
+            "taboo_word_3": "базис",
+            "taboo_word_4": "бетон",
+            "taboo_word_5": "крыша"
+        }
+    },
+    {
+        "pk": 255,
+        "model": "game.Word",
+        "fields": {
+            "word": "кирпич",
+            "taboo_word_1": "стена",
+            "taboo_word_2": "строитель",
+            "taboo_word_3": "камень",
+            "taboo_word_4": "глина",
+            "taboo_word_5": "дерево"
+        }
+    },
+    {
+        "pk": 256,
+        "model": "game.Word",
+        "fields": {
+            "word": "бетон",
+            "taboo_word_1": "раствор",
+            "taboo_word_2": "плита",
+            "taboo_word_3": "цемент",
+            "taboo_word_4": "асфальт",
+            "taboo_word_5": "бордюр"
+        }
+    },
+    {
+        "pk": 257,
+        "model": "game.Word",
+        "fields": {
+            "word": "цемент",
+            "taboo_word_1": "раствор",
+            "taboo_word_2": "бетон",
+            "taboo_word_3": "замесить",
+            "taboo_word_4": "фундамент",
+            "taboo_word_5": "бордюр"
+        }
+    },
+    {
+        "pk": 258,
+        "model": "game.Word",
+        "fields": {
+            "word": "балка",
+            "taboo_word_1": "кран",
+            "taboo_word_2": "алюминиевый",
+            "taboo_word_3": "железо",
+            "taboo_word_4": "каркас",
+            "taboo_word_5": "стойка"
+        }
+    },
+    {
+        "pk": 259,
+        "model": "game.Word",
+        "fields": {
+            "word": "колонна",
+            "taboo_word_1": "башня",
+            "taboo_word_2": "бетонная",
+            "taboo_word_3": "Греция",
+            "taboo_word_4": "арка",
+            "taboo_word_5": "мрамор"
+        }
+    },
+    {
+        "pk": 260,
+        "model": "game.Word",
+        "fields": {
+            "word": "лестница",
+            "taboo_word_1": "ступеньки",
+            "taboo_word_2": "подниматься",
+            "taboo_word_3": "вверх",
+            "taboo_word_4": "вниз",
+            "taboo_word_5": "коридор"
+        }
+    },
+    {
+        "pk": 261,
+        "model": "game.Word",
+        "fields": {
+            "word": "лифт",
+            "taboo_word_1": "этаж",
+            "taboo_word_2": "лестница",
+            "taboo_word_3": "подъезд",
+            "taboo_word_4": "подниматься",
+            "taboo_word_5": "вызов"
+        }
+    },
+    {
+        "pk": 262,
+        "model": "game.Word",
+        "fields": {
+            "word": "чердак",
+            "taboo_word_1": "бардак",
+            "taboo_word_2": "лестница",
+            "taboo_word_3": "подвал",
+            "taboo_word_4": "хлам",
+            "taboo_word_5": "крыша"
+        }
+    },
+    {
+        "pk": 263,
+        "model": "game.Word",
+        "fields": {
+            "word": "подвал",
+            "taboo_word_1": "темный",
+            "taboo_word_2": "сырость",
+            "taboo_word_3": "чердак",
+            "taboo_word_4": "погреб",
+            "taboo_word_5": "лестница"
+        }
+    },
+    {
+        "pk": 264,
+        "model": "game.Word",
+        "fields": {
+            "word": "коридор",
+            "taboo_word_1": "длинный",
+            "taboo_word_2": "узкий",
+            "taboo_word_3": "комната",
+            "taboo_word_4": "проход",
+            "taboo_word_5": "больница"
+        }
+    },
+    {
+        "pk": 265,
+        "model": "game.Word",
+        "fields": {
+            "word": "комната",
+            "taboo_word_1": "учительский",
+            "taboo_word_2": "помещение",
+            "taboo_word_3": "квадратная",
+            "taboo_word_4": "угол",
+            "taboo_word_5": "коридор"
+        }
+    },
+    {
+        "pk": 266,
+        "model": "game.Word",
+        "fields": {
+            "word": "спальня",
+            "taboo_word_1": "комната",
+            "taboo_word_2": "окно",
+            "taboo_word_3": "постель",
+            "taboo_word_4": "кровать",
+            "taboo_word_5": "отдыхать"
+        }
+    },
+    {
+        "pk": 267,
+        "model": "game.Word",
+        "fields": {
+            "word": "кухня",
+            "taboo_word_1": "столовая",
+            "taboo_word_2": "комната",
+            "taboo_word_3": "готовить",
+            "taboo_word_4": "еда",
+            "taboo_word_5": "местный"
+        }
+    },
+    {
+        "pk": 268,
+        "model": "game.Word",
+        "fields": {
+            "word": "ванная",
+            "taboo_word_1": "кафель",
+            "taboo_word_2": "душ",
+            "taboo_word_3": "мыло",
+            "taboo_word_4": "чистый",
+            "taboo_word_5": "раковина"
+        }
+    },
+    {
+        "pk": 269,
+        "model": "game.Word",
+        "fields": {
+            "word": "туалет",
+            "taboo_word_1": "общественный",
+            "taboo_word_2": "унитаз",
+            "taboo_word_3": "санузел",
+            "taboo_word_4": "вонючий",
+            "taboo_word_5": "ванна"
+        }
+    },
+    {
+        "pk": 270,
+        "model": "game.Word",
+        "fields": {
+            "word": "балкон",
+            "taboo_word_1": "открытый",
+            "taboo_word_2": "лестница",
+            "taboo_word_3": "упасть",
+            "taboo_word_4": "хранить",
+            "taboo_word_5": "квартира"
+        }
+    },
+    {
+        "pk": 271,
+        "model": "game.Word",
+        "fields": {
+            "word": "забор",
+            "taboo_word_1": "ограда",
+            "taboo_word_2": "красить",
+            "taboo_word_3": "калитка",
+            "taboo_word_4": "высокий",
+            "taboo_word_5": "плетень"
+        }
+    },
+    {
+        "pk": 272,
+        "model": "game.Word",
+        "fields": {
+            "word": "ворота",
+            "taboo_word_1": "гол",
+            "taboo_word_2": "атаковать",
+            "taboo_word_3": "двор",
+            "taboo_word_4": "запирать",
+            "taboo_word_5": "калитка"
+        }
+    },
+    {
+        "pk": 273,
+        "model": "game.Word",
+        "fields": {
+            "word": "калитка",
+            "taboo_word_1": "ворота",
+            "taboo_word_2": "околица",
+            "taboo_word_3": "дом",
+            "taboo_word_4": "забор",
+            "taboo_word_5": "сад"
+        }
+    },
+    {
+        "pk": 274,
+        "model": "game.Word",
+        "fields": {
+            "word": "дорожка",
+            "taboo_word_1": "тропинка",
+            "taboo_word_2": "ковер",
+            "taboo_word_3": "бегать",
+            "taboo_word_4": "бордюр",
+            "taboo_word_5": "пешеходный"
+        }
+    },
+    {
+        "pk": 275,
+        "model": "game.Word",
+        "fields": {
+            "word": "тротуар",
+            "taboo_word_1": "бордюр",
+            "taboo_word_2": "улица",
+            "taboo_word_3": "пешеходный",
+            "taboo_word_4": "бульвар",
+            "taboo_word_5": "идти"
+        }
+    },
+    {
+        "pk": 276,
+        "model": "game.Word",
+        "fields": {
+            "word": "асфальт",
+            "taboo_word_1": "мокрый",
+            "taboo_word_2": "бордюр",
+            "taboo_word_3": "тротуар",
+            "taboo_word_4": "улица",
+            "taboo_word_5": "дорога"
+        }
+    },
+    {
+        "pk": 277,
+        "model": "game.Word",
+        "fields": {
+            "word": "фонарь",
+            "taboo_word_1": "уличный",
+            "taboo_word_2": "светить",
+            "taboo_word_3": "столб",
+            "taboo_word_4": "прожектор",
+            "taboo_word_5": "улица"
+        }
+    },
+    {
+        "pk": 278,
+        "model": "game.Word",
+        "fields": {
+            "word": "столб",
+            "taboo_word_1": "телеграфный",
+            "taboo_word_2": "высокий",
+            "taboo_word_3": "провода",
+            "taboo_word_4": "деревянный",
+            "taboo_word_5": "опора"
+        }
+    },
+    {
+        "pk": 279,
+        "model": "game.Word",
+        "fields": {
+            "word": "провод",
+            "taboo_word_1": "гибкий",
+            "taboo_word_2": "связь",
+            "taboo_word_3": "медный",
+            "taboo_word_4": "оборвать",
+            "taboo_word_5": "перерезать"
+        }
+    },
+    {
+        "pk": 280,
+        "model": "game.Word",
+        "fields": {
+            "word": "розетка",
+            "taboo_word_1": "сеть",
+            "taboo_word_2": "напряжение",
+            "taboo_word_3": "провод",
+            "taboo_word_4": "ток",
+            "taboo_word_5": "шнур"
+        }
+    },
+    {
+        "pk": 281,
+        "model": "game.Word",
+        "fields": {
+            "word": "лампочка",
+            "taboo_word_1": "груша",
+            "taboo_word_2": "сигнал",
+            "taboo_word_3": "электричество",
+            "taboo_word_4": "батарейка",
+            "taboo_word_5": "светить"
+        }
+    },
+    {
+        "pk": 282,
+        "model": "game.Word",
+        "fields": {
+            "word": "телевизор",
+            "taboo_word_1": "смотреть",
+            "taboo_word_2": "включить",
+            "taboo_word_3": "передача",
+            "taboo_word_4": "экран",
+            "taboo_word_5": "новости"
+        }
+    },
+    {
+        "pk": 283,
+        "model": "game.Word",
+        "fields": {
+            "word": "холодильник",
+            "taboo_word_1": "холодный",
+            "taboo_word_2": "заморозить",
+            "taboo_word_3": "еда",
+            "taboo_word_4": "хранить",
+            "taboo_word_5": "кухня"
+        }
+    },
+    {
+        "pk": 284,
+        "model": "game.Word",
+        "fields": {
+            "word": "плита",
+            "taboo_word_1": "газовый",
+            "taboo_word_2": "бетонный",
+            "taboo_word_3": "готовить",
+            "taboo_word_4": "кухня",
+            "taboo_word_5": "утюг"
+        }
+    },
+    {
+        "pk": 285,
+        "model": "game.Word",
+        "fields": {
+            "word": "чайник",
+            "taboo_word_1": "фарфоровый",
+            "taboo_word_2": "пар",
+            "taboo_word_3": "горячий",
+            "taboo_word_4": "поставить",
+            "taboo_word_5": "греть"
+        }
+    },
+    {
+        "pk": 286,
+        "model": "game.Word",
+        "fields": {
+            "word": "кастрюля",
+            "taboo_word_1": "суп",
+            "taboo_word_2": "варить",
+            "taboo_word_3": "готовить",
+            "taboo_word_4": "крышка",
+            "taboo_word_5": "кухня"
+        }
+    },
+    {
+        "pk": 287,
+        "model": "game.Word",
+        "fields": {
+            "word": "сковорода",
+            "taboo_word_1": "блин",
+            "taboo_word_2": "жарить",
+            "taboo_word_3": "плита",
+            "taboo_word_4": "раскаленный",
+            "taboo_word_5": "кухня"
+        }
+    },
+    {
+        "pk": 288,
+        "model": "game.Word",
+        "fields": {
+            "word": "нож",
+            "taboo_word_1": "складной",
+            "taboo_word_2": "острый",
+            "taboo_word_3": "резать",
+            "taboo_word_4": "финский",
+            "taboo_word_5": "вилка"
+        }
+    },
+    {
+        "pk": 289,
+        "model": "game.Word",
+        "fields": {
+            "word": "вилка",
+            "taboo_word_1": "розетка",
+            "taboo_word_2": "ложка",
+            "taboo_word_3": "нож",
+            "taboo_word_4": "посуда",
+            "taboo_word_5": "прибор"
+        }
+    },
+    {
+        "pk": 290,
+        "model": "game.Word",
+        "fields": {
+            "word": "ложка",
+            "taboo_word_1": "вилка",
+            "taboo_word_2": "столовый",
+            "taboo_word_3": "деготь",
+            "taboo_word_4": "чайный",
+            "taboo_word_5": "есть"
+        }
+    },
+    {
+        "pk": 291,
+        "model": "game.Word",
+        "fields": {
+            "word": "тарелка",
+            "taboo_word_1": "НЛО",
+            "taboo_word_2": "еда",
+            "taboo_word_3": "блюдо",
+            "taboo_word_4": "вилка",
+            "taboo_word_5": "ложка"
+        }
+    },
+    {
+        "pk": 292,
+        "model": "game.Word",
+        "fields": {
+            "word": "чашка",
+            "taboo_word_1": "кофе",
+            "taboo_word_2": "глина",
+            "taboo_word_3": "налить",
+            "taboo_word_4": "посуда",
+            "taboo_word_5": "еда"
+        }
+    },
+    {
+        "pk": 293,
+        "model": "game.Word",
+        "fields": {
+            "word": "стакан",
+            "taboo_word_1": "пить",
+            "taboo_word_2": "стеклянный",
+            "taboo_word_3": "налить",
+            "taboo_word_4": "вода",
+            "taboo_word_5": "разбитый"
+        }
+    },
+    {
+        "pk": 294,
+        "model": "game.Word",
+        "fields": {
+            "word": "бокал",
+            "taboo_word_1": "хрустальный",
+            "taboo_word_2": "хрупкий",
+            "taboo_word_3": "поднять",
+            "taboo_word_4": "пить",
+            "taboo_word_5": "вино"
+        }
+    },
+    {
+        "pk": 295,
+        "model": "game.Word",
+        "fields": {
+            "word": "графин",
+            "taboo_word_1": "наполнять",
+            "taboo_word_2": "стеклянный",
+            "taboo_word_3": "кувшин",
+            "taboo_word_4": "вода",
+            "taboo_word_5": "лить"
+        }
+    },
+    {
+        "pk": 296,
+        "model": "game.Word",
+        "fields": {
+            "word": "бутылка",
+            "taboo_word_1": "пьяница",
+            "taboo_word_2": "алкоголик",
+            "taboo_word_3": "выпивка",
+            "taboo_word_4": "емкость",
+            "taboo_word_5": "лимонад"
+        }
+    },
+    {
+        "pk": 297,
+        "model": "game.Word",
+        "fields": {
+            "word": "банка",
+            "taboo_word_1": "стеклянный",
+            "taboo_word_2": "крышка",
+            "taboo_word_3": "консервный",
+            "taboo_word_4": "емкость",
+            "taboo_word_5": "бутылка"
+        }
+    },
+    {
+        "pk": 298,
+        "model": "game.Word",
+        "fields": {
+            "word": "крышка",
+            "taboo_word_1": "кастрюля",
+            "taboo_word_2": "гроб",
+            "taboo_word_3": "открывать",
+            "taboo_word_4": "алюминиевый",
+            "taboo_word_5": "верх"
+        }
+    },
+    {
+        "pk": 299,
+        "model": "game.Word",
+        "fields": {
+            "word": "пробка",
+            "taboo_word_1": "выскочить",
+            "taboo_word_2": "глупый",
+            "taboo_word_3": "закрытый",
+            "taboo_word_4": "затыкать",
+            "taboo_word_5": "машины"
+        }
+    },
+    {
+        "pk": 300,
+        "model": "game.Word",
+        "fields": {
+            "word": "салфетка",
+            "taboo_word_1": "кружево",
+            "taboo_word_2": "промокнуть",
+            "taboo_word_3": "ткань",
+            "taboo_word_4": "полотенце",
+            "taboo_word_5": "бумага"
+        }
+    },
+    {
+        "pk": 301,
+        "model": "game.Word",
+        "fields": {
+            "word": "полотенце",
+            "taboo_word_1": "махровый",
+            "taboo_word_2": "мыло",
+            "taboo_word_3": "повесить",
+            "taboo_word_4": "чистый",
+            "taboo_word_5": "ванна"
+        }
+    },
+    {
+        "pk": 302,
+        "model": "game.Word",
+        "fields": {
+            "word": "мыло",
+            "taboo_word_1": "туалетный",
+            "taboo_word_2": "хозяйственный",
+            "taboo_word_3": "мочалка",
+            "taboo_word_4": "пена",
+            "taboo_word_5": "ванна"
+        }
+    },
+    {
+        "pk": 303,
+        "model": "game.Word",
+        "fields": {
+            "word": "шампунь",
+            "taboo_word_1": "мыло",
+            "taboo_word_2": "ванна",
+            "taboo_word_3": "пена",
+            "taboo_word_4": "глова",
+            "taboo_word_5": "волосы"
+        }
+    },
+    {
+        "pk": 304,
+        "model": "game.Word",
+        "fields": {
+            "word": "паста",
+            "taboo_word_1": "зубной",
+            "taboo_word_2": "мыло",
+            "taboo_word_3": "кончиться",
+            "taboo_word_4": "крем",
+            "taboo_word_5": "щетка"
+        }
+    },
+    {
+        "pk": 305,
+        "model": "game.Word",
+        "fields": {
+            "word": "расчёска",
+            "taboo_word_1": "волос",
+            "taboo_word_2": "гребень",
+            "taboo_word_3": "зеркало",
+            "taboo_word_4": "заколка",
+            "taboo_word_5": "голова"
+        }
+    },
+    {
+        "pk": 306,
+        "model": "game.Word",
+        "fields": {
+            "word": "зеркало",
+            "taboo_word_1": "отражение",
+            "taboo_word_2": "разбитый",
+            "taboo_word_3": "лицо",
+            "taboo_word_4": "любоваться",
+            "taboo_word_5": "увидеть"
+        }
+    },
+    {
+        "pk": 307,
+        "model": "game.Word",
+        "fields": {
+            "word": "кровать",
+            "taboo_word_1": "кресло",
+            "taboo_word_2": "постель",
+            "taboo_word_3": "спать",
+            "taboo_word_4": "диван",
+            "taboo_word_5": "лежать"
+        }
+    },
+    {
+        "pk": 308,
+        "model": "game.Word",
+        "fields": {
+            "word": "матрас",
+            "taboo_word_1": "надувной",
+            "taboo_word_2": "жесткий",
+            "taboo_word_3": "подушка",
+            "taboo_word_4": "спать",
+            "taboo_word_5": "пружина"
+        }
+    },
+    {
+        "pk": 309,
+        "model": "game.Word",
+        "fields": {
+            "word": "подушка",
+            "taboo_word_1": "перьевая",
+            "taboo_word_2": "постель",
+            "taboo_word_3": "простыня",
+            "taboo_word_4": "спать",
+            "taboo_word_5": "кровать"
+        }
+    },
+    {
+        "pk": 310,
+        "model": "game.Word",
+        "fields": {
+            "word": "одеяло",
+            "taboo_word_1": "пуховый",
+            "taboo_word_2": "постель",
+            "taboo_word_3": "кровать",
+            "taboo_word_4": "накрывать",
+            "taboo_word_5": "спать"
+        }
+    },
+    {
+        "pk": 311,
+        "model": "game.Word",
+        "fields": {
+            "word": "простыня",
+            "taboo_word_1": "постель",
+            "taboo_word_2": "белье",
+            "taboo_word_3": "покрывало",
+            "taboo_word_4": "спать",
+            "taboo_word_5": "матрас"
+        }
+    },
+    {
+        "pk": 312,
+        "model": "game.Word",
+        "fields": {
+            "word": "штора",
+            "taboo_word_1": "занавес",
+            "taboo_word_2": "окно",
+            "taboo_word_3": "тюль",
+            "taboo_word_4": "полотно",
+            "taboo_word_5": "гардина"
+        }
+    },
+    {
+        "pk": 313,
+        "model": "game.Word",
+        "fields": {
+            "word": "люстра",
+            "taboo_word_1": "лампочка",
+            "taboo_word_2": "потолок",
+            "taboo_word_3": "бал",
+            "taboo_word_4": "светить",
+            "taboo_word_5": "хрустальный"
+        }
+    },
+    {
+        "pk": 314,
+        "model": "game.Word",
+        "fields": {
+            "word": "ковёр",
+            "taboo_word_1": "персидский",
+            "taboo_word_2": "палас",
+            "taboo_word_3": "ткать",
+            "taboo_word_4": "борьба",
+            "taboo_word_5": "стелить"
+        }
+    },
+    {
+        "pk": 315,
+        "model": "game.Word",
+        "fields": {
+            "word": "пылесос",
+            "taboo_word_1": "ковер",
+            "taboo_word_2": "палас",
+            "taboo_word_3": "пыль",
+            "taboo_word_4": "вакуум",
+            "taboo_word_5": "засосать"
+        }
+    },
+    {
+        "pk": 316,
+        "model": "game.Word",
+        "fields": {
+            "word": "утюг",
+            "taboo_word_1": "гладить",
+            "taboo_word_2": "раскаленный",
+            "taboo_word_3": "горячий",
+            "taboo_word_4": "электрический",
+            "taboo_word_5": "паровой"
+        }
+    },
+    {
+        "pk": 317,
+        "model": "game.Word",
+        "fields": {
+            "word": "швабра",
+            "taboo_word_1": "палка",
+            "taboo_word_2": "щетка",
+            "taboo_word_3": "метелка",
+            "taboo_word_4": "тряпка",
+            "taboo_word_5": "метла"
+        }
+    },
+    {
+        "pk": 318,
+        "model": "game.Word",
+        "fields": {
+            "word": "ведро",
+            "taboo_word_1": "лить",
+            "taboo_word_2": "вода",
+            "taboo_word_3": "помои",
+            "taboo_word_4": "мыть",
+            "taboo_word_5": "тряпка"
+        }
+    },
+    {
+        "pk": 319,
+        "model": "game.Word",
+        "fields": {
+            "word": "тряпка",
+            "taboo_word_1": "швабра",
+            "taboo_word_2": "материя",
+            "taboo_word_3": "половой",
+            "taboo_word_4": "ведро",
+            "taboo_word_5": "полотенце"
+        }
+    },
+    {
+        "pk": 320,
+        "model": "game.Word",
+        "fields": {
+            "word": "пакет",
+            "taboo_word_1": "бумажный",
+            "taboo_word_2": "продукты",
+            "taboo_word_3": "документы",
+            "taboo_word_4": "мусор",
+            "taboo_word_5": "мешок"
+        }
+    },
+    {
+        "pk": 321,
+        "model": "game.Word",
+        "fields": {
+            "word": "корзина",
+            "taboo_word_1": "плести",
+            "taboo_word_2": "продукты",
+            "taboo_word_3": "цветочный",
+            "taboo_word_4": "мусор",
+            "taboo_word_5": "ведро"
+        }
+    },
+    {
+        "pk": 322,
+        "model": "game.Word",
+        "fields": {
+            "word": "сумка",
+            "taboo_word_1": "нести",
+            "taboo_word_2": "авоська",
+            "taboo_word_3": "портфель",
+            "taboo_word_4": "рюкзак",
+            "taboo_word_5": "дамский"
+        }
+    },
+    {
+        "pk": 323,
+        "model": "game.Word",
+        "fields": {
+            "word": "рюкзак",
+            "taboo_word_1": "турист",
+            "taboo_word_2": "лямка",
+            "taboo_word_3": "поход",
+            "taboo_word_4": "спина",
+            "taboo_word_5": "нести"
+        }
+    },
+    {
+        "pk": 324,
+        "model": "game.Word",
+        "fields": {
+            "word": "чемодан",
+            "taboo_word_1": "тяжелый",
+            "taboo_word_2": "нести",
+            "taboo_word_3": "дорожный",
+            "taboo_word_4": "аэропорт",
+            "taboo_word_5": "сдать"
+        }
+    },
+    {
+        "pk": 325,
+        "model": "game.Word",
+        "fields": {
+            "word": "портфель",
+            "taboo_word_1": "кожаный",
+            "taboo_word_2": "ранец",
+            "taboo_word_3": "нести",
+            "taboo_word_4": "школьный",
+            "taboo_word_5": "дипломат"
+        }
+    },
+    {
+        "pk": 326,
+        "model": "game.Word",
+        "fields": {
+            "word": "ключ",
+            "taboo_word_1": "скрипичный",
+            "taboo_word_2": "замок",
+            "taboo_word_3": "дверь",
+            "taboo_word_4": "закрывать",
+            "taboo_word_5": "басовый"
+        }
+    },
+    {
+        "pk": 327,
+        "model": "game.Word",
+        "fields": {
+            "word": "замок",
+            "taboo_word_1": "закрывать",
+            "taboo_word_2": "ключ",
+            "taboo_word_3": "дверь",
+            "taboo_word_4": "дворец",
+            "taboo_word_5": "штурмовать"
+        }
+    },
+    {
+        "pk": 328,
+        "model": "game.Word",
+        "fields": {
+            "word": "телефон",
+            "taboo_word_1": "звонить",
+            "taboo_word_2": "связь",
+            "taboo_word_3": "гаджет",
+            "taboo_word_4": "номер",
+            "taboo_word_5": "разговор"
+        }
+    },
+    {
+        "pk": 329,
+        "model": "game.Word",
+        "fields": {
+            "word": "компьютер",
+            "taboo_word_1": "информация",
+            "taboo_word_2": "вирус",
+            "taboo_word_3": "данные",
+            "taboo_word_4": "матрица",
+            "taboo_word_5": "программа"
+        }
+    },
+    {
+        "pk": 330,
+        "model": "game.Word",
+        "fields": {
+            "word": "мышь",
+            "taboo_word_1": "серый",
+            "taboo_word_2": "сыр",
+            "taboo_word_3": "ловушка",
+            "taboo_word_4": "летучий",
+            "taboo_word_5": "норка"
+        }
+    },
+    {
+        "pk": 331,
+        "model": "game.Word",
+        "fields": {
+            "word": "наушники",
+            "taboo_word_1": "связь",
+            "taboo_word_2": "слушать",
+            "taboo_word_3": "музыка",
+            "taboo_word_4": "микрофон",
+            "taboo_word_5": "телефон"
+        }
+    },
+    {
+        "pk": 332,
+        "model": "game.Word",
+        "fields": {
+            "word": "колонка",
+            "taboo_word_1": "столбик",
+            "taboo_word_2": "газ",
+            "taboo_word_3": "газета",
+            "taboo_word_4": "слушать",
+            "taboo_word_5": "музыка"
+        }
+    },
+    {
+        "pk": 333,
+        "model": "game.Word",
+        "fields": {
+            "word": "микрофон",
+            "taboo_word_1": "журналист",
+            "taboo_word_2": "телефон",
+            "taboo_word_3": "выступление",
+            "taboo_word_4": "говорить",
+            "taboo_word_5": "певец"
+        }
+    },
+    {
+        "pk": 334,
+        "model": "game.Word",
+        "fields": {
+            "word": "камера",
+            "taboo_word_1": "тюремный",
+            "taboo_word_2": "газовый",
+            "taboo_word_3": "хранение",
+            "taboo_word_4": "телефон",
+            "taboo_word_5": "фотография"
+        }
+    },
+    {
+        "pk": 335,
+        "model": "game.Word",
+        "fields": {
+            "word": "принтер",
+            "taboo_word_1": "компьютер",
+            "taboo_word_2": "ксерокс",
+            "taboo_word_3": "бумага",
+            "taboo_word_4": "печать",
+            "taboo_word_5": "картридж"
+        }
+    },
+    {
+        "pk": 336,
+        "model": "game.Word",
+        "fields": {
+            "word": "программа",
+            "taboo_word_1": "передача",
+            "taboo_word_2": "приложение",
+            "taboo_word_3": "вести",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "телевидение"
+        }
+    },
+    {
+        "pk": 337,
+        "model": "game.Word",
+        "fields": {
+            "word": "код",
+            "taboo_word_1": "секрет",
+            "taboo_word_2": "пароль",
+            "taboo_word_3": "вор",
+            "taboo_word_4": "цифра",
+            "taboo_word_5": "информация"
+        }
+    },
+    {
+        "pk": 338,
+        "model": "game.Word",
+        "fields": {
+            "word": "пароль",
+            "taboo_word_1": "код",
+            "taboo_word_2": "безопасность",
+            "taboo_word_3": "телефон",
+            "taboo_word_4": "блокировка",
+            "taboo_word_5": "контроль"
+        }
+    },
+    {
+        "pk": 339,
+        "model": "game.Word",
+        "fields": {
+            "word": "профиль",
+            "taboo_word_1": "анфас",
+            "taboo_word_2": "фигура",
+            "taboo_word_3": "картинка",
+            "taboo_word_4": "соцсеть",
+            "taboo_word_5": "вид"
+        }
+    },
+    {
+        "pk": 340,
+        "model": "game.Word",
+        "fields": {
+            "word": "сообщение",
+            "taboo_word_1": "телеграмма",
+            "taboo_word_2": "вести",
+            "taboo_word_3": "текст",
+            "taboo_word_4": "телефон",
+            "taboo_word_5": "донос"
+        }
+    },
+    {
+        "pk": 341,
+        "model": "game.Word",
+        "fields": {
+            "word": "письмо",
+            "taboo_word_1": "писать",
+            "taboo_word_2": "бумага",
+            "taboo_word_3": "почта",
+            "taboo_word_4": "конверт",
+            "taboo_word_5": "получать"
+        }
+    },
+    {
+        "pk": 342,
+        "model": "game.Word",
+        "fields": {
+            "word": "форум",
+            "taboo_word_1": "демонстрировать",
+            "taboo_word_2": "обсуждение",
+            "taboo_word_3": "открытый",
+            "taboo_word_4": "проводить",
+            "taboo_word_5": "конференция"
+        }
+    },
+    {
+        "pk": 343,
+        "model": "game.Word",
+        "fields": {
+            "word": "пост",
+            "taboo_word_1": "место",
+            "taboo_word_2": "ГАИ",
+            "taboo_word_3": "служба",
+            "taboo_word_4": "вахта",
+            "taboo_word_5": "соцсети"
+        }
+    },
+    {
+        "pk": 344,
+        "model": "game.Word",
+        "fields": {
+            "word": "вирус",
+            "taboo_word_1": "грипп",
+            "taboo_word_2": "прививка",
+            "taboo_word_3": "простуда",
+            "taboo_word_4": "болеть",
+            "taboo_word_5": "вакцина"
+        }
+    },
+    {
+        "pk": 345,
+        "model": "game.Word",
+        "fields": {
+            "word": "менеджер",
+            "taboo_word_1": "бизнесмен",
+            "taboo_word_2": "консультант",
+            "taboo_word_3": "управлять",
+            "taboo_word_4": "предприниматель",
+            "taboo_word_5": "экономист"
+        }
+    },
+    {
+        "pk": 346,
+        "model": "game.Word",
+        "fields": {
+            "word": "директор",
+            "taboo_word_1": "школа",
+            "taboo_word_2": "кабинет",
+            "taboo_word_3": "начальник",
+            "taboo_word_4": "руководитель",
+            "taboo_word_5": "должность"
+        }
+    },
+    {
+        "pk": 347,
+        "model": "game.Word",
+        "fields": {
+            "word": "учитель",
+            "taboo_word_1": "наставник",
+            "taboo_word_2": "строгий",
+            "taboo_word_3": "школа",
+            "taboo_word_4": "преподаватель",
+            "taboo_word_5": "урок"
+        }
+    },
+    {
+        "pk": 348,
+        "model": "game.Word",
+        "fields": {
+            "word": "врач",
+            "taboo_word_1": "доктор",
+            "taboo_word_2": "педиатр",
+            "taboo_word_3": "лечить",
+            "taboo_word_4": "больной",
+            "taboo_word_5": "хирург"
+        }
+    },
+    {
+        "pk": 349,
+        "model": "game.Word",
+        "fields": {
+            "word": "инженер",
+            "taboo_word_1": "конструктор",
+            "taboo_word_2": "технолог",
+            "taboo_word_3": "специалист",
+            "taboo_word_4": "проект",
+            "taboo_word_5": "профессия"
+        }
+    },
+    {
+        "pk": 350,
+        "model": "game.Word",
+        "fields": {
+            "word": "архитектор",
+            "taboo_word_1": "проект",
+            "taboo_word_2": "строить",
+            "taboo_word_3": "мастерская",
+            "taboo_word_4": "дизайнер",
+            "taboo_word_5": "здание"
+        }
+    },
+    {
+        "pk": 351,
+        "model": "game.Word",
+        "fields": {
+            "word": "повар",
+            "taboo_word_1": "шеф",
+            "taboo_word_2": "столовая",
+            "taboo_word_3": "кухня",
+            "taboo_word_4": "готовить",
+            "taboo_word_5": "еда"
+        }
+    },
+    {
+        "pk": 352,
+        "model": "game.Word",
+        "fields": {
+            "word": "пилот",
+            "taboo_word_1": "летчик",
+            "taboo_word_2": "штурман",
+            "taboo_word_3": "небо",
+            "taboo_word_4": "авиатор",
+            "taboo_word_5": "стюардесса"
+        }
+    },
+    {
+        "pk": 353,
+        "model": "game.Word",
+        "fields": {
+            "word": "водитель",
+            "taboo_word_1": "механик",
+            "taboo_word_2": "пешеход",
+            "taboo_word_3": "машина",
+            "taboo_word_4": "автобус",
+            "taboo_word_5": "дорога"
+        }
+    },
+    {
+        "pk": 354,
+        "model": "game.Word",
+        "fields": {
+            "word": "строитель",
+            "taboo_word_1": "инженер",
+            "taboo_word_2": "прораб",
+            "taboo_word_3": "конструктор",
+            "taboo_word_4": "здание",
+            "taboo_word_5": "рабочие"
+        }
+    },
+    {
+        "pk": 355,
+        "model": "game.Word",
+        "fields": {
+            "word": "художник",
+            "taboo_word_1": "Ван Гог",
+            "taboo_word_2": "мольберт",
+            "taboo_word_3": "картина",
+            "taboo_word_4": "портрет",
+            "taboo_word_5": "рисовать"
+        }
+    },
+    {
+        "pk": 356,
+        "model": "game.Word",
+        "fields": {
+            "word": "музыкант",
+            "taboo_word_1": "Чайковский",
+            "taboo_word_2": "играть",
+            "taboo_word_3": "композитор",
+            "taboo_word_4": "уличный",
+            "taboo_word_5": "Бах"
+        }
+    },
+    {
+        "pk": 357,
+        "model": "game.Word",
+        "fields": {
+            "word": "актёр",
+            "taboo_word_1": "популярный",
+            "taboo_word_2": "роль",
+            "taboo_word_3": "кино",
+            "taboo_word_4": "театр",
+            "taboo_word_5": "комик"
+        }
+    },
+    {
+        "pk": 358,
+        "model": "game.Word",
+        "fields": {
+            "word": "писатель",
+            "taboo_word_1": "книга",
+            "taboo_word_2": "роман",
+            "taboo_word_3": "публиковать",
+            "taboo_word_4": "произведение",
+            "taboo_word_5": "рассказ"
+        }
+    },
+    {
+        "pk": 359,
+        "model": "game.Word",
+        "fields": {
+            "word": "поэт",
+            "taboo_word_1": "лирик",
+            "taboo_word_2": "Пушкин",
+            "taboo_word_3": "рифма",
+            "taboo_word_4": "стих",
+            "taboo_word_5": "вдохновение"
+        }
+    },
+    {
+        "pk": 360,
+        "model": "game.Word",
+        "fields": {
+            "word": "философ",
+            "taboo_word_1": "Сократ",
+            "taboo_word_2": "мыслитель",
+            "taboo_word_3": "рассуждать",
+            "taboo_word_4": "греческий",
+            "taboo_word_5": "мудрец"
+        }
+    },
+    {
+        "pk": 361,
+        "model": "game.Word",
+        "fields": {
+            "word": "учёный",
+            "taboo_word_1": "Ломоносов",
+            "taboo_word_2": "исследователь",
+            "taboo_word_3": "эксперимент",
+            "taboo_word_4": "гений",
+            "taboo_word_5": "физик"
+        }
+    },
+    {
+        "pk": 362,
+        "model": "game.Word",
+        "fields": {
+            "word": "исследователь",
+            "taboo_word_1": "эксперимент",
+            "taboo_word_2": "наука",
+            "taboo_word_3": "испытатель",
+            "taboo_word_4": "ученый",
+            "taboo_word_5": "физик"
+        }
+    },
+    {
+        "pk": 363,
+        "model": "game.Word",
+        "fields": {
+            "word": "изобретатель",
+            "taboo_word_1": "Калашников",
+            "taboo_word_2": "автор",
+            "taboo_word_3": "конструктор",
+            "taboo_word_4": "фантазия",
+            "taboo_word_5": "новый"
+        }
+    },
+    {
+        "pk": 364,
+        "model": "game.Word",
+        "fields": {
+            "word": "путешественник",
+            "taboo_word_1": "турист",
+            "taboo_word_2": "странник",
+            "taboo_word_3": "загорелый",
+            "taboo_word_4": "чемодан",
+            "taboo_word_5": "рюкзак"
+        }
+    },
+    {
+        "pk": 365,
+        "model": "game.Word",
+        "fields": {
+            "word": "турист",
+            "taboo_word_1": "иностранный",
+            "taboo_word_2": "рюкзак",
+            "taboo_word_3": "гостиница",
+            "taboo_word_4": "палатка",
+            "taboo_word_5": "страна"
+        }
+    },
+    {
+        "pk": 366,
+        "model": "game.Word",
+        "fields": {
+            "word": "переводчик",
+            "taboo_word_1": "слова",
+            "taboo_word_2": "карьера",
+            "taboo_word_3": "говорить",
+            "taboo_word_4": "иностранный",
+            "taboo_word_5": "язык"
+        }
+    },
+    {
+        "pk": 367,
+        "model": "game.Word",
+        "fields": {
+            "word": "журналист",
+            "taboo_word_1": "газетный",
+            "taboo_word_2": "иностранный",
+            "taboo_word_3": "репортер",
+            "taboo_word_4": "пресса",
+            "taboo_word_5": "профессия"
+        }
+    },
+    {
+        "pk": 368,
+        "model": "game.Word",
+        "fields": {
+            "word": "фотограф",
+            "taboo_word_1": "видео",
+            "taboo_word_2": "снимок",
+            "taboo_word_3": "пленка",
+            "taboo_word_4": "кадр",
+            "taboo_word_5": "снимать"
+        }
+    },
+    {
+        "pk": 369,
+        "model": "game.Word",
+        "fields": {
+            "word": "модель",
+            "taboo_word_1": "образец",
+            "taboo_word_2": "подиум",
+            "taboo_word_3": "глобус",
+            "taboo_word_4": "одежда",
+            "taboo_word_5": "схема"
+        }
+    },
+    {
+        "pk": 370,
+        "model": "game.Word",
+        "fields": {
+            "word": "спортсмен",
+            "taboo_word_1": "сильный",
+            "taboo_word_2": "чемпион",
+            "taboo_word_3": "бегать",
+            "taboo_word_4": "игра",
+            "taboo_word_5": "атлет"
+        }
+    },
+    {
+        "pk": 371,
+        "model": "game.Word",
+        "fields": {
+            "word": "тренер",
+            "taboo_word_1": "мастер",
+            "taboo_word_2": "ругать",
+            "taboo_word_3": "свисток",
+            "taboo_word_4": "спортсмен",
+            "taboo_word_5": "футбол"
+        }
+    },
+    {
+        "pk": 372,
+        "model": "game.Word",
+        "fields": {
+            "word": "судья",
+            "taboo_word_1": "арбитр",
+            "taboo_word_2": "справедливый",
+            "taboo_word_3": "мировой",
+            "taboo_word_4": "мыло",
+            "taboo_word_5": "присяжный"
+        }
+    },
+    {
+        "pk": 373,
+        "model": "game.Word",
+        "fields": {
+            "word": "зритель",
+            "taboo_word_1": "слушатель",
+            "taboo_word_2": "театр",
+            "taboo_word_3": "кино",
+            "taboo_word_4": "спектакль",
+            "taboo_word_5": "сцена"
+        }
+    },
+    {
+        "pk": 374,
+        "model": "game.Word",
+        "fields": {
+            "word": "слушатель",
+            "taboo_word_1": "вольный",
+            "taboo_word_2": "читатель",
+            "taboo_word_3": "говорить",
+            "taboo_word_4": "аудитория",
+            "taboo_word_5": "зритель"
+        }
+    },
+    {
+        "pk": 375,
+        "model": "game.Word",
+        "fields": {
+            "word": "читатель",
+            "taboo_word_1": "библиотека",
+            "taboo_word_2": "книга",
+            "taboo_word_3": "писатель",
+            "taboo_word_4": "произведение",
+            "taboo_word_5": "слушатель"
+        }
+    },
+    {
+        "pk": 376,
+        "model": "game.Word",
+        "fields": {
+            "word": "покупатель",
+            "taboo_word_1": "клиент",
+            "taboo_word_2": "продавец",
+            "taboo_word_3": "товар",
+            "taboo_word_4": "деньги",
+            "taboo_word_5": "посетитель"
+        }
+    },
+    {
+        "pk": 377,
+        "model": "game.Word",
+        "fields": {
+            "word": "клиент",
+            "taboo_word_1": "постоянный",
+            "taboo_word_2": "покупатель",
+            "taboo_word_3": "посетитель",
+            "taboo_word_4": "заказ",
+            "taboo_word_5": "товар"
+        }
+    },
+    {
+        "pk": 378,
+        "model": "game.Word",
+        "fields": {
+            "word": "пациент",
+            "taboo_word_1": "врач",
+            "taboo_word_2": "больной",
+            "taboo_word_3": "доктор",
+            "taboo_word_4": "больница",
+            "taboo_word_5": "лечить"
+        }
+    },
+    {
+        "pk": 379,
+        "model": "game.Word",
+        "fields": {
+            "word": "студент",
+            "taboo_word_1": "заочник",
+            "taboo_word_2": "университет",
+            "taboo_word_3": "институт",
+            "taboo_word_4": "учить",
+            "taboo_word_5": "колледж"
+        }
+    },
+    {
+        "pk": 380,
+        "model": "game.Word",
+        "fields": {
+            "word": "школьник",
+            "taboo_word_1": "ранец",
+            "taboo_word_2": "студент",
+            "taboo_word_3": "первоклассник",
+            "taboo_word_4": "ученик",
+            "taboo_word_5": "рюкзак"
+        }
+    },
+    {
+        "pk": 381,
+        "model": "game.Word",
+        "fields": {
+            "word": "пенсионер",
+            "taboo_word_1": "работа",
+            "taboo_word_2": "отдых",
+            "taboo_word_3": "пожилой",
+            "taboo_word_4": "седой",
+            "taboo_word_5": "старик"
+        }
+    },
+    {
+        "pk": 382,
+        "model": "game.Word",
+        "fields": {
+            "word": "ребёнок",
+            "taboo_word_1": "грудной",
+            "taboo_word_2": "маленький",
+            "taboo_word_3": "чадо",
+            "taboo_word_4": "дитя",
+            "taboo_word_5": "мать"
+        }
+    },
+    {
+        "pk": 383,
+        "model": "game.Word",
+        "fields": {
+            "word": "подросток",
+            "taboo_word_1": "трудный",
+            "taboo_word_2": "юноша",
+            "taboo_word_3": "ребенок",
+            "taboo_word_4": "взрослый",
+            "taboo_word_5": "пубертат"
+        }
+    },
+    {
+        "pk": 384,
+        "model": "game.Word",
+        "fields": {
+            "word": "взрослый",
+            "taboo_word_1": "детский",
+            "taboo_word_2": "ребенок",
+            "taboo_word_3": "зрелый",
+            "taboo_word_4": "работа",
+            "taboo_word_5": "большой"
+        }
+    },
+    {
+        "pk": 385,
+        "model": "game.Word",
+        "fields": {
+            "word": "старик",
+            "taboo_word_1": "дряхлый",
+            "taboo_word_2": "седой",
+            "taboo_word_3": "Хоттабыч",
+            "taboo_word_4": "пенсионер",
+            "taboo_word_5": "морщины"
+        }
+    },
+    {
+        "pk": 386,
+        "model": "game.Word",
+        "fields": {
+            "word": "женщина",
+            "taboo_word_1": "мужчина",
+            "taboo_word_2": "девушка",
+            "taboo_word_3": "дама",
+            "taboo_word_4": "девочка",
+            "taboo_word_5": "мать"
+        }
+    },
+    {
+        "pk": 387,
+        "model": "game.Word",
+        "fields": {
+            "word": "мужчина",
+            "taboo_word_1": "мальчик",
+            "taboo_word_2": "холостяк",
+            "taboo_word_3": "женщина",
+            "taboo_word_4": "парень",
+            "taboo_word_5": "сильный"
+        }
+    },
+    {
+        "pk": 388,
+        "model": "game.Word",
+        "fields": {
+            "word": "человек",
+            "taboo_word_1": "индивид",
+            "taboo_word_2": "зверь",
+            "taboo_word_3": "существо",
+            "taboo_word_4": "народ",
+            "taboo_word_5": "личность"
+        }
+    },
+    {
+        "pk": 389,
+        "model": "game.Word",
+        "fields": {
+            "word": "существо",
+            "taboo_word_1": "живой",
+            "taboo_word_2": "человек",
+            "taboo_word_3": "вещество",
+            "taboo_word_4": "организм",
+            "taboo_word_5": "природа"
+        }
+    },
+    {
+        "pk": 390,
+        "model": "game.Word",
+        "fields": {
+            "word": "тундра",
+            "taboo_word_1": "тайга",
+            "taboo_word_2": "вьюга",
+            "taboo_word_3": "болото",
+            "taboo_word_4": "лес",
+            "taboo_word_5": "дебри"
+        }
+    },
+    {
+        "pk": 391,
+        "model": "game.Word",
+        "fields": {
+            "word": "циклон",
+            "taboo_word_1": "погода",
+            "taboo_word_2": "магнитный",
+            "taboo_word_3": "тайфун",
+            "taboo_word_4": "муссон",
+            "taboo_word_5": "ураган"
+        }
+    },
+    {
+        "pk": 392,
+        "model": "game.Word",
+        "fields": {
+            "word": "астероид",
+            "taboo_word_1": "космос",
+            "taboo_word_2": "комета",
+            "taboo_word_3": "метеорит",
+            "taboo_word_4": "звезда",
+            "taboo_word_5": "свет"
+        }
+    },
+    {
+        "pk": 393,
+        "model": "game.Word",
+        "fields": {
+            "word": "метеорит",
+            "taboo_word_1": "астероид",
+            "taboo_word_2": "комета",
+            "taboo_word_3": "падать",
+            "taboo_word_4": "кратер",
+            "taboo_word_5": "космос"
+        }
+    },
+    {
+        "pk": 394,
+        "model": "game.Word",
+        "fields": {
+            "word": "кратер",
+            "taboo_word_1": "луна",
+            "taboo_word_2": "метеорит",
+            "taboo_word_3": "воронка",
+            "taboo_word_4": "вулкан",
+            "taboo_word_5": "дыра"
+        }
+    },
+    {
+        "pk": 395,
+        "model": "game.Word",
+        "fields": {
+            "word": "гейзер",
+            "taboo_word_1": "фонтан",
+            "taboo_word_2": "природа",
+            "taboo_word_3": "вода",
+            "taboo_word_4": "горячий",
+            "taboo_word_5": "кратер"
+        }
+    },
+    {
+        "pk": 396,
+        "model": "game.Word",
+        "fields": {
+            "word": "бухта",
+            "taboo_word_1": "яхта",
+            "taboo_word_2": "залив",
+            "taboo_word_3": "гавань",
+            "taboo_word_4": "остров",
+            "taboo_word_5": "порт"
+        }
+    },
+    {
+        "pk": 397,
+        "model": "game.Word",
+        "fields": {
+            "word": "пролив",
+            "taboo_word_1": "бухта",
+            "taboo_word_2": "лагуна",
+            "taboo_word_3": "гавань",
+            "taboo_word_4": "Берингов",
+            "taboo_word_5": "суша"
+        }
+    },
+    {
+        "pk": 398,
+        "model": "game.Word",
+        "fields": {
+            "word": "архипелаг",
+            "taboo_word_1": "остров",
+            "taboo_word_2": "залив",
+            "taboo_word_3": "материк",
+            "taboo_word_4": "ГУЛАГ",
+            "taboo_word_5": "круиз"
+        }
+    },
+    {
+        "pk": 399,
+        "model": "game.Word",
+        "fields": {
+            "word": "экватор",
+            "taboo_word_1": "карта",
+            "taboo_word_2": "меридиан",
+            "taboo_word_3": "полюс",
+            "taboo_word_4": "глобус",
+            "taboo_word_5": "миновать"
+        }
+    },
+    {
+        "pk": 400,
+        "model": "game.Word",
+        "fields": {
+            "word": "алфавит",
+            "taboo_word_1": "буква",
+            "taboo_word_2": "греческий",
+            "taboo_word_3": "азбука",
+            "taboo_word_4": "учить",
+            "taboo_word_5": "школа"
+        }
+    },
+    {
+        "pk": 401,
+        "model": "game.Word",
+        "fields": {
+            "word": "эпос",
+            "taboo_word_1": "героический",
+            "taboo_word_2": "лирический",
+            "taboo_word_3": "народный",
+            "taboo_word_4": "мифология",
+            "taboo_word_5": "фольклор"
+        }
+    },
+    {
+        "pk": 402,
+        "model": "game.Word",
+        "fields": {
+            "word": "антагонист",
+            "taboo_word_1": "герой",
+            "taboo_word_2": "враг",
+            "taboo_word_3": "злодей",
+            "taboo_word_4": "антипод",
+            "taboo_word_5": "книга"
+        }
+    },
+    {
+        "pk": 403,
+        "model": "game.Word",
+        "fields": {
+            "word": "персонаж",
+            "taboo_word_1": "герой",
+            "taboo_word_2": "лирический",
+            "taboo_word_3": "книга",
+            "taboo_word_4": "фильм",
+            "taboo_word_5": "образ"
+        }
+    },
+    {
+        "pk": 404,
+        "model": "game.Word",
+        "fields": {
+            "word": "метафора",
+            "taboo_word_1": "прием",
+            "taboo_word_2": "литература",
+            "taboo_word_3": "выразительность",
+            "taboo_word_4": "эпитет",
+            "taboo_word_5": "олицетворение"
+        }
+    },
+    {
+        "pk": 405,
+        "model": "game.Word",
+        "fields": {
+            "word": "аллегория",
+            "taboo_word_1": "иносказание",
+            "taboo_word_2": "символ",
+            "taboo_word_3": "книга",
+            "taboo_word_4": "метафора",
+            "taboo_word_5": "образ"
+        }
+    },
+    {
+        "pk": 406,
+        "model": "game.Word",
+        "fields": {
+            "word": "сарказм",
+            "taboo_word_1": "ирония",
+            "taboo_word_2": "едкий",
+            "taboo_word_3": "колкость",
+            "taboo_word_4": "насмешка",
+            "taboo_word_5": "издевка"
+        }
+    },
+    {
+        "pk": 407,
+        "model": "game.Word",
+        "fields": {
+            "word": "интуиция",
+            "taboo_word_1": "предвидеть",
+            "taboo_word_2": "предосторожность",
+            "taboo_word_3": "чувствовать",
+            "taboo_word_4": "глаз",
+            "taboo_word_5": "будущее"
+        }
+    },
+    {
+        "pk": 408,
+        "model": "game.Word",
+        "fields": {
+            "word": "подсознание",
+            "taboo_word_1": "интуиция",
+            "taboo_word_2": "мысли",
+            "taboo_word_3": "психика",
+            "taboo_word_4": "могз",
+            "taboo_word_5": "разум"
+        }
+    },
+    {
+        "pk": 409,
+        "model": "game.Word",
+        "fields": {
+            "word": "концепция",
+            "taboo_word_1": "идея",
+            "taboo_word_2": "понятие",
+            "taboo_word_3": "теория",
+            "taboo_word_4": "образ",
+            "taboo_word_5": "философия"
+        }
+    },
+    {
+        "pk": 410,
+        "model": "game.Word",
+        "fields": {
+            "word": "этика",
+            "taboo_word_1": "культура",
+            "taboo_word_2": "наука",
+            "taboo_word_3": "нормы",
+            "taboo_word_4": "правила",
+            "taboo_word_5": "ценности"
+        }
+    },
+    {
+        "pk": 411,
+        "model": "game.Word",
+        "fields": {
+            "word": "добродетель",
+            "taboo_word_1": "зло",
+            "taboo_word_2": "мораль",
+            "taboo_word_3": "нормы",
+            "taboo_word_4": "правила",
+            "taboo_word_5": "ценности"
+        }
+    },
+    {
+        "pk": 412,
+        "model": "game.Word",
+        "fields": {
+            "word": "мотивация",
+            "taboo_word_1": "двигатель",
+            "taboo_word_2": "желание",
+            "taboo_word_3": "стимул",
+            "taboo_word_4": "энергия",
+            "taboo_word_5": "работа"
+        }
+    },
+    {
+        "pk": 413,
+        "model": "game.Word",
+        "fields": {
+            "word": "дизайн",
+            "taboo_word_1": "оригинальный",
+            "taboo_word_2": "карандаш",
+            "taboo_word_3": "мода",
+            "taboo_word_4": "эскиз",
+            "taboo_word_5": "набросок"
+        }
+    },
+    {
+        "pk": 414,
+        "model": "game.Word",
+        "fields": {
+            "word": "текстура",
+            "taboo_word_1": "материя",
+            "taboo_word_2": "поверхность",
+            "taboo_word_3": "чувство",
+            "taboo_word_4": "ощущение",
+            "taboo_word_5": "графика"
+        }
+    },
+    {
+        "pk": 415,
+        "model": "game.Word",
+        "fields": {
+            "word": "композиция",
+            "taboo_word_1": "рисунок",
+            "taboo_word_2": "элементы",
+            "taboo_word_3": "картина",
+            "taboo_word_4": "построение",
+            "taboo_word_5": "художественный"
+        }
+    },
+    {
+        "pk": 416,
+        "model": "game.Word",
+        "fields": {
+            "word": "светотень",
+            "taboo_word_1": "рисунок",
+            "taboo_word_2": "элементы",
+            "taboo_word_3": "картина",
+            "taboo_word_4": "художник",
+            "taboo_word_5": "контраст"
+        }
+    },
+    {
+        "pk": 417,
+        "model": "game.Word",
+        "fields": {
+            "word": "палитра",
+            "taboo_word_1": "кисть",
+            "taboo_word_2": "колорит",
+            "taboo_word_3": "художник",
+            "taboo_word_4": "цвет",
+            "taboo_word_5": "смешение"
+        }
+    },
+    {
+        "pk": 418,
+        "model": "game.Word",
+        "fields": {
+            "word": "пластик",
+            "taboo_word_1": "гибкий",
+            "taboo_word_2": "крышка",
+            "taboo_word_3": "бутылка",
+            "taboo_word_4": "материал",
+            "taboo_word_5": "пакет"
+        }
+    },
+    {
+        "pk": 419,
+        "model": "game.Word",
+        "fields": {
+            "word": "подиум",
+            "taboo_word_1": "демонстрировать",
+            "taboo_word_2": "сцена",
+            "taboo_word_3": "мода",
+            "taboo_word_4": "показ",
+            "taboo_word_5": "дефиле"
+        }
+    },
+    {
+        "pk": 420,
+        "model": "game.Word",
+        "fields": {
+            "word": "тренд",
+            "taboo_word_1": "тикток",
+            "taboo_word_2": "популярный",
+            "taboo_word_3": "мода",
+            "taboo_word_4": "новый",
+            "taboo_word_5": "стиль"
+        }
+    },
+    {
+        "pk": 421,
+        "model": "game.Word",
+        "fields": {
+            "word": "бренд",
+            "taboo_word_1": "марка",
+            "taboo_word_2": "логотип",
+            "taboo_word_3": "компания",
+            "taboo_word_4": "товар",
+            "taboo_word_5": "реклама"
+        }
+    },
+    {
+        "pk": 422,
+        "model": "game.Word",
+        "fields": {
+            "word": "логотип",
+            "taboo_word_1": "бренд",
+            "taboo_word_2": "символ",
+            "taboo_word_3": "компания",
+            "taboo_word_4": "фирма",
+            "taboo_word_5": "эмблема"
+        }
+    },
+    {
+        "pk": 423,
+        "model": "game.Word",
+        "fields": {
+            "word": "маркетинг",
+            "taboo_word_1": "реклама",
+            "taboo_word_2": "продвижение",
+            "taboo_word_3": "компания",
+            "taboo_word_4": "продажи",
+            "taboo_word_5": "товар"
+        }
+    },
+    {
+        "pk": 424,
+        "model": "game.Word",
+        "fields": {
+            "word": "купюра",
+            "taboo_word_1": "деньги",
+            "taboo_word_2": "монета",
+            "taboo_word_3": "банк",
+            "taboo_word_4": "бумага",
+            "taboo_word_5": "валюта"
+        }
+    },
+    {
+        "pk": 425,
+        "model": "game.Word",
+        "fields": {
+            "word": "инвестиция",
+            "taboo_word_1": "компания",
+            "taboo_word_2": "деньги",
+            "taboo_word_3": "капитал",
+            "taboo_word_4": "вложение",
+            "taboo_word_5": "бизнес"
+        }
+    },
+    {
+        "pk": 426,
+        "model": "game.Word",
+        "fields": {
+            "word": "дивиденд",
+            "taboo_word_1": "компания",
+            "taboo_word_2": "прибыль",
+            "taboo_word_3": "инвестор",
+            "taboo_word_4": "бизнес",
+            "taboo_word_5": "процент"
+        }
+    },
+    {
+        "pk": 427,
+        "model": "game.Word",
+        "fields": {
+            "word": "конкуренция",
+            "taboo_word_1": "оппозиция",
+            "taboo_word_2": "компания",
+            "taboo_word_3": "рынок",
+            "taboo_word_4": "соперник",
+            "taboo_word_5": "борьба"
+        }
+    },
+    {
+        "pk": 428,
+        "model": "game.Word",
+        "fields": {
+            "word": "монополия",
+            "taboo_word_1": "синдикат",
+            "taboo_word_2": "государство",
+            "taboo_word_3": "компания",
+            "taboo_word_4": "власть",
+            "taboo_word_5": "контроль"
+        }
+    },
+    {
+        "pk": 429,
+        "model": "game.Word",
+        "fields": {
+            "word": "арматура",
+            "taboo_word_1": "каркас",
+            "taboo_word_2": "прут",
+            "taboo_word_3": "стержень",
+            "taboo_word_4": "строить",
+            "taboo_word_5": "прочность"
+        }
+    },
+    {
+        "pk": 430,
+        "model": "game.Word",
+        "fields": {
+            "word": "лифчик",
+            "taboo_word_1": "лямка",
+            "taboo_word_2": "грудь",
+            "taboo_word_3": "топ",
+            "taboo_word_4": "бюстгалтер",
+            "taboo_word_5": "белье"
+        }
+    },
+    {
+        "pk": 431,
+        "model": "game.Word",
+        "fields": {
+            "word": "гостиная",
+            "taboo_word_1": "столовая",
+            "taboo_word_2": "камин",
+            "taboo_word_3": "принять",
+            "taboo_word_4": "зал",
+            "taboo_word_5": "комната"
+        }
+    },
+    {
+        "pk": 432,
+        "model": "game.Word",
+        "fields": {
+            "word": "прихожая",
+            "taboo_word_1": "коридор",
+            "taboo_word_2": "вешалка",
+            "taboo_word_3": "комната",
+            "taboo_word_4": "вход",
+            "taboo_word_5": "шкаф"
+        }
+    },
+    {
+        "pk": 433,
+        "model": "game.Word",
+        "fields": {
+            "word": "терраса",
+            "taboo_word_1": "веранда",
+            "taboo_word_2": "балкон",
+            "taboo_word_3": "улица",
+            "taboo_word_4": "открытый",
+            "taboo_word_5": "сад"
+        }
+    },
+    {
+        "pk": 434,
+        "model": "game.Word",
+        "fields": {
+            "word": "веранда",
+            "taboo_word_1": "беседа",
+            "taboo_word_2": "терраса",
+            "taboo_word_3": "улица",
+            "taboo_word_4": "балкон",
+            "taboo_word_5": "двор"
+        }
+    },
+    {
+        "pk": 435,
+        "model": "game.Word",
+        "fields": {
+            "word": "бордюр",
+            "taboo_word_1": "тротуар",
+            "taboo_word_2": "камень",
+            "taboo_word_3": "поребрик",
+            "taboo_word_4": "бортик",
+            "taboo_word_5": "ограда"
+        }
+    },
+    {
+        "pk": 436,
+        "model": "game.Word",
+        "fields": {
+            "word": "выключатель",
+            "taboo_word_1": "свет",
+            "taboo_word_2": "рубильник",
+            "taboo_word_3": "тумблер",
+            "taboo_word_4": "кнопка",
+            "taboo_word_5": "рычаг"
+        }
+    },
+    {
+        "pk": 437,
+        "model": "game.Word",
+        "fields": {
+            "word": "микроволновка",
+            "taboo_word_1": "греть",
+            "taboo_word_2": "еда",
+            "taboo_word_3": "кухня",
+            "taboo_word_4": "холодильник",
+            "taboo_word_5": "духовка"
+        }
+    },
+    {
+        "pk": 438,
+        "model": "game.Word",
+        "fields": {
+            "word": "зубная щётка",
+            "taboo_word_1": "чистить",
+            "taboo_word_2": "паста",
+            "taboo_word_3": "кариес",
+            "taboo_word_4": "ванная",
+            "taboo_word_5": "утро"
+        }
+    },
+    {
+        "pk": 439,
+        "model": "game.Word",
+        "fields": {
+            "word": "наволочка",
+            "taboo_word_1": "простыня",
+            "taboo_word_2": "постель",
+            "taboo_word_3": "кровать",
+            "taboo_word_4": "спать",
+            "taboo_word_5": "менять"
+        }
+    },
+    {
+        "pk": 440,
+        "model": "game.Word",
+        "fields": {
+            "word": "гардина",
+            "taboo_word_1": "штора",
+            "taboo_word_2": "тюль",
+            "taboo_word_3": "окно",
+            "taboo_word_4": "занавес",
+            "taboo_word_5": "портьера"
+        }
+    },
+    {
+        "pk": 441,
+        "model": "game.Word",
+        "fields": {
+            "word": "карниз",
+            "taboo_word_1": "выступ",
+            "taboo_word_2": "кровля",
+            "taboo_word_3": "пройти",
+            "taboo_word_4": "окно",
+            "taboo_word_5": "штора"
+        }
+    },
+    {
+        "pk": 442,
+        "model": "game.Word",
+        "fields": {
+            "word": "торшер",
+            "taboo_word_1": "читать",
+            "taboo_word_2": "лампа",
+            "taboo_word_3": "светить",
+            "taboo_word_4": "шнур",
+            "taboo_word_5": "плафон"
+        }
+    },
+    {
+        "pk": 443,
+        "model": "game.Word",
+        "fields": {
+            "word": "ночник",
+            "taboo_word_1": "свет",
+            "taboo_word_2": "страх",
+            "taboo_word_3": "дети",
+            "taboo_word_4": "спать",
+            "taboo_word_5": "лампа"
+        }
+    },
+    {
+        "pk": 444,
+        "model": "game.Word",
+        "fields": {
+            "word": "стиральная машина",
+            "taboo_word_1": "стирка",
+            "taboo_word_2": "грязный",
+            "taboo_word_3": "порошок",
+            "taboo_word_4": "прачечная",
+            "taboo_word_5": "одежда"
+        }
+    },
+    {
+        "pk": 445,
+        "model": "game.Word",
+        "fields": {
+            "word": "гладильная доска",
+            "taboo_word_1": "утюг",
+            "taboo_word_2": "мятый",
+            "taboo_word_3": "пар",
+            "taboo_word_4": "горячий",
+            "taboo_word_5": "одежда"
+        }
+    },
+    {
+        "pk": 446,
+        "model": "game.Word",
+        "fields": {
+            "word": "мусорное ведро",
+            "taboo_word_1": "контейнер",
+            "taboo_word_2": "грязь",
+            "taboo_word_3": "отходы",
+            "taboo_word_4": "выбрасывать",
+            "taboo_word_5": "бак"
+        }
+    },
+    {
+        "pk": 447,
+        "model": "game.Word",
+        "fields": {
+            "word": "дверной звонок",
+            "taboo_word_1": "кнопка",
+            "taboo_word_2": "квартира",
+            "taboo_word_3": "вход",
+            "taboo_word_4": "сигнал",
+            "taboo_word_5": "звук"
+        }
+    },
+    {
+        "pk": 448,
+        "model": "game.Word",
+        "fields": {
+            "word": "интерком",
+            "taboo_word_1": "голос",
+            "taboo_word_2": "связь",
+            "taboo_word_3": "сеть",
+            "taboo_word_4": "провод",
+            "taboo_word_5": "система"
+        }
+    },
+    {
+        "pk": 449,
+        "model": "game.Word",
+        "fields": {
+            "word": "смартфон",
+            "taboo_word_1": "телефон",
+            "taboo_word_2": "гаджет",
+            "taboo_word_3": "сенсор",
+            "taboo_word_4": "мобильный",
+            "taboo_word_5": "интернет"
+        }
+    },
+    {
+        "pk": 450,
+        "model": "game.Word",
+        "fields": {
+            "word": "планшет",
+            "taboo_word_1": "смартфон",
+            "taboo_word_2": "ноутбук",
+            "taboo_word_3": "гаджет",
+            "taboo_word_4": "сенсор",
+            "taboo_word_5": "устройство"
+        }
+    },
+    {
+        "pk": 451,
+        "model": "game.Word",
+        "fields": {
+            "word": "ноутбук",
+            "taboo_word_1": "смартфон",
+            "taboo_word_2": "компьютер",
+            "taboo_word_3": "гаджет",
+            "taboo_word_4": "клавиатура",
+            "taboo_word_5": "мышка"
+        }
+    },
+    {
+        "pk": 452,
+        "model": "game.Word",
+        "fields": {
+            "word": "монитор",
+            "taboo_word_1": "дисплей",
+            "taboo_word_2": "изображение",
+            "taboo_word_3": "компьютер",
+            "taboo_word_4": "клавиатура",
+            "taboo_word_5": "мышка"
+        }
+    },
+    {
+        "pk": 453,
+        "model": "game.Word",
+        "fields": {
+            "word": "клавиатура",
+            "taboo_word_1": "компьютер",
+            "taboo_word_2": "кнопка",
+            "taboo_word_3": "мышка",
+            "taboo_word_4": "печатать",
+            "taboo_word_5": "монитор"
+        }
+    },
+    {
+        "pk": 454,
+        "model": "game.Word",
+        "fields": {
+            "word": "объектив",
+            "taboo_word_1": "фокус",
+            "taboo_word_2": "фото",
+            "taboo_word_3": "снимок",
+            "taboo_word_4": "линза",
+            "taboo_word_5": "камера"
+        }
+    },
+    {
+        "pk": 455,
+        "model": "game.Word",
+        "fields": {
+            "word": "штатив",
+            "taboo_word_1": "фотоаппарат",
+            "taboo_word_2": "установить",
+            "taboo_word_3": "держать",
+            "taboo_word_4": "ножки",
+            "taboo_word_5": "снимать"
+        }
+    },
+    {
+        "pk": 456,
+        "model": "game.Word",
+        "fields": {
+            "word": "флешка",
+            "taboo_word_1": "память",
+            "taboo_word_2": "данные",
+            "taboo_word_3": "хранить",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "ноутбук"
+        }
+    },
+    {
+        "pk": 457,
+        "model": "game.Word",
+        "fields": {
+            "word": "жёсткий диск",
+            "taboo_word_1": "память",
+            "taboo_word_2": "хранить",
+            "taboo_word_3": "данные",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "накопитель"
+        }
+    },
+    {
+        "pk": 458,
+        "model": "game.Word",
+        "fields": {
+            "word": "процессор",
+            "taboo_word_1": "кварц",
+            "taboo_word_2": "музыкальный",
+            "taboo_word_3": "ядро",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "мозг"
+        }
+    },
+    {
+        "pk": 459,
+        "model": "game.Word",
+        "fields": {
+            "word": "оперативная память",
+            "taboo_word_1": "данные",
+            "taboo_word_2": "скорость",
+            "taboo_word_3": "процессор",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "хранить"
+        }
+    },
+    {
+        "pk": 460,
+        "model": "game.Word",
+        "fields": {
+            "word": "видеокарта",
+            "taboo_word_1": "дисплей",
+            "taboo_word_2": "экран",
+            "taboo_word_3": "изображение",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "обработка"
+        }
+    },
+    {
+        "pk": 461,
+        "model": "game.Word",
+        "fields": {
+            "word": "материнская плата",
+            "taboo_word_1": "процессор",
+            "taboo_word_2": "питание",
+            "taboo_word_3": "связь",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "оперативная память"
+        }
+    },
+    {
+        "pk": 462,
+        "model": "game.Word",
+        "fields": {
+            "word": "блок питания",
+            "taboo_word_1": "питание",
+            "taboo_word_2": "электричество",
+            "taboo_word_3": "кабель",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "зарядка"
+        }
+    },
+    {
+        "pk": 463,
+        "model": "game.Word",
+        "fields": {
+            "word": "кулер",
+            "taboo_word_1": "вода",
+            "taboo_word_2": "компьютер",
+            "taboo_word_3": "охлаждение",
+            "taboo_word_4": "наливать",
+            "taboo_word_5": "пить"
+        }
+    },
+    {
+        "pk": 464,
+        "model": "game.Word",
+        "fields": {
+            "word": "сканер",
+            "taboo_word_1": "изображение",
+            "taboo_word_2": "устройство",
+            "taboo_word_3": "документ",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "принтер"
+        }
+    },
+    {
+        "pk": 465,
+        "model": "game.Word",
+        "fields": {
+            "word": "модем",
+            "taboo_word_1": "скоростной",
+            "taboo_word_2": "сеть",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "роутер",
+            "taboo_word_5": "Wi-Fi"
+        }
+    },
+    {
+        "pk": 466,
+        "model": "game.Word",
+        "fields": {
+            "word": "роутер",
+            "taboo_word_1": "подключение",
+            "taboo_word_2": "сеть",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "маршрутизатор",
+            "taboo_word_5": "Wi-Fi"
+        }
+    },
+    {
+        "pk": 467,
+        "model": "game.Word",
+        "fields": {
+            "word": "интернет",
+            "taboo_word_1": "браузер",
+            "taboo_word_2": "сеть",
+            "taboo_word_3": "сайт",
+            "taboo_word_4": "онлайн",
+            "taboo_word_5": "Wi-Fi"
+        }
+    },
+    {
+        "pk": 468,
+        "model": "game.Word",
+        "fields": {
+            "word": "сайт",
+            "taboo_word_1": "сервер",
+            "taboo_word_2": "сеть",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "ссылка",
+            "taboo_word_5": "домен"
+        }
+    },
+    {
+        "pk": 469,
+        "model": "game.Word",
+        "fields": {
+            "word": "приложение",
+            "taboo_word_1": "телефон",
+            "taboo_word_2": "программа",
+            "taboo_word_3": "скачать",
+            "taboo_word_4": "установить",
+            "taboo_word_5": "обновить"
+        }
+    },
+    {
+        "pk": 470,
+        "model": "game.Word",
+        "fields": {
+            "word": "алгоритм",
+            "taboo_word_1": "нейросеть",
+            "taboo_word_2": "модель",
+            "taboo_word_3": "решить",
+            "taboo_word_4": "схема",
+            "taboo_word_5": "программирование"
+        }
+    },
+    {
+        "pk": 471,
+        "model": "game.Word",
+        "fields": {
+            "word": "база данных",
+            "taboo_word_1": "отчет",
+            "taboo_word_2": "таблица",
+            "taboo_word_3": "хранить",
+            "taboo_word_4": "информация",
+            "taboo_word_5": "SQL"
+        }
+    },
+    {
+        "pk": 472,
+        "model": "game.Word",
+        "fields": {
+            "word": "сервер",
+            "taboo_word_1": "данные",
+            "taboo_word_2": "сеть",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "подключение",
+            "taboo_word_5": "хостинг"
+        }
+    },
+    {
+        "pk": 473,
+        "model": "game.Word",
+        "fields": {
+            "word": "облачное хранилище",
+            "taboo_word_1": "данные",
+            "taboo_word_2": "файлы",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "доступ",
+            "taboo_word_5": "онлайн"
+        }
+    },
+    {
+        "pk": 474,
+        "model": "game.Word",
+        "fields": {
+            "word": "логин",
+            "taboo_word_1": "пароль",
+            "taboo_word_2": "аккаунт",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "сайт",
+            "taboo_word_5": "регистрация"
+        }
+    },
+    {
+        "pk": 475,
+        "model": "game.Word",
+        "fields": {
+            "word": "аккаунт",
+            "taboo_word_1": "данные",
+            "taboo_word_2": "логин",
+            "taboo_word_3": "пароль",
+            "taboo_word_4": "соцсеть",
+            "taboo_word_5": "блог"
+        }
+    },
+    {
+        "pk": 476,
+        "model": "game.Word",
+        "fields": {
+            "word": "электронная почта",
+            "taboo_word_1": "письмо",
+            "taboo_word_2": "сообщение",
+            "taboo_word_3": "пароль",
+            "taboo_word_4": "спам",
+            "taboo_word_5": "email"
+        }
+    },
+    {
+        "pk": 477,
+        "model": "game.Word",
+        "fields": {
+            "word": "чат",
+            "taboo_word_1": "сообщение",
+            "taboo_word_2": "переписка",
+            "taboo_word_3": "онлайн",
+            "taboo_word_4": "общение",
+            "taboo_word_5": "диалог"
+        }
+    },
+    {
+        "pk": 478,
+        "model": "game.Word",
+        "fields": {
+            "word": "блог",
+            "taboo_word_1": "аккаунт",
+            "taboo_word_2": "публикация",
+            "taboo_word_3": "интернет",
+            "taboo_word_4": "видео",
+            "taboo_word_5": "подписка"
+        }
+    },
+    {
+        "pk": 479,
+        "model": "game.Word",
+        "fields": {
+            "word": "комментарий",
+            "taboo_word_1": "подписка",
+            "taboo_word_2": "лайк",
+            "taboo_word_3": "репост",
+            "taboo_word_4": "ответ",
+            "taboo_word_5": "писать"
+        }
+    },
+    {
+        "pk": 480,
+        "model": "game.Word",
+        "fields": {
+            "word": "лайк",
+            "taboo_word_1": "пост",
+            "taboo_word_2": "комментарий",
+            "taboo_word_3": "репост",
+            "taboo_word_4": "реакция",
+            "taboo_word_5": "сердечко"
+        }
+    },
+    {
+        "pk": 481,
+        "model": "game.Word",
+        "fields": {
+            "word": "подписка",
+            "taboo_word_1": "журнал",
+            "taboo_word_2": "платить",
+            "taboo_word_3": "блог",
+            "taboo_word_4": "соцсеть",
+            "taboo_word_5": "канал"
+        }
+    },
+    {
+        "pk": 482,
+        "model": "game.Word",
+        "fields": {
+            "word": "репост",
+            "taboo_word_1": "блог",
+            "taboo_word_2": "лайк",
+            "taboo_word_3": "комментарий",
+            "taboo_word_4": "делиться",
+            "taboo_word_5": "пост"
+        }
+    },
+    {
+        "pk": 483,
+        "model": "game.Word",
+        "fields": {
+            "word": "хештег",
+            "taboo_word_1": "пост",
+            "taboo_word_2": "лайк",
+            "taboo_word_3": "репост",
+            "taboo_word_4": "решётка",
+            "taboo_word_5": "фото"
+        }
+    },
+    {
+        "pk": 484,
+        "model": "game.Word",
+        "fields": {
+            "word": "тролль",
+            "taboo_word_1": "гном",
+            "taboo_word_2": "комментарий",
+            "taboo_word_3": "мост",
+            "taboo_word_4": "пост",
+            "taboo_word_5": "оскорбление"
+        }
+    },
+    {
+        "pk": 485,
+        "model": "game.Word",
+        "fields": {
+            "word": "бот",
+            "taboo_word_1": "программа",
+            "taboo_word_2": "чат",
+            "taboo_word_3": "виртуальный",
+            "taboo_word_4": "помощь",
+            "taboo_word_5": "соцсеть"
+        }
+    },
+    {
+        "pk": 486,
+        "model": "game.Word",
+        "fields": {
+            "word": "антивирус",
+            "taboo_word_1": "программа",
+            "taboo_word_2": "защита",
+            "taboo_word_3": "компьютер",
+            "taboo_word_4": "безопасность",
+            "taboo_word_5": "данные"
+        }
+    },
+    {
+        "pk": 487,
+        "model": "game.Word",
+        "fields": {
+            "word": "файервол",
+            "taboo_word_1": "программа",
+            "taboo_word_2": "защита",
+            "taboo_word_3": "доступ",
+            "taboo_word_4": "сеть",
+            "taboo_word_5": "фильтрация"
+        }
+    },
+    {
+        "pk": 488,
+        "model": "game.Word",
+        "fields": {
+            "word": "шифрование",
+            "taboo_word_1": "Цезарь",
+            "taboo_word_2": "код",
+            "taboo_word_3": "защита",
+            "taboo_word_4": "данные",
+            "taboo_word_5": "ключ"
+        }
+    },
+    {
+        "pk": 489,
+        "model": "game.Word",
+        "fields": {
+            "word": "дешифровка",
+            "taboo_word_1": "преобразование",
+            "taboo_word_2": "ключ",
+            "taboo_word_3": "декодирование",
+            "taboo_word_4": "анализ",
+            "taboo_word_5": "обратный"
+        }
+    },
+    {
+        "pk": 490,
+        "model": "game.Word",
+        "fields": {
+            "word": "хакер",
+            "taboo_word_1": "взлом",
+            "taboo_word_2": "аккаунт",
+            "taboo_word_3": "вирус",
+            "taboo_word_4": "компьютер",
+            "taboo_word_5": "безопасность"
+        }
+    },
+    {
+        "pk": 491,
+        "model": "game.Word",
+        "fields": {
+            "word": "программист",
+            "taboo_word_1": "IT",
+            "taboo_word_2": "инженер",
+            "taboo_word_3": "код",
+            "taboo_word_4": "разработчик",
+            "taboo_word_5": "алгоритм"
+        }
+    },
+    {
+        "pk": 492,
+        "model": "game.Word",
+        "fields": {
+            "word": "дизайнер",
+            "taboo_word_1": "мода",
+            "taboo_word_2": "одежда",
+            "taboo_word_3": "интерьер",
+            "taboo_word_4": "ландшафтный",
+            "taboo_word_5": "рисовать"
+        }
+    },
+    {
+        "pk": 493,
+        "model": "game.Word",
+        "fields": {
+            "word": "маркетолог",
+            "taboo_word_1": "реклама",
+            "taboo_word_2": "продажи",
+            "taboo_word_3": "аналитика",
+            "taboo_word_4": "продвижение",
+            "taboo_word_5": "таргет"
+        }
+    },
+    {
+        "pk": 494,
+        "model": "game.Word",
+        "fields": {
+            "word": "гид",
+            "taboo_word_1": "экскурсовод",
+            "taboo_word_2": "тур",
+            "taboo_word_3": "путешествие",
+            "taboo_word_4": "рассказывать",
+            "taboo_word_5": "музей"
+        }
+    },
+    {
+        "pk": 495,
+        "model": "game.Word",
+        "fields": {
+            "word": "болельщик",
+            "taboo_word_1": "спорт",
+            "taboo_word_2": "фанат",
+            "taboo_word_3": "трибуна",
+            "taboo_word_4": "матч",
+            "taboo_word_5": "кричать"
+        }
+    },
+    {
+        "pk": 496,
+        "model": "game.Word",
+        "fields": {
+            "word": "дошкольник",
+            "taboo_word_1": "ученик",
+            "taboo_word_2": "игра",
+            "taboo_word_3": "сад",
+            "taboo_word_4": "ребенок",
+            "taboo_word_5": "детство"
+        }
+    }
+]

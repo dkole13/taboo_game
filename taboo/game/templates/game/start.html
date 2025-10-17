@@ -1,0 +1,45 @@
+{% load static %}
+{% csrf_token %}
+
+<!DOCTYPE html>
+
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ТАБУ</title>
+        <link type="text/css" href="{% static 'game/css/cardStyles.css' %}" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="game-container">
+            <div class="card">
+
+                <div class="top-rectangle" id="current-word">Слово</div>
+
+                <div class="words">
+                    <div class="word" id="taboo-word-1">слово1</div>
+                    <div class="word" id="taboo-word-2">слово2</div>
+                    <div class="word" id="taboo-word-3">слово3</div>
+                    <div class="word" id="taboo-word-4">слово4</div>
+                    <div class="word" id="taboo-word-5">слово5</div>
+                </div>
+          </div>
+
+          <div class="buttons">
+              <button class="skip-btn" id="skip-btn">Пропустить</button>
+              <button class="found-btn" id="found-btn">Отгадано</button>
+          </div>
+        </div>
+
+        <div class="timer-container" id="timer">01:00</div>
+
+        <div class="score-container" id="score-container">
+            <p class="red-score">Красные: <span id="red-score">0</span></p>
+            <p class="blue-score">Синие: <span id="blue-score">0</span></p>
+        </div>
+
+        <script src="{% static 'game/js/changeWordCard.js' %}"></script>
+    </body>
+
+</html>

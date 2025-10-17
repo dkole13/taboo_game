@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>ТАБУ</title>
+    <link type="text/css" href="{% static 'game/css/homeStyles.css' %}" rel="stylesheet">
+</head>
+<body>
+    <div id="startBlock">
+        <h1 class="title">
+            <span class="blue">Т</span>
+            <span class="blue">А</span>
+            <span class="red">Б</span>
+            <span class="red">У</span>
+        </h1>
+        <button class="start-btn" id="startButton" onclick="ShowRules()">Начать!</button>
+    </div>
+
+    <div id="rulesBlock" style="display: none;">
+        <h1>Поделитесь поровну на 2 команды: красные и синие — и сядьте через одного</h1>
+        <button class="start-btn" id="readyButton" onclick="window.location.href='{% url 'start' %}'">Начать!</button>
+    </div>
+
+    <script src="{% static 'game/js/buttonsActions.js' %}"></script>
+
+</body>
+</html>
