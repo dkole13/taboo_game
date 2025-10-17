@@ -1,0 +1,14 @@
+{
+    "seed_urls": ["http://tesaurus.std-555.ist.mospolytech.ru/dict/"],
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Accept-Language": "ru,en;q=0.9,fr;q=0.8",
+        "Cookie": "_ym_uid=1760283078160877079; _ym_d=1760283078; _ym_visorc=w; _ym_isad=2"
+    },
+    "total_words_to_find_and_parse": 10,
+    "encoding": "UTF-8",
+    "timeout": 10,
+    "should_verify_certificate": true,
+    "headless_mode": true
+}

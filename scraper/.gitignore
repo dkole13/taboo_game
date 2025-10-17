@@ -1,0 +1,47 @@
+# Python специфичные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+
+# Файлы конфигурации IDE и редакторов
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Базы данных
+db.sqlite3
+
+# Файлы миграций
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Логи
+*.log
+
+# Статические файлы и кэш
+/staticfiles/
+/static/
+/media/
+
+# Файлы конфигурации окружения
+.env
+*.env
+
+# Файлы тестов и отчеты
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Temporary files
+*.swp
+*.bak
