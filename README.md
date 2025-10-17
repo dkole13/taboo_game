@@ -1,4 +1,5 @@
 # Taboo Documentation
+> [Full documentation with screenshots](https://docs.google.com/document/d/10XWVRf6OVJre2IPZ-Uhs2tG06eGBGzqcVMSvnnUMKHM/edit?tab=t.0)
 
 ## General information
 
